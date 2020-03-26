@@ -1,0 +1,91 @@
+
+@font-face {
+    font-family: 'aansa';
+    src: url('../fonts/aansa.woff') format('woff');
+    font-weight: normal; font-style: normal;
+}
+@font-face {
+    font-family: 'dejavu_sans_monobook';
+    src: url('../fonts/DejaVuSansMono-webfont.woff') format('woff');
+    font-weight: normal; font-style: normal;
+}
+@font-face {
+    font-family: 'DejaVuSansExtraLight';
+    src: url('../fonts/DejaVuSans-ExtraLight.woff') format('woff');
+    font-weight: normal; font-style: normal;
+}
+
+body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; height: 100%; padding: 0; margin: 0 }
+h2{font-size:2.6em; font-weight:bold}
+h3{font:normal 3em "DejaVuSansExtraLight", Arial, Helvetica, sans-serif; }
+h2, h3{ margin: 10px 0 0 0}
+
+.btn{box-shadow:inset 0 0 15px 3px #da3e00; background: #ff4800; padding:10px 15px; text-transform: uppercase;
+    color:#fff; border-radius: 40px; text-decoration: none; font-size:2.3em; font-weight: bold ; text-align: center;
+    transition: box-shadow 2s;}
+
+header{ background:#fff; height:135px;  }
+header div{ max-width:1365px; margin: 0 auto; display: flex;  }
+header h1{margin-left:70px}
+header img{max-width: 100%}
+
+.banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
+#banner{max-width:1365px; margin: 0 auto; display: flex; height: 523px; overflow: hidden; flex-wrap: wrap; justify-content: space-between;}
+#banner .btn{margin: 347px 85px; display: inline-block;}
+.info{text-align: right; color: #fff; padding: 100px 50px 0 0}
+.info span{font: normal 8em "aansa", Arial, Helvetica, sans-serif; height: 80px; display: inline-block; overflow: hidden;}
+
+#content{color: #fff; text-align: center}
+#content div{
+    background: rgb(139,40,3);
+    background: linear-gradient(90deg, rgba(139,40,3,1) 0%, rgba(139,40,3,1) 61%, rgba(47,32,29,1) 100%);
+    margin-top: -6px;
+}
+#content p {max-width:845px; margin: 0 auto; padding: 20px 500px 20px 20px; position: relative; text-align: left}
+#content p img{position: absolute; right: 0; top:-270px}
+
+#badges{color:#ff4800; font-size: 1.8em; font-weight: bold}
+#badges div{max-width:1365px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; }
+#badges dd{margin:0;}
+#badges dt{text-align: center; margin-top: -17px;}
+
+#green-ban{background:url("../images/chainedespuys.jpg") no-repeat center top;
+    background-size:cover; color: #fff; min-height:190px; text-align: center; padding-top: 141px;  }
+#green-ban h4{margin-bottom: 100px}
+
+#logo ul{padding: 20px 0; max-width:1365px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; }
+#logo li{list-style: none}
+
+.map-responsive {overflow:hidden;  padding-bottom:450px; position:relative; height:0;  }
+.map-responsive iframe {left:0; top:0; width:100%; position:absolute;  }
+
+footer p{font-size:0.75em; max-width:1365px; margin: 0 auto; text-align:right; padding: 20px  }
+footer a{color:#000;}
+footer a:hover{text-decoration:none}
+
+
+/** media queries **/
+
+@media screen and (max-width: 1055px){
+    h2{font-size:1.8em;}
+    h3{font:normal 2em "DejaVuSansExtraLight", Arial, Helvetica, sans-serif; }
+    .btn{font-size:1.8em; }
+    #content p{max-width:1145px; padding: 20px 200px 20px 20px; }
+}
+@media screen and (max-width: 875px){
+    header h1{margin-left:0; text-align:center; display: block; width: 100% }
+    #banner{height:775px; text-align: center}
+    #banner div{width: 100%}
+    #banner .btn{margin: 300px 0 20px 0}
+    .info{padding: 145px 20px 0 0}
+}
+@media screen and (max-width: 640px){
+    #content p img{width:234px; top:-170px}
+    #content p {max-width:100%; padding:20px}
+    #green-ban h4{font:normal 3em "aansa", Arial, Helvetica, sans-serif;}
+}
+@media screen and (max-width: 430px){
+    footer p{padding:10px 0; text-align:center;}
+    header{padding:0 10px}
+}
+

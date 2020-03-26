@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Volcamp.io</title>
+    <meta name="Keywords" content="" />
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="images/favicon/safari-pinned-tab.svg" color="#333333">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="msapplication-config" content="images/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+
+<header>
+    <div>
+        <h1><a href="#"><img src="images/logo.png" alt="logo volcamp"/></a></h1>
+    </div>
+</header>
+<section class="banner">
+    <div id="banner">
+        <div>
+            <a href="#" class="btn">Coming soon</a>
+        </div>
+        <div class="info">
+            <span id="days"></span>
+            <h2>15, 16 OCTOBRE 2020</h2>
+            <h3>Hall 32 - Clermont-fd</h3>
+        </div>
+    </div>
+</section>
+<section id="content">
+    <img src="images/hall32.jpg" alt="hall 32" class="banner" />
+    <div>
+        <p>
+            <strong>Volcamp</strong> c'est la première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
+            <img src="images/volcan.png" alt="volcan"/>
+        </p>
+    </div>
+
+</section>
+<section id="badges">
+    <div>
+        <dl>
+            <dd><img src="images/participants.png" alt="250 participants" /></dd>
+            <dt>participants</dt>
+        </dl>
+        <dl>
+            <dd><img src="images/speakers.png" alt="30 speakers" /></dd>
+            <dt>speakers</dt>
+        </dl>
+        <dl>
+            <dd><img src="images/terroir.png" alt="100% terroir" /></dd>
+            <dt>terroir</dt>
+        </dl>
+    </div>
+</section>
+<section id="green-ban">
+    <a href="#" class="btn">coming sonn > proposer un talk</a>
+</section>
+<section id="logo">
+    <ul>
+        <li><img src="images/sopra.png" alt="logo sopra steria"/></li>
+        <li><img src="images/michelin.png" alt="logo michelin"/></li>
+        <li><img src="images/clermont.png" alt="logo clermont-ferrand"/></li>
+        <li><img src="images/region.png" alt="logo region auvergne rhone-alpes"/></li>
+    </ul>
+</section>
+<section class="map-responsive">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.0288481410394!2d3.1033946159694747!3d45.79064977910623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f7192e32f7de63%3A0xfba5b42e42a6b1c6!2sHall32!5e0!3m2!1sfr!2sfr!4v1584201754205!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</section>
+<footer>
+    <p>Copyright © volcamp.io - 2020 - <a href="#">Mentions Légales</a></p>
+</footer>
+
+<!-- include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript">
+    function makeTimer() {
+        var endTime = new Date("15 October 2020");
+        endTime = (Date.parse(endTime) / 1000);
+
+        var now = new Date();
+        now = (Date.parse(now) / 1000);
+
+        var timeLeft = endTime - now;
+        var days = Math.floor(timeLeft / 86400);
+        $("#days").html("J-"+days );
+    }
+    setInterval(function() { makeTimer(); }, 1000);
+</script>
+
+
+</body>
+</html>
