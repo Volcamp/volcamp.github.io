@@ -49,6 +49,43 @@ header img{max-width: 100%}
 #badges dd{margin:0;}
 #badges dt{text-align: center; margin-top: -17px;}
 
+#sponsorgold{color: #fff; text-align: center}
+#sponsorgold div{
+    background: rgb(218,165,32)    ;
+    background: linear-gradient(90deg, rgb(255,215,0) 0%, rgb(218,165,32) 61%,rgb(240,230,140) 100%);
+    margin-top: -6px;
+}
+
+#sponsorbronze{color: #fff; text-align: center}
+#sponsorbronze div{
+    background: rgb(153,101,21)   ;
+    background: linear-gradient(90deg, rgb(205,133,63) 0%, rgb(153,101,21) 61%,rgb(240,230,140) 100%);
+    margin-top: -6px;
+}
+
+#contentkeynote{color: #fff; text-align: center}
+#contentkeynote div{
+    background: rgb(79,153,63);
+    background: linear-gradient(90deg, rgba(101,198,96,1) 0%, rgba(79,153,63,1) 61%, rgba(60,130,47,1) 100%);
+    margin-top: -6px;
+}
+
+#speakers img{border-radius: 50%;width: 150px;margin: 30px;opacity: 1;
+    display: block;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;}
+#speakers middle{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+  }
+#speakers td{height: 100%; padding: 0; margin: 5px}
+
 #green-ban{background:url("../images/chainedespuys.jpg") no-repeat center top;
     background-size:cover; color: #fff; min-height:190px; text-align: center; padding-top: 141px;  }
 #green-ban h4{margin-bottom: 100px}
