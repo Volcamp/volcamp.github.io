@@ -8,7 +8,7 @@
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
         {% if sponsor[1].level == 'gold' %}
-        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        <li><img src=images/sponsors/"{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
         {% endif %}
     {% endfor %}
 </ul></section>
@@ -17,7 +17,7 @@
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
         {% if sponsor[1].level == 'silver' %}
-        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        <li><img src="images/sponsors/{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
         {% endif %}
     {% endfor %}
 </ul></section>
@@ -26,7 +26,7 @@
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
         {% if sponsor[1].level == 'bronze' %}
-        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        <li><img src="images/sponsors/{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
         {% endif %}
     {% endfor %}
 </ul></section>

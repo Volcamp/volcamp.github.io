@@ -1,20 +1,20 @@
 cleverCloud:
   name: Clever Cloud
   url: http://braincube.com/
-  logo: images/clever_cloud.png
+  logo: clever_cloud.png
   level : bronze
 beys:
   name : be-ys group
   url: http://www.be-ys.com
-  logo: images/beys.jpg
+  logo: beys.jpg
   level : gold
 oracle:
   name: oracle
   url: http://www.oracle.com/
-  logo: images/beys.jpg
+  logo: oracle_rouge.png
   level : silver
 thea:
-  name: Laboratoire Théa
+  name: Laboratoires Théa
   url: http://thea.com/
-  logo: images/thea.jpg
+  logo: thea.jpg
   level : bronze
