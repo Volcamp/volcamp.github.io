@@ -30,7 +30,7 @@ header img{max-width: 100%}
 
 header div nav {float: right;}
 header div nav a{
-    color:#ff4800;
+    color:#4F993F;
     line-height: 230px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -41,7 +41,7 @@ header div nav a{
     text-decoration: none;
 }
 header div nav a:hover{
-    color:#aa3608;
+    color:#6FC660;
 }
 .banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
 #banner{max-width:1365px; margin: 0 auto; height: 523px; }
