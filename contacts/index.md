@@ -45,4 +45,4 @@ title: Volcamp.io - Contactez-nous
             <li>LinkedIn: https://www.linkedin.com/company/volcampio</li>
         </ul>
     </div>
-<section>
+</section>
