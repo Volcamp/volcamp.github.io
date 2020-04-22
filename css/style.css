@@ -28,13 +28,13 @@ header div{ max-width:1365px; margin: 0 auto; display: flex;  }
 header h1{margin-left:70px}
 header img{max-width: 100%}
 
-.header nav {float: right;}
-.header nav a{
+.header div nav {float: right;}
+.header div nav a{
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
 }
-.header nav a {
+.header div nav a {
     color: #aaa;
     font-weight: 700;
     margin: 0 0 0 20px;
