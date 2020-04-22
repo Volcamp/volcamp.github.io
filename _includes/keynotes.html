@@ -6,7 +6,7 @@
         <table>
             {% for speaker in site.data.speakers %}
                 {% if speaker[1].keynote %}
-                <tr><td><img src="images/speakers/{{ speaker[1].photo }}" alt="{{ speaker[1].name }}" /></td><td><strong>{{ speaker[1].name }}</strong>strong> {{ speaker[1].bio }}</td></tr>
+                <tr><td><img src="images/speakers/{{ speaker[1].photo }}" alt="{{ speaker[1].name }}" /></td><td><strong>{{ speaker[1].name }}</strong> {{ speaker[1].bio }}</td></tr>
                 {% endif %}
             {% endfor %}
         </table>
