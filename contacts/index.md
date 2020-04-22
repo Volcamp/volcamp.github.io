@@ -41,8 +41,8 @@ title: Volcamp.io - Contactez-nous
         Vous pouvez également nous suivre et nous contacter sur :
         </p>
         <ul>
-            <li>Twitter: https://twitter.com/VolcampIO</li>
-            <li>LinkedIn: https://www.linkedin.com/company/volcampio</li>
+            <li>Twitter: <a href="https://twitter.com/VolcampIO">https://twitter.com/VolcampIO</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/company/volcampio">https://www.linkedin.com/company/volcampio</a></li>
         </ul>
     </div>
 </section>
