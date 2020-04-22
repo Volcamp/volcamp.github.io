@@ -31,7 +31,6 @@ header img{max-width: 100%;margin-left: 5px;margin-top: 1px;}
 header div nav {float: right;height: 139px;margin-right:5px;margin-top:20px;}
 header div nav a{
     color:#4F993F;
-    line-height: 230px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
