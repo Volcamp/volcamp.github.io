@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 ---
 
 ## Qu’est ce que le Lava JUG ?
