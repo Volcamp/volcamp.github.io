@@ -23,8 +23,7 @@ Volcamp est une conférence IT organisée à Clermont-Fd, FR, organisée par l'a
     <div class="withlocked">
 <p>
 Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand.
-</p>
-<h3>Organisation & Fonctionnement</h3>
+</p>    
 <p>
 L'association est organisée autour d'une collégiale formée de 12 membres représentant divers entreprises, universités et associations du bassin clermontois. 
 </p>
