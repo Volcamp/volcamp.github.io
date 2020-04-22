@@ -25,13 +25,13 @@ Volcamp est une conférence IT organisée à Clermont-Fd, FR, organisée par l'a
 Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand.
 </p>    
 <p>
-L'association est organisée autour d'une collégiale formée de 12 membres représentant divers entreprises, universités et associations du bassin clermontois. 
+L'association est organisée autour d'une collégiale formée de 12 membres représentant diverses entreprises, universités et associations du bassin clermontois. 
 </p>
 <p>
 Autour de cette collégiale, une vingtaine de bénévoles, membres de l'association, participent à l'organisation de l'évènement via des commissions thématiques (communication, call for paper, sponsors, logistique...)
 </p>
 <p>
-Geek&Terroir est animé par une équipe de bénévoles, avec lʼaide de sponsors qui proposent leur soutien ﬁnancier. En retour, nous offrons à ses partenaires divers vecteurs de communication privilégiés qui touchent les personnes les plus impliquées localement dans lʼutilisation des nouvelles technologies : réseaux sociaux, site web, stand lors de l'évènement.
+Geek&Terroir est animé par une équipe de bénévoles, avec lʼaide de sponsors qui proposent leur soutien ﬁnancier. En retour, nous offrons à ces partenaires divers vecteurs de communication privilégiés qui touchent les personnes les plus impliquées localement dans lʼutilisation des nouvelles technologies : réseaux sociaux, site web, stand lors de l'évènement.
 </p>
 </div>
 </section>
@@ -66,7 +66,7 @@ Dʼautre part Volcamp espère faire naître des vocations de conférencier parmi
 Votre organisation est un acteur de lʼécosystème auvergnat ou du monde des nouvelles technologies et souhaite sʼassocier à Volcamp  en sponsorisant un événement : contactez notre équipe dédiée au sujet via sponsor@volcamp.io .
 </p>
 <p>
-En contre partie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquette, réseaux sociaux, etc.) et présentée comme partenaire ofﬁciel lors de l'événement.
+En contre partie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquette, réseaux sociaux, etc.) et présenté comme partenaire ofﬁciel lors de l'événement.
 </p>
 </div>
 </section>

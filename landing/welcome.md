@@ -55,7 +55,7 @@ order: 1
 <section id="content">
     <div>
         <p>
-        Le CFP du Volcamp est pour le moment reporté après le 11/05. Dans les circonstances actuelles, Il ne serait pas raisonnable de nous lancer dans cette aventure Volcamp et de vous mobiliser, alors que d'autres enjeux se jouent en ce moment.
+        Le CFP du Volcamp est pour le moment reporté après le 11/05. Dans les circonstances actuelles, il ne serait pas raisonnable de nous lancer dans cette aventure Volcamp et de vous mobiliser, alors que d'autres enjeux se jouent en ce moment.
             <img src="images/volcan.png" alt="volcan"/>
         </p>
     </div>
@@ -86,7 +86,7 @@ order: 1
                 <td>
                     <img src="images/speakers/agnes.jpg" alt="Agnes Crepet" />
                 </td>
-                <td><strong>Agnès Crepet</strong> a travaillé pendant 15 ans dans différents sociétés, en tant que développeuse ou architecte logiciel : éditeur, société de conseils ou DSI. Elle a été élue Java Champion en 2012 et elle a co-fondé la société Ninja Squad la même année. Aujourd'hui elle travaille sur Amsterdam pour Fairphone. Parce qu'elle aime apprendre et partager, elle est très active dans les communautés techniques : co-leader de Duchess France et co-fondatrice de la conférence MiXiT.</td>
+                <td><strong>Agnès Crepet</strong> a travaillé pendant 15 ans dans différentes sociétés, en tant que développeuse ou architecte logiciel : éditeur, société de conseils ou DSI. Elle a été élue Java Champion en 2012 et elle a co-fondé la société Ninja Squad la même année. Aujourd'hui elle travaille sur Amsterdam pour Fairphone. Parce qu'elle aime apprendre et partager, elle est très active dans les communautés techniques : co-leader de Duchess France et co-fondatrice de la conférence MiXiT.</td>
             </tr>
         </table>
     </div>
