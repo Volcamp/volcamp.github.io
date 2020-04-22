@@ -8,11 +8,10 @@
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
         {% if sponsor[1].level == 'gold' %}
-        <li><img src=images/sponsors/"{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        <li><img src="images/sponsors/{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
         {% endif %}
     {% endfor %}
 </ul></section>
-
 <section id="sponsorsilver"><div>SILVER</div></section>
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
@@ -21,7 +20,6 @@
         {% endif %}
     {% endfor %}
 </ul></section>
-
 <section id="sponsorbronze"><div>BRONZE</div></section>
 <section id="logo"><ul>
     {% for sponsor in site.data.sponsors %}
