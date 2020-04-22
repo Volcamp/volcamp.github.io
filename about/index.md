@@ -48,7 +48,7 @@ L'objectif premier est d'organiser 1 conférence annuelle de 2 jours afin de cr�
 Les speakers présents lors de l'évènement sont issus à la fois des entreprises, universités, associations de l'écosystème de la Région Auvergne mais aussi des speakers de renom connus dans la sphère des conférences IT nationales voire internationales.
 </p>
 <p>
-Volcamp met en place les outils : site web, comptes [Twitter](https://twitter.com/VolcampIO) & [Linkedin](https://www.linkedin.com/company/volcampio), nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses partenaires.
+Volcamp met en place les outils : site web, comptes <a href="https://twitter.com/VolcampIO">Twitter</a> & <a href="https://www.linkedin.com/company/volcampio">Linkedin</a>, nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses partenaires.
 </p>
 <p>
 Dʼautre part Volcamp espère faire naître des vocations de conférencier parmi ses participants et offrir une tribune pour présenter des retours dʼexpérience ou les applications dʼun sujet de recherche.
@@ -83,7 +83,7 @@ En tant quʼutilisateur averti des nouvelles technologies (Devops, Cloud, Data, 
 En tant quʼéditeur, vous souhaitez présenter une technologie et/ou une solution. De même, Volcamp vous offre une tribune pour présenter votre conférence, démonstration …
 </p>
 <p>
-Chez Volcamp, pas de favoritisme, tout le monde doit passer par la phase de CFP : http://cfp.volcamp.io.
+Chez Volcamp, pas de favoritisme, tout le monde doit passer par la phase de CFP : <a href="http://cfp.volcamp.io">cfp.volcamp.io</a>.
 </p>
 </div>
 </section>
