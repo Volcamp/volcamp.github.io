@@ -8,9 +8,9 @@ navigation:
  - title: Home
    url: /
  - title: À propos
-   url: about/
+   url: /about
  - title: Contacts
-   url: contacts/
+   url: /contacts
    
 syndication:
  - name: twitter
