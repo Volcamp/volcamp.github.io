@@ -28,7 +28,7 @@ header div{ max-width:1365px; margin: 0 auto;  }
 header h1{margin-left:70px}
 header img{max-width: 100%;margin-left: 5px;margin-top: 1px;}
 
-header div nav {float: right;height: 139px;margin-right:5px;margin-top:20px;}
+header div nav {float: right;margin-right:5px;margin-top:20px;}
 header div nav a{
     color:#4F993F;
     -webkit-transition: all 0.3s;
