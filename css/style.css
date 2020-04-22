@@ -28,19 +28,22 @@ header div{ max-width:1365px; margin: 0 auto; display: flex;  }
 header h1{margin-left:70px}
 header img{max-width: 100%}
 
-.header div nav {float: right;}
-.header div nav a{
+header div nav {float: right;}
+header div nav a{
+    color:#ff4800;
+    line-height: 230px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-}
-.header div nav a {
     color: #aaa;
     font-weight: 700;
     margin: 0 0 0 20px;
     font-size: 1.4em;
+    text-decoration: none;
 }
-
+header div nav a:hover{
+    color:#aa3608;
+}
 .banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
 #banner{max-width:1365px; margin: 0 auto; display: flex; height: 523px; overflow: hidden; flex-wrap: wrap; justify-content: space-between;}
 #banner .btn{margin: 347px 85px; display: inline-block;}
