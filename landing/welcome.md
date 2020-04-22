@@ -4,6 +4,19 @@ title: Volcamp.io
 order: 1
 ---
 
+<section class="banner">
+    <div id="banner">
+        <div id="bannerbtn">
+            <a href="#" class="btn">Coming soon</a>
+        </div>
+        <div class="info">
+            <span id="days"></span>
+            <h2>15, 16 OCTOBRE 2020</h2>
+            <h3>Hall 32 - Clermont-fd</h3>
+        </div>
+    </div>
+</section>
+
 <section id="content">
     <img src="images/hall32.jpg" alt="hall 32" class="banner" />
     <div>

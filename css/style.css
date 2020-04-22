@@ -24,7 +24,7 @@ h2, h3{ margin: 10px 0 0 0}
     transition: box-shadow 2s;}
 
 header{ background:#fff; height:135px;  }
-header div{ max-width:1365px; margin: 0 auto; display: flex;  }
+header div{ max-width:1365px; margin: 0 auto;  }
 header h1{margin-left:70px}
 header img{max-width: 100%}
 
@@ -45,9 +45,10 @@ header div nav a:hover{
     color:#aa3608;
 }
 .banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
-#banner{max-width:1365px; margin: 0 auto; display: flex; height: 523px; overflow: hidden; flex-wrap: wrap; justify-content: space-between;}
+#banner{max-width:1365px; margin: 0 auto; height: 523px; }
 #banner .btn{margin: 347px 85px; display: inline-block;}
-.info{text-align: right; color: #fff; padding: 100px 50px 0 0}
+#bannerbtn{position: absolute;}
+.info{text-align: right; color: #fff; padding: 100px 50px 0 0; position:relative;}
 .info span{font: normal 8em "aansa", Arial, Helvetica, sans-serif; height: 80px; display: inline-block; overflow: hidden;}
 
 #content{color: #fff; text-align: center}

@@ -3,19 +3,6 @@ layout: default
 title: Volcamp.io
 ---
 
-<section class="banner">
-    <div id="banner">
-        <div>
-            <a href="#" class="btn">Coming soon</a>
-        </div>
-        <div class="info">
-            <span id="days"></span>
-            <h2>15, 16 OCTOBRE 2020</h2>
-            <h3>Hall 32 - Clermont-fd</h3>
-        </div>
-    </div>
-</section>
-
 {% assign landings = site.pages | sort: 'order' %}
 {% for landing in landings  %}
 {% if landing.type == 'landing' %}
