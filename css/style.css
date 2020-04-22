@@ -59,6 +59,8 @@ header div nav a:hover{
 #content p {max-width:845px; margin: 0 auto; padding: 20px 500px 20px 20px; position: relative; text-align: left}
 #content p img{position: absolute; right: 0; top:-270px}
 
+.withlocked{max-width: 1365px; margin: 0 auto;position: relative;text-align: left;}
+
 #badges{color:#ff4800; font-size: 1.8em; font-weight: bold}
 #badges div{max-width:1365px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; }
 #badges dd{margin:0;}

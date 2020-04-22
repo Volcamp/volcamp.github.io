@@ -67,7 +67,7 @@ order: 1
     <div><h2>Les Keynotes #Volcamp20</h2></div>
 </section>
 <section id="speakers">
-    <div>
+    <div class="withlocked">
         <table>
             <tr>
                 <td>
