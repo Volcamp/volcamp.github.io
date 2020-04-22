@@ -18,11 +18,11 @@ order: 1
 </section>
 
 <section id="content">
-    <img src="images/hall32.jpg" alt="hall 32" class="banner" />
+    <img src="images/hall32.jpg" alt="hall 32" class="banner">
     <div>
         <p>
             <strong>Volcamp</strong> c'est la première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
-            <img src="images/volcan.png" alt="volcan"/>
+            <img src="images/volcan.png" alt="volcan">
         </p>
     </div>
 </section>
@@ -30,15 +30,15 @@ order: 1
 <section id="badges">
     <div>
         <dl>
-            <dd><img src="images/participants.png" alt="250 participants" /></dd>
+            <dd><img src="images/participants.png" alt="250 participants"></dd>
             <dt>participants</dt>
         </dl>
         <dl>
-            <dd><img src="images/speakers.png" alt="30 speakers" /></dd>
+            <dd><img src="images/speakers.png" alt="30 speakers"></dd>
             <dt>speakers</dt>
         </dl>
         <dl>
-            <dd><img src="images/terroir.png" alt="100% terroir" /></dd>
+            <dd><img src="images/terroir.png" alt="100% terroir"></dd>
             <dt>terroir</dt>
         </dl>
     </div>
@@ -54,7 +54,7 @@ order: 1
     <div>
         <p>
         Le CFP du Volcamp est pour le moment reporté après le 11/05. Dans les circonstances actuelles, il ne serait pas raisonnable de nous lancer dans cette aventure Volcamp et de vous mobiliser, alors que d'autres enjeux se jouent en ce moment.
-            <img src="images/volcan.png" alt="volcan"/>
+            <img src="images/volcan.png" alt="volcan">
         </p>
     </div>
 </section>
