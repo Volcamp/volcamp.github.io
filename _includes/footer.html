@@ -1,9 +1,22 @@
-        </div>
-        <script src="/assets/js/jquery-1.11.2.min.js"></script>
-        <!-- classie.js by @desandro: https://github.com/desandro/classie -->
-        <script src="/assets/js/classie.js"></script>
-        <script src="/assets/js/header.js"></script>
-        <script src="/assets/js/iframes.js"></script>
+<footer>
+    <p>Copyright © volcamp.io - 2020 - <a href="#">Mentions Légales</a></p>
+</footer>
 
-    </body>
+<!-- include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript">
+    function makeTimer() {
+        var endTime = new Date("15 October 2020");
+        endTime = (Date.parse(endTime) / 1000);
+
+        var now = new Date();
+        now = (Date.parse(now) / 1000);
+
+        var timeLeft = endTime - now;
+        var days = Math.floor(timeLeft / 86400);
+        $("#days").html("J-"+days );
+    }
+    setInterval(function() { makeTimer(); }, 1000);
+</script>
+</body>
 </html>
