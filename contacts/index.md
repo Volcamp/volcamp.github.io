@@ -9,7 +9,7 @@ title: Volcamp.io - Contactez-nous
 <section>
     <div class="withlocked">
         <p>
-        Nous voulons que Volcamp soit un espace d'échange qui réponde aux attentes de chacun. Nous souhaitons connaître vos impressions sur ce que nous faisons et répondre à vos toute questions.
+        Nous voulons que Volcamp soit un espace d'échange qui réponde aux attentes de chacun. Nous souhaitons connaître vos impressions sur ce que nous faisons et répondre à toutes vos questions.
         </p>
         <p>
         N'hésitez pas à nous contacter : si vous avez des suggestions ou des commentaires concernant l'évènement, si vous avez des idées pour l'organisation, si vous êtes intéressés pour sponsoriser ou si vous voulez vous même faire une présentation.
