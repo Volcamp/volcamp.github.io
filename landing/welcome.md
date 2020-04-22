@@ -1,3 +1,8 @@
+---
+type: landing
+title: Volcamp.io
+order: 1
+---
 
 <section id="content">
     <img src="images/hall32.jpg" alt="hall 32" class="banner" />
