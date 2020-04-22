@@ -59,7 +59,7 @@ header img{max-width: 100%}
 #sponsorsilver{color: #fff; text-align: center}
 #sponsorsilver div{
     background: rgb(92, 91, 91)   ;
-    background: linear-gradient(90deg, rgb(173, 173, 172) 0%, rgb(71, 71, 70) 61%,rgb(240,230,140) 100%);
+    background: linear-gradient(90deg, rgb(173, 173, 172) 0%, rgb(71, 71, 70) 61%,rgb(173, 173, 172) 100%);
     margin-top: -6px;
 }
 
