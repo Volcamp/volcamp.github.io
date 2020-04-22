@@ -8,9 +8,15 @@ navigation:
  - title: Home
    url: /
  - title: À propos
+<<<<<<< HEAD
    url: /about
  - title: Contacts
    url: /contacts
+=======
+   url: /about/
+ - title: Contacts
+   url: /contacts/
+>>>>>>> fix header url
    
 syndication:
  - name: twitter
