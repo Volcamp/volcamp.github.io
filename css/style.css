@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'aansa';
     src: url('../fonts/aansa.woff') format('woff');
@@ -14,8 +13,8 @@
     src: url('../fonts/DejaVuSans-ExtraLight.woff') format('woff');
     font-weight: normal; font-style: normal;
 }
-
-body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; height: 100%; padding: 0; margin: 0 }
+html{margin:0;padding:0;}
+body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; padding: 0; margin: 0 }
 h2{font-size:2.6em; font-weight:bold}
 h3{font:normal 3em "DejaVuSansExtraLight", Arial, Helvetica, sans-serif; }
 h2, h3{ margin: 10px 0 0 0}
@@ -25,14 +24,30 @@ h2, h3{ margin: 10px 0 0 0}
     transition: box-shadow 2s;}
 
 header{ background:#fff; height:135px;  }
-header div{ max-width:1365px; margin: 0 auto; display: flex;  }
+header div{ max-width:1365px; margin: 0 auto;  }
 header h1{margin-left:70px}
 header img{max-width: 100%}
 
+header div nav {float: right;height: 139px;}
+header div nav a{
+    color:#4F993F;
+    line-height: 230px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    font-weight: 700;
+    margin: 0 0 0 20px;
+    font-size: 1.4em;
+    text-decoration: none;
+}
+header div nav a:hover{
+    color:#6FC660;
+}
 .banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
-#banner{max-width:1365px; margin: 0 auto; display: flex; height: 523px; overflow: hidden; flex-wrap: wrap; justify-content: space-between;}
+#banner{max-width:1365px; margin: 0 auto; height: 523px; }
 #banner .btn{margin: 347px 85px; display: inline-block;}
-.info{text-align: right; color: #fff; padding: 100px 50px 0 0}
+#bannerbtn{position: absolute;}
+.info{text-align: right; color: #fff; padding: 100px 50px 0 0; position:relative;}
 .info span{font: normal 8em "aansa", Arial, Helvetica, sans-serif; height: 80px; display: inline-block; overflow: hidden;}
 
 #content{color: #fff; text-align: center}
@@ -43,6 +58,8 @@ header img{max-width: 100%}
 }
 #content p {max-width:845px; margin: 0 auto; padding: 20px 500px 20px 20px; position: relative; text-align: left}
 #content p img{position: absolute; right: 0; top:-270px}
+
+.withlocked{max-width: 1365px; margin: 0 auto;position: relative;text-align: left;padding: 0 5px 0 5px;}
 
 #badges{color:#ff4800; font-size: 1.8em; font-weight: bold}
 #badges div{max-width:1365px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; }
@@ -56,6 +73,14 @@ header img{max-width: 100%}
     margin-top: -6px;
 }
 
+#sponsorsilver{color: #fff; text-align: center}
+#sponsorsilver div{
+    background: rgb(92, 91, 91)   ;
+    background: linear-gradient(90deg, rgb(173, 173, 172) 0%, rgb(71, 71, 70) 61%,rgb(173, 173, 172) 100%);
+    margin-top: -6px;
+}
+
+
 #sponsorbronze{color: #fff; text-align: center}
 #sponsorbronze div{
     background: rgb(153,101,21)   ;
@@ -65,6 +90,13 @@ header img{max-width: 100%}
 
 #contentkeynote{color: #fff; text-align: center}
 #contentkeynote div{
+    background: rgb(79,153,63);
+    background: linear-gradient(90deg, rgba(101,198,96,1) 0%, rgba(79,153,63,1) 61%, rgba(60,130,47,1) 100%);
+    margin-top: -6px;
+}
+
+.titlezone{color: #fff; text-align: center}
+.titlezone div{
     background: rgb(79,153,63);
     background: linear-gradient(90deg, rgba(101,198,96,1) 0%, rgba(79,153,63,1) 61%, rgba(60,130,47,1) 100%);
     margin-top: -6px;
@@ -114,7 +146,9 @@ footer a:hover{text-decoration:none}
     #banner{height:775px; text-align: center}
     #banner div{width: 100%}
     #banner .btn{margin: 300px 0 20px 0}
-    .info{padding: 145px 20px 0 0}
+    .info{padding: 556px 20px 0 0;}
+    header div nav { max-width: 270px;margin-top: 20px}
+    header div nav a{line-height: 0;}
 }
 @media screen and (max-width: 640px){
     #content p img{width:234px; top:-170px}

@@ -1,0 +1,17 @@
+---
+layout: default
+title: Volcamp.io
+---
+    
+{% assign landings = site.pages | sort: 'order' %}
+{% for landing in landings  %}
+{% if landing.type == 'landing' %}
+    <section class="block">
+        <div class="content">
+              {{ landing.content | markdownify }}
+              {% include sponsors.html %}
+              {% include maps.html %}
+        </div>
+    </section>
+{% endif %}
+{% endfor %}
