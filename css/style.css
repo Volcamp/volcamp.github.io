@@ -13,8 +13,8 @@
     src: url('../fonts/DejaVuSans-ExtraLight.woff') format('woff');
     font-weight: normal; font-style: normal;
 }
-
-body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; height: 100%; padding: 0; margin: 0 }
+html{margin:0;padding:0;}
+body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; padding: 0; margin: 0 }
 h2{font-size:2.6em; font-weight:bold}
 h3{font:normal 3em "DejaVuSansExtraLight", Arial, Helvetica, sans-serif; }
 h2, h3{ margin: 10px 0 0 0}
@@ -59,7 +59,7 @@ header div nav a:hover{
 #content p {max-width:845px; margin: 0 auto; padding: 20px 500px 20px 20px; position: relative; text-align: left}
 #content p img{position: absolute; right: 0; top:-270px}
 
-.withlocked{max-width: 1365px; margin: 0 auto;position: relative;text-align: left;}
+.withlocked{max-width: 1365px; margin: 0 auto;position: relative;text-align: left;padding: 0 5px 0 5px;}
 
 #badges{color:#ff4800; font-size: 1.8em; font-weight: bold}
 #badges div{max-width:1365px; margin: 0 auto; display: flex; justify-content: space-around; flex-wrap: wrap; }
