@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Volcamp.io - Contactez-nous
 ---
 
-<section id="contentkeynote">
-    <div><h2>Contact</h2></div>
+<section class="titlezone">
+    <div><h2>Contacts</h2></div>
 </section>
 <section>
     <div class="withlocked">
@@ -16,10 +17,12 @@ layout: default
         <p>
         Vous pouvez contacter directement nos commissions : 
         </p>
-        <ul><li>Sponsoring : `sponsor at volcamp.io`</li>
-        <li>Logistique avant et pendant l'évènement : `event at volcamp.io`</li>
-        <li>Billeterie : `billeterie at volcamp.io`</li>
-        <li>Call For Paper : `cfp at volcamp.io`</li></ul>
+        <ul>
+            <li>Sponsoring : `sponsor at volcamp.io`</li>
+            <li>Logistique avant et pendant l'évènement : `event at volcamp.io`</li>
+            <li>Billeterie : `billeterie at volcamp.io`</li>
+            <li>Call For Paper : `cfp at volcamp.io`</li>
+        </ul>
         <p>
         (Pensez à remplacer "at" par "@").
         </p>
@@ -28,7 +31,8 @@ layout: default
         </p>
     </div>
 </section>
-<section id="contentkeynote">
+
+<section class="titlezone">
     <div><h2>Réseaux sociaux</h2></div>
 </section>
 <section>
@@ -36,8 +40,9 @@ layout: default
         <p>
         Vous pouvez également nous suivre et nous contacter sur :
         </p>
-        <ul><li>Twitter: https://twitter.com/VolcampIO</li>
-        <li>LinkedIn: https://www.linkedin.com/company/volcampio</li></ul>
+        <ul>
+            <li>Twitter: https://twitter.com/VolcampIO</li>
+            <li>LinkedIn: https://www.linkedin.com/company/volcampio</li>
+        </ul>
     </div>
 <section>
-

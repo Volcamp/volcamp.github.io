@@ -95,6 +95,13 @@ header div nav a:hover{
     margin-top: -6px;
 }
 
+.titlezone{color: #fff; text-align: center}
+.titlezone div{
+    background: rgb(79,153,63);
+    background: linear-gradient(90deg, rgba(101,198,96,1) 0%, rgba(79,153,63,1) 61%, rgba(60,130,47,1) 100%);
+    margin-top: -6px;
+}
+
 #speakers img{border-radius: 50%;width: 150px;margin: 30px;opacity: 1;
     display: block;
     height: auto;
