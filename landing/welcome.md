@@ -25,7 +25,6 @@ order: 1
             <img src="images/volcan.png" alt="volcan"/>
         </p>
     </div>
-
 </section>
 
 <section id="badges">
@@ -45,7 +44,6 @@ order: 1
     </div>
 </section>
 
-<!-- CFP -->
 <section id="content">
     <div><h2>Call For Paper</h2></div>
 </section>
@@ -59,5 +57,4 @@ order: 1
             <img src="images/volcan.png" alt="volcan"/>
         </p>
     </div>
-
 </section>

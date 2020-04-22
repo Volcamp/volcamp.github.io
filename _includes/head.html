@@ -23,17 +23,14 @@
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#00aba9">
     <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
-
 </head>
 <body>
-
     <header>
         <div>
             <a href="/"><img src="/images/logo_volcamp.png" alt="logo volcamp"/></a>
             <nav>
             {% for link in site.navigation %}
-            <a href="{{ link.url }}">{{ link.title }}</a>
+                <a href="{{ link.url }}">{{ link.title }}</a>
             {% endfor %}
             </nav>
         </div>
