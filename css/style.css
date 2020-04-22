@@ -18,7 +18,7 @@ body{font:normal 100% "dejavu_sans_monobook", Arial, Helvetica, sans-serif; padd
 h2{font-size:2.6em; font-weight:bold}
 h3{font:normal 3em "DejaVuSansExtraLight", Arial, Helvetica, sans-serif; }
 h2, h3{ margin: 10px 0 0 0}
-
+img{max-width:100%;height:auto;}
 .btn{box-shadow:inset 0 0 15px 3px #da3e00; background: #ff4800; padding:10px 15px; text-transform: uppercase;
     color:#fff; border-radius: 40px; text-decoration: none; font-size:2.3em; font-weight: bold ; text-align: center;
     transition: box-shadow 2s;}
@@ -26,9 +26,9 @@ h2, h3{ margin: 10px 0 0 0}
 header{ background:#fff; height:135px;  }
 header div{ max-width:1365px; margin: 0 auto;  }
 header h1{margin-left:70px}
-header img{max-width: 100%}
+header img{max-width: 100%;margin-left: 5px;margin-top: 1px;}
 
-header div nav {float: right;height: 139px;}
+header div nav {float: right;height: 139px;margin-right:5px;margin-top:20px;}
 header div nav a{
     color:#4F993F;
     line-height: 230px;
@@ -37,7 +37,7 @@ header div nav a{
     transition: all 0.3s;
     font-weight: 700;
     margin: 0 0 0 20px;
-    font-size: 1.4em;
+    font-size: 1.6em;
     text-decoration: none;
 }
 header div nav a:hover{
@@ -147,7 +147,7 @@ footer a:hover{text-decoration:none}
     #banner div{width: 100%}
     #banner .btn{margin: 300px 0 20px 0}
     .info{padding: 556px 20px 0 0;}
-    header div nav { max-width: 270px;margin-top: 20px}
+    header div nav { max-width: 260px;}
     header div nav a{line-height: 0;}
 }
 @media screen and (max-width: 640px){
