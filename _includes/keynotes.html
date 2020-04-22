@@ -1,0 +1,14 @@
+<section id="contentkeynote">
+    <div><h2>Les Keynotes #Volcamp20</h2></div>
+</section>
+<section id="speakers">
+    <div class="withlocked">
+        <table>
+            {% for speaker in site.data.speakers %}
+                {% if speaker[1].keynote %}
+                <tr><td><img src="images/speakers/{{ speaker[1].photo }}" alt="{{ speaker[1].name }}" /></td><td><strong>{{ speaker[1].name }} {{ speaker[1].bio }}</td></tr>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</section>

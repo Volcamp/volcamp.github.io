@@ -5,3 +5,24 @@ cpr:
   jobtitle: architecte entreprise
   employer: be-ys group
   committee: cfp, communication
+cdi:
+  name: claude Dioudonnat
+  twitter: claudusd
+  linkedin: claude-dioudonnat-89a405a9
+  jobtitle: Administrateur système
+  employer: Université d'Auvergne
+  committee: finances, logistique
+mvi:
+  name: Matthieu VINCENT
+  twitter: yodamad03
+  linkedin: matthieu-vincent-ab25064
+  jobtitle: Architecte 
+  employer: sopra steria  
+  committee: communication, sponsors, collegiale
+tma:
+  name: Thomas Maurel
+  twitter: tmaurel
+  linkedin: tmaurel
+  jobtitle: Développeur
+  employer: Axys Consultants
+  committee: finances, logistique

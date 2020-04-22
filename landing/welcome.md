@@ -61,33 +61,3 @@ order: 1
     </div>
 
 </section>
-
-<!-- Keynotes -->
-<section id="contentkeynote">
-    <div><h2>Les Keynotes #Volcamp20</h2></div>
-</section>
-<section id="speakers">
-    <div class="withlocked">
-        <table>
-            <tr>
-                <td>
-                    <img src="images/speakers/Audrey_light.jpg" alt="Audrey Neveu" />
-                </td>
-                <td><strong> Audrey Neveu</strong> est développeur sur le projet Reactor. Passionnée par son métier, Audrey a toujours été fortement engagée dans la communauté Java au travers de plusieurs JUGs et conférences (Duchess France, Paris JUG, Devoxx France, Devoxx UK) mais aussi au sein d’initiatives visant à faire découvrir la programmation aux plus jeunes (Programatoo, Devoxx4Kids). Plus récemment elle a également rejoint l’équipe des Cast Codeurs.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="images/speakers/yves_caseau.jpg" alt="Yves Caseau" />
-                </td>
-                <td><strong>Yves Caseau</strong> est Group Chief Information Officer chez Michelin - Il est aussi membre de l'Académie des Technologies </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="images/speakers/agnes.jpg" alt="Agnes Crepet" />
-                </td>
-                <td><strong>Agnès Crepet</strong> a travaillé pendant 15 ans dans différentes sociétés, en tant que développeuse ou architecte logiciel : éditeur, société de conseils ou DSI. Elle a été élue Java Champion en 2012 et elle a co-fondé la société Ninja Squad la même année. Aujourd'hui elle travaille sur Amsterdam pour Fairphone. Parce qu'elle aime apprendre et partager, elle est très active dans les communautés techniques : co-leader de Duchess France et co-fondatrice de la conférence MiXiT.</td>
-            </tr>
-        </table>
-    </div>
-</section>
