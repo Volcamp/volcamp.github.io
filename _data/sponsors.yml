@@ -11,10 +11,10 @@ beys:
 oracle:
   name: oracle
   url: http://www.oracle.com/
-  logo: /images/beys.jpg
+  logo: images/beys.jpg
   level : silver
 thea:
-  name: laborator Théa
+  name: Laboratoire Théa
   url: http://thea.com/
   logo: images/thea.jpg
   level : bronze
