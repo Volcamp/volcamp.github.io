@@ -101,7 +101,7 @@ header div nav a:hover{
     margin-top: -6px;
 }
 
-#speakers img{border-radius: 50%;width: 150px;margin: 30px;opacity: 1;
+#speakers img{border-radius: 50%;width: 150px;margin: 30px;opacity: 1;max-width: 150px;
     display: block;
     height: auto;
     transition: .5s ease;
