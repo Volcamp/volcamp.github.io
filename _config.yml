@@ -12,7 +12,7 @@ paginate: 5
 future: true
 
 navigation:
- - title: Accueil
+ - title: Home
    url: /
  - title: À propos
    url: about/

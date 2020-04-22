@@ -35,7 +35,6 @@ header div nav a{
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-    color: #aaa;
     font-weight: 700;
     margin: 0 0 0 20px;
     font-size: 1.4em;
@@ -138,7 +137,9 @@ footer a:hover{text-decoration:none}
     #banner{height:775px; text-align: center}
     #banner div{width: 100%}
     #banner .btn{margin: 300px 0 20px 0}
-    .info{padding: 145px 20px 0 0}
+    .info{padding: 556px 20px 0 0;}
+    header div nav { max-width: 270px;margin-top: 20px}
+    header div nav a{line-height: 0;}
 }
 @media screen and (max-width: 640px){
     #content p img{width:234px; top:-170px}
