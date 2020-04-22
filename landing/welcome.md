@@ -62,32 +62,31 @@ order: 1
 
 </section>
 
-<!-- Speakers -->
+<!-- Keynotes -->
 <section id="contentkeynote">
-    <div><h2>Nos Keynotes</h2></div>
+    <div><h2>Les Keynotes #Volcamp20</h2></div>
 </section>
 <section id="speakers">
     <div>
         <table>
             <tr>
                 <td>
-                    <img src="images/Audrey_light.jpg" alt="Audrey" />
+                    <img src="images/Audrey_light.jpg" alt="Audrey Neveu" />
                 </td>
-                <td><strong> Audrey</strong> est développeur sur le projet Reactor. Passionnée par son métier, Audrey a toujours été fortement engagée dans la communauté Java au travers de plusieurs JUGs et conférences (Duchess France, Paris JUG, Devoxx France, Devoxx UK) mais aussi au sein d’initiatives visant à faire découvrir la programmation aux plus jeunes (Programatoo, Devoxx4Kids). Plus récemment elle a également rejoint l’équipe des Cast Codeurs.
+                <td><strong> Audrey Neveu</strong> est développeur sur le projet Reactor. Passionnée par son métier, Audrey a toujours été fortement engagée dans la communauté Java au travers de plusieurs JUGs et conférences (Duchess France, Paris JUG, Devoxx France, Devoxx UK) mais aussi au sein d’initiatives visant à faire découvrir la programmation aux plus jeunes (Programatoo, Devoxx4Kids). Plus récemment elle a également rejoint l’équipe des Cast Codeurs.
                 </td>
-
             </tr>
             <tr>
                 <td>
-                    <img src="images/yves_caseau.jpg" alt="Audrey" />
+                    <img src="images/yves_caseau.jpg" alt="Yves Caseau" />
                 </td>
-                <td><strong>Yves</strong> - Académie des Technologies - views are my own :) slasher executive/scientist/books&blog writer/ developer</td>
+                <td><strong>Yves Caseau</strong> est Group Chief Information Officer chez Michelin - Il est aussi membre de l'Académie des Technologies </td>
             </tr>
             <tr>
                 <td>
-                    <img src="images/agnes.jpg" alt="Agnes" />
+                    <img src="images/agnes.jpg" alt="Agnes Crepet" />
                 </td>
-                <td><strong>Agnès</strong> - J'ai travaillé pendant 15 ans dans différents sociétés, en tant que développeuse ou architecte logiciel : éditeur, société de conseils ou DSI. J'ai été élue Java Champion en 2012 et j'ai co-fondé la société Ninja Squad la même année, une équipe de développeurs passionnés et qui met un accent fort sur l'open source, la qualité du code et qui fonctionne sur mode coopératif. Je travaille aujourd'hui sur Amsterdam pour Fairphone, qui propose un smartphone éthique, conçu pour durer, modulaire et construit à partir de matériaux responsables. Parce que j'aime apprendre et partager, je suis active dans les communautés techniques. Je suis co-leader de Duchess France, un réseau qui connecte les femmes dans l'IT et essaie de donner plus de visibilité aux femmes développeuses. Et j'ai co-fondé la conférence MiXiT, ou on parle de code et d'agilité, mais également de sujets non techniques et qui oeuvre pour plus de diversité et de prise de conscience éthique dans le monde de la Tech.</td>
+                <td><strong>Agnès Crepet</strong> a travaillé pendant 15 ans dans différents sociétés, en tant que développeuse ou architecte logiciel : éditeur, société de conseils ou DSI. Elle a été élue Java Champion en 2012 et elle a co-fondé la société Ninja Squad la même année. Aujourd'hui elle travaille sur Amsterdam pour Fairphone. Parce qu'elle aime apprendre et partager, elle est très active dans les communautés techniques : co-leader de Duchess France et co-fondatrice de la conférence MiXiT.</td>
             </tr>
         </table>
     </div>
