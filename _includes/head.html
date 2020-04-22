@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>{{ page.title }}</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=1, user-scalable=yes"> 
+        <meta name="description" content="Le Lava JUG est une une association créée pour partager nos expériences des TIC et promouvoir les technologies autour de la plate-forme Java en Auvergne." />
+        <meta name="keywords" content="Lava JUG, Java User Group, Clermont Ferrand, Auvergne, Java, Technology, Tech" />
+		<meta name="author" content="{{ side.author }}" />
+    	<meta property="og:image" content="https://www.lavajug.org/assets/images/lavajug.png" />
+	    <meta name="twitter:image" content="https://www.lavajug.org/assets/images/lavajug.png" />
+	    <meta name="twitter:title" content="{{ page.title }}" />
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+        <link rel="shortcut icon" href="/assets/images/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="/assets/css/default.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/header.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/dates.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/leaflet.css" />
+        <script src="/assets/js/modernizr.custom.js"></script>
+    </head>
+    <body>                
+        <div class="container">
+            <div class="header">
+                <div class="inner">
+                    <a href="/"><img src="/assets/images/lavajug.png" alt="lavajug"/></a>
+                    <a href="/" class="homelink">Lava JUG</a>
+                    <nav>
+                    {% for link in site.navigation %}
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                    {% endfor %}
+                    </nav>
+                </div>
+            </div>

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Volcamp.io
+---
+
+
+            {% assign landings = site.pages | sort: 'order' %}
+            {% for landing in landings  %}
+            {% if landing.type == 'landing' %}
+                <section class="block">
+                    <div class="heading">                    
+                        <h1>{{ landing.title }}</h1>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="content">
+                          {{ landing.content | markdownify }}
+                    </div>
+                </section>
+            {% endif %}
+            {% endfor %}
+            

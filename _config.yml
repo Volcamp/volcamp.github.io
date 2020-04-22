@@ -1,0 +1,35 @@
+name: Volcamp
+description: La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
+author: Geek&Terroir
+
+url: https://www.volcamp.io
+
+paginate_path: "/events/page:num/"
+
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+future: true
+
+navigation:
+ - title: Accueil
+   url: /
+ - title: À propos
+   url: /about/
+ - title: Contacts
+   url: /contacts/
+   
+
+syndication:
+ - name: twitter
+   url: http://www.twitter.com/volcampio
+ - name: github
+   url: https://github.com/Volcamp
+
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+# - jekyll-compass
+# - normalize-scss
+# - susy
