@@ -88,30 +88,35 @@ order: 1
 <section id="sponsorgold">
     <div>GOLD</div>
 </section>
-<section id="logo">
-    <ul>
-        <li><img src="images/beys.jpg" alt="logo clever_cloud"/></li>
-    </ul>
-</section>
+<section id="logo"><ul>
+    {% for sponsor in site.data.sponsors %}
+        {% if sponsor[1].level == 'gold' %}
+        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        {% endif %}
+    {% endfor %}
+</ul></section>
 
 <section id="sponsorsilver">
 <div>SILVER</div>
 </section>
-<section id="logo">
-    <ul>
-        <li><img src="images/beys.jpg" alt="logo clever_cloud"/></li>
-    </ul>
-</section>
+<section id="logo"><ul>
+    {% for sponsor in site.data.sponsors %}
+        {% if sponsor[1].level == 'silver' %}
+        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        {% endif %}
+    {% endfor %}
+</ul></section>
 
 <section id="sponsorbronze">
     <div>BRONZE</div>
 </section>
-<section id="logo">
-    <ul>
-        <li><img src="images/clever_cloud.png" alt="logo clever_cloud"/></li>
-        <li><img src="images/thea.jpg" alt="logo laboratoire théa"/></li>
-    </ul>
-</section>
+<section id="logo"><ul>
+    {% for sponsor in site.data.sponsors %}
+        {% if sponsor[1].level == 'bronze' %}
+        <li><img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/></li>
+        {% endif %}
+    {% endfor %}
+</ul></section>
 
 <!-- Maps -->
 <section class="map-responsive">
