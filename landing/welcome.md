@@ -94,9 +94,13 @@ order: 1
     </ul>
 </section>
 
+<section id="sponsorsilver">
 <div>SILVER</div>
 </section>
 <section id="logo">
+    <ul>
+        <li><img src="images/beys.jpg" alt="logo clever_cloud"/></li>
+    </ul>
 </section>
 
 <section id="sponsorbronze">
