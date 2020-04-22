@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'aansa';
     src: url('../fonts/aansa.woff') format('woff');
@@ -28,6 +27,19 @@ header{ background:#fff; height:135px;  }
 header div{ max-width:1365px; margin: 0 auto; display: flex;  }
 header h1{margin-left:70px}
 header img{max-width: 100%}
+
+.header nav {float: right;}
+.header nav a{
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.header nav a {
+    color: #aaa;
+    font-weight: 700;
+    margin: 0 0 0 20px;
+    font-size: 1.4em;
+}
 
 .banner{background:url("../images/bg-banner.png") no-repeat center top #6fc660; max-width:100%}
 #banner{max-width:1365px; margin: 0 auto; display: flex; height: 523px; overflow: hidden; flex-wrap: wrap; justify-content: space-between;}
