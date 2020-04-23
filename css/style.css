@@ -128,7 +128,7 @@ header div nav a:hover{
 .map-responsive iframe {left:0; top:0; width:100%; position:absolute;  }
 
 footer {background-color: #6fc660;margin-top: 20px;}
-footer p{font-size:0.75em; max-width:1365px; margin: 0 auto; text-align:right; padding: 20px  }
+footer p{font-size:0.9em; max-width:1365px; margin: 0 auto; text-align:center; padding: 20px  }
 footer a{color:#000;}
 footer a:hover{text-decoration:none}
 footer .line {display: flex;flex-wrap: wrap;justify-content: center;}
@@ -137,7 +137,7 @@ footer .line {display: flex;flex-wrap: wrap;justify-content: center;}
 div.header {font-weight: 200;font-size: 1rem;text-transform: uppercase;}
 .footer-list{padding: 0;margin: 0;list-style: none;display: flex;align-items: center;}
 .footer-list li{display: inline-block;padding: var(--space-2);line-height: 0;list-style: none}
-.line section ul{display: flex;flex-direction: column;list-style: none;padding: 0;margin: var(--space-3) 0;}=
+.line section ul{display: flex;flex-direction: column;list-style: none;padding: 0;margin: var(--space-3) 0;}
 .line section ul li{list-style: none}
 
 @media screen and (max-width: 1055px){
