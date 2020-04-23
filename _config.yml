@@ -11,6 +11,8 @@ navigation:
    url: /about/
  - title: Contacts
    url: /contacts/
+ - title: Orateurs
+   url: /speakers/
    
 syndication:
  - name: twitter

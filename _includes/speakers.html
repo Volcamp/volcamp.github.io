@@ -1,10 +1,11 @@
 <section id="contentkeynote">
-    <div><h2>Les Keynotes #Volcamp20</h2></div>
+    <div><h2>Un grand merci à nos orateurs #Volcamp20</h2></div>
 </section>
 <section id="speakers">
     <div class="withlocked">
         <table>
-            {% for speaker in site.data.speakers.keynotes %}
+            {% assign speakers_sorted_by_name = site.data.speakers.speakers | sort: "name" %}
+            {% for speaker in speakers_sorted_by_name %}
                 <tr><td><img src="{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}"></td><td><strong>{{ speaker.name }}</strong> {{ speaker.bio }}</td></tr>
             {% else %}
                 Rien à voir ici.
