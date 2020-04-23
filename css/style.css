@@ -137,6 +137,7 @@ footer .line {display: flex;flex-wrap: wrap;justify-content: center;}
 div.header {font-weight: 200;font-size: 1rem;text-transform: uppercase;}
 .footer-list{padding: 0;margin: 0;list-style: none;display: flex;align-items: center;}
 .footer-list li{display: inline-block;padding: var(--space-2);line-height: 0;list-style: none}
+.line section ul li{list-style: none}
 /** media queries **/
 
 @media screen and (max-width: 1055px){
