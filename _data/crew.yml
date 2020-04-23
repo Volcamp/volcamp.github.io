@@ -19,7 +19,6 @@ dpe:
   jobtitle: Expert Technique
   employer: Michelin
   committee: cfp
-
 mvi:
   name: Matthieu VINCENT
   twitter: yodamad03
@@ -27,6 +26,55 @@ mvi:
   jobtitle: Architecte 
   employer: sopra steria  
   committee: communication, sponsors, collegiale
+tma:
+  name: Thomas Maurel
+  twitter: tmaurel
+  linkedin: tmaurel
+  jobtitle: Développeur
+  employer: Axys Consultants
+  committee: finances, logistique
+gde:
+  name: Guillaume Delaire
+  twitter: gdelaire63
+  linkedin: guillaumedelaire
+  jobtitle: Architecte IT
+  employer: Limagrain
+  committee: cfp
+pco:
+  name: Pierre Colomb
+  twitter: pcolomb
+  linkedin: pcolomb
+  jobtitle: R&D Manager
+  employer: Braincube
+  committee: admin, cfp, logistique
+ecn:
+  name: Eric Champion
+  twitter: erchampion
+  linkedin: éric-champion-558b4074
+  jobtitle: ingénieur
+  employer: Sopra Steria
+  committee: communication 
+jgo:
+  name: Jérôme Godard
+  twitter: jegodard
+  linkedin: jeromegodard
+  jobtitle: Architecte systèmes d’information
+  employer: Michelin
+  committee: sponsors, logistique
+vha:
+  name: Virginie Hang
+  twitter: HngVirginie
+  linkedin: virginiehang
+  jobtitle: manager
+  employer: Accenture
+  committee: cfp
+mch :
+  name: Mathieu CHAUSSE
+  twitter: ChausseMathieu
+  linkedin: mathieu-chausse-26308850
+  jobtitle: Delivery Lead
+  employer: Accenture
+  committee: sponsors
 tma:
   name: Thomas Maurel
   twitter: tmaurel
