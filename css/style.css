@@ -127,11 +127,16 @@ header div nav a:hover{
 .map-responsive {overflow:hidden;  padding-bottom:450px; position:relative; height:0;  }
 .map-responsive iframe {left:0; top:0; width:100%; position:absolute;  }
 
+footer {background-color: #6fc660;margin-top: 20px;}
 footer p{font-size:0.75em; max-width:1365px; margin: 0 auto; text-align:right; padding: 20px  }
 footer a{color:#000;}
 footer a:hover{text-decoration:none}
-
-
+footer .line {display: flex;flex-wrap: wrap;justify-content: center;}
+.line div{margin: 20px;margin-bottom: 20px;flex: 0 0 20%;display: flex;flex-direction: column;justify-content: flex-start;align-items: center;text-align: center;}
+.line section{margin: 20px;flex: 0 0 20%;display: flex;flex-direction: column;justify-content: flex-start;align-items: center;text-align: center;}
+div.header {font-weight: 200;font-size: 1rem;text-transform: uppercase;}
+.footer-list{padding: 0;margin: 0;list-style: none;display: flex;align-items: center;}
+.footer-list li{display: inline-block;padding: var(--space-2);line-height: 0;}
 /** media queries **/
 
 @media screen and (max-width: 1055px){

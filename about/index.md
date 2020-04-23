@@ -22,7 +22,7 @@ Volcamp est une conférence IT organisée à Clermont-Fd, FR, organisée par l'a
 <section>
     <div class="withlocked">
 <p>
-Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand.
+Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Aristide Briand 63000 Clermont-Ferrand.
 </p>    
 <p>
 L'association est organisée autour d'une collégiale formée de 12 membres représentant diverses entreprises, universités et associations du bassin clermontois. 
@@ -84,20 +84,6 @@ En tant quʼéditeur, vous souhaitez présenter une technologie et/ou une soluti
 </p>
 <p>
 Chez Volcamp, pas de favoritisme, tout le monde doit passer par la phase de CFP : <a href="http://cfp.volcamp.io">cfp.volcamp.io</a>.
-</p>
-</div>
-</section>
-
-<section class="titlezone">
-    <div><h2>Code of conduct</h2></div>
-</section>
-<section>
-    <div class="withlocked">
-<p>
-Nos événements sont organisés pour vous proposer une expérience ouverte, libre et sans harcèlement quelqu’il soit, pour chacun, quelque soit son genre, son orientation sexuelle, ses capacités physiques, sa race, sa religion, ou son handicap.
-</p>
-<p>
-Nous ne tolérons pas de harcèlement de nos participants, quelqu’en soit la forme. Un langage explicite ou des images non appropriées ne sont pas tolérés lors de l'événement Volcamp, ceci incluant les présentations des orateurs, ainsi que Twitter, ou tout autre média. Les participants et les orateurs qui ne respectent pas ces règles pourront être sanctionnés ou exclus de l'événement, sans que cela ne donne droit à un quelconque remboursement de la part des organisateurs.
 </p>
 </div>
 </section>
