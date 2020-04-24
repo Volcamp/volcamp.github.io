@@ -531,8 +531,6 @@ a {
 }
 
 .page-header {
-    background: url(../images/bg/cta-bg.jpg)no-repeat;
-    background-size: cover;
     padding: 80px 0;
     position: relative
 }
@@ -736,8 +734,6 @@ a {
     top: 0;
     width: 50%;
     height: 70%;
-    background: url(../images/about/bg-1.jpg);
-    background-size: cover
 }
 
 .cta .cta-content {
@@ -848,7 +844,8 @@ a {
 }
 
 .speaker-block .speaker-social li a:hover {
-    background: #4F993F
+    background: #4F993F;
+    color:#4F993F;
 }
 
 @media(max-width:767px) {
@@ -975,8 +972,6 @@ a {
 
 .package .price-header {
     padding: 60px 0;
-    background: url(../images/bg/page-header.jpg)no-repeat;
-    background-size: cover;
     position: relative
 }
 
@@ -1313,9 +1308,8 @@ a {
 }
 
 .footer {
-    background: url(../images/bg/footer-bg.jpg)no-repeat #444;
-    background-image: cover;
-    padding-bottom: 35px
+    padding-bottom: 35px;
+    padding-top: 4px;
 }
 
 .footer-socails a {
