@@ -5,8 +5,6 @@ author: Geek&Terroir
 url: https://www.volcamp.io
 
 navigation:
- - title: Home
-   url: /
  - title: À propos
    url: /about/
  - title: Contacts
