@@ -57,9 +57,9 @@ title: Volcamp.io - Contactez-nous
                 Vous pouvez également nous suivre et nous contacter sur :
                 </p>
                 <ul>
-                    <li><i class="tf-ion-social-twitter"></i> Twitter: <a href="https://twitter.com/VolcampIO">https://twitter.com/VolcampIO</a></li>
-                    <li><i class="tf-ion-social-linkedin"></i> LinkedIn: <a href="https://www.linkedin.com/company/volcampio">https://www.linkedin.com/company/volcampio</a></li>
-                    <li><i class="tf-ion-social-github"></i> Github: <a href="https://github.com/Volcamp/">https://github.com/Volcamp/</a></li>
+                    <li><i class="icon-twitter"></i> Twitter: <a href="https://twitter.com/VolcampIO">https://twitter.com/VolcampIO</a></li>
+                    <li><i class="icon-linkedin-squared"></i> LinkedIn: <a href="https://www.linkedin.com/company/volcampio">https://www.linkedin.com/company/volcampio</a></li>
+                    <li><i class="icon-github-squared"></i> Github: <a href="https://github.com/Volcamp/">https://github.com/Volcamp/</a></li>
                 </ul>
             </div>
         </div>
