@@ -409,7 +409,7 @@ a {
 }
 
 .section-banner .banner-content h1 {
-    font-size: 100px;
+    font-size: 120px;
     line-height: 1.2;
     letter-spacing: -.04em;
     color: white;
@@ -1023,11 +1023,6 @@ a {
 
 .style-3 .pname {
     border-color: #4F993F
-}
-
-.section-pricing {
-    background: url(../images/banner/speakers-bg-black.jpg)no-repeat;
-    background-size: cover
 }
 
 .sponsors {

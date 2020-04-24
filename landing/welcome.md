@@ -10,6 +10,7 @@ order: 1
             <div class="col-lg-7 mr-auto">
                 <div class="banner-content"><span>15, 16 Octobre 2020</span>
                     <h1 class="mt-3 mb-5">Volcamp</h1>
+                    <span>Votre conférence au coeur des volcans d'Auvergne</span>
                 </div>
             </div>
         </div>
@@ -19,7 +20,7 @@ order: 1
     <div class="container">
         <div class="counter-inner">
             <div class="row align-items-center">
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <div class="counter-stat">
                         <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
                     </div>
