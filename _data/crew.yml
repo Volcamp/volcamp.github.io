@@ -47,7 +47,7 @@ pco:
   jobtitle: R&D Manager
   employer: Braincube
   committee: admin, cfp, logistique
-ecn:
+ech:
   name: Eric Champion
   twitter: erchampion
   linkedin: éric-champion-558b4074
@@ -82,3 +82,31 @@ tma:
   jobtitle: Développeur
   employer: Axys Consultants
   committee: finances, logistique
+scp:
+  name: Stephanie Cluzel-Poughet
+  twitter: 
+  linkedin: stéphanie-cluzel-poughet-b2338817
+  jobtitle: Architecte IT
+  employer: Limagrain
+  committee:
+sco:
+  name: Stéphane Coussy
+  twitter: styef4
+  linkedin: stephane-coussy
+  jobtitle: expert technique
+  employer: be-ys group
+  committee:
+oco:
+  name: Olivier Coupelon
+  twitter: coupelon
+  linkedin: coupelon
+  jobtitle: Responsable SRE
+  employer: coffreo
+  committee: cfp
+vse:
+  name: Valérie Servaire
+  twitter: vservaire
+  linkedin: valérie-servaire-07ab07141
+  jobtitle: Architecte IT
+  employer: Michelin
+  committee: cfp 
