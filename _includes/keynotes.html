@@ -1,14 +1,33 @@
-<section id="contentkeynote">
-    <div><h2>Les Keynotes #Volcamp20</h2></div>
-</section>
-<section id="speakers">
-    <div class="withlocked">
-        <table>
+<section class="section-speaker section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-6">
+                <div class="heading"><span class="stroke-text">Orateurs</span>
+                    <div class="pl-90">
+                        <h2>Nos keynotes</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             {% for speaker in site.data.speakers.keynotes %}
-                <tr><td><img src="{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}"></td><td><strong>{{ speaker.name }}</strong> {{ speaker.bio }}</td></tr>
+            <div class="col-lg-4 col-sm-6">
+                <div class="speaker-block mb-5">
+                    <div class="img-block"><img src="{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                        <ul class="list-inline speaker-social">
+                            <li class="list-inline-item"><a href="{{ speaker.twitter }}"><i class="tf-ion-social-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="{{ speaker.linkedin }}"><i class="tf-ion-social-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="speaker-info">
+                        <h4 class="mb-0 mt-3"><a href="https://www.volcamp.io/fr/speaker/andrew-kemnitz/">{{ speaker.name }}</a></h4>
+                        <p>{{ speaker.abstract }}</p>
+                    </div>
+                </div>
+            </div>
             {% else %}
                 Rien à voir ici.
             {% endfor %}
-        </table>
+        </div>
     </div>
 </section>

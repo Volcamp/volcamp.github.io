@@ -1,20 +1,22 @@
-cleverCloud:
-  name: Clever Cloud
-  url: https://www.clever-cloud.com/
-  logo: clever_cloud.png
-  level : bronze
-beys:
-  name : be-ys group
-  url: http://www.be-ys.com
-  logo: beys.jpg
-  level : gold
-oracle:
-  name: oracle
-  url: http://www.oracle.com/
-  logo: oracle_rouge.png
-  level : silver
-thea:
-  name: Laboratoires Théa
-  url: https://www.laboratoires-thea.com/
-  logo: thea.jpg
-  level : bronze
+gold:
+  - name : be-ys group
+    url: http://www.be-ys.com
+    logo: beys.jpg
+    level : gold
+
+silver:
+  - name: oracle
+    url: http://www.oracle.com/
+    logo: oracle_rouge.png
+    level : silver
+
+bronze:
+  - name: Clever Cloud
+    url: https://www.clever-cloud.com/
+    logo: clever_cloud.png
+    level : bronze
+    
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: thea.jpg
+    level : bronze

@@ -1,24 +1,33 @@
 keynotes:
   - name: Audrey Neveu
     bio: est développeur sur le projet Reactor. Passionnée par son métier, Audrey a toujours été fortement engagée dans la communauté Java au travers de plusieurs JUGs et conférences (Duchess France, Paris JUG, Devoxx France, Devoxx UK) mais aussi au sein d’initiatives visant à faire découvrir la programmation aux plus jeunes (Programatoo, Devoxx4Kids). Plus récemment elle a également rejoint l’équipe des Cast Codeurs.
+    abstract: Full stack developper sur le projet Reactor.
     twitter: Audrey_Neveu
     photo: Audrey_light.jpg
     jobtitle: 
     employer: 
+    twitter:
+    linkedin:
     
   - name: Yves Caseau
     bio: est Group Chief Information Officer chez Michelin - Il est aussi membre de l'Académie des Technologies.
+    abstract: Group Chief Information Officer chez Michelin.
     twitter: ycaseau
     photo: yves_caseau.jpg
     jobtitle: 
     employer: 
+    twitter:
+    linkedin:
 
   - name: Agnès Crepet
     bio: a travaillé pendant 15 ans dans différentes sociétés, en tant que développeuse ou architecte logiciel. Elle a été élue Java Champion en 2012 et elle a co-fondé la société Ninja Squad la même année. Aujourd'hui elle travaille sur Amsterdam pour Fairphone. Parce qu'elle aime apprendre et partager, elle est très active dans les communautés techniques ; co-leader de Duchess France et co-fondatrice de la conférence MiXiT.
+    abstract: Head of IT & Fairphone 2 software Team.
     twitter: agnes_crepet
     photo: agnes.jpg
     jobtitle: 
-    employer: 
+    employer:
+    twitter:
+    linkedin: 
 
 # the speaker list will be sorted by speaker name
 # the speaker photo should be in the /images directory
@@ -29,21 +38,13 @@ keynotes:
   #   photo: 
   #   jobtitle: 
   #   employer: 
+  #   twitter:
+  #   linkedin:
   # - name: xx
   #   bio: 
   #   twitter: 
   #   photo: 
   #   jobtitle: 
   #   employer: 
-  # - name: yy
-  #   bio: 
-  #   twitter: 
-  #   photo: 
-  #   jobtitle: 
-  #   employer: 
-  # - name: aa
-  #   bio: 
-  #   twitter: 
-  #   photo: 
-  #   jobtitle: 
-  #   employer: 
+  #   twitter:
+  #   linkedin:
