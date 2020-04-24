@@ -20,9 +20,25 @@ title: Volcamp.io - Mentions legales
                     Siège social : 40 Boulevard Aristide Briand 63000 Clermont-Ferrand. 
                     Présidence collégiale.
                 </p>
-                <h4>Hébergement</h4>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-speaker section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-6">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Hébergement</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
                 <p>
-                Ce site est hébergé par Github
+                Ce site est hébergé par Github.
                 </p>
             </div>
         </div>
@@ -32,7 +48,7 @@ title: Volcamp.io - Mentions legales
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-6">
-                <div class="heading"><span class="stroke-text">Mentions legales</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>Conception et réalisation</h2>
                     </div>
@@ -55,7 +71,7 @@ title: Volcamp.io - Mentions legales
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-6">
-                <div class="heading"><span class="stroke-text">Mentions legales</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>Confidentialité</h2>
                     </div>
