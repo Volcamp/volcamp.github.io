@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800&display=swap";
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800&display=swap");
 body {
     font-family: poppins, sans-serif;
     font-size: 14px;
@@ -172,8 +172,8 @@ p {
     padding: 220px 0 200px
 }
 
-.menu-tel{
-    font-size:4em;
+.menu-tel {
+    font-size: 4em;
 }
 
 .btn {
@@ -849,7 +849,7 @@ a {
 
 .speaker-block .speaker-social li a:hover {
     background: white;
-    color:#4F993F;
+    color: #4F993F;
 }
 
 @media(max-width:767px) {
@@ -1340,9 +1340,11 @@ a {
 .footer-text h3 {
     text-transform: uppercase;
 }
-.logo_footer{
+
+.logo_footer {
     margin-bottom: 15px;
 }
+
 .copy.border-top {
     border-top: 1px solid rgba(255, 255, 255, .04)!important
 }
