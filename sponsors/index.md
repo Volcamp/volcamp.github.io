@@ -7,8 +7,8 @@ title: Volcamp.io - Sponsors
         <div class="row section-heading">
             <div class="col-lg-6">
                 <div class="heading">
-                    <div class="pl-90">
-                        <h2>Partenaire / Sponsor de l'événement</h2>
+                    <div class="pl-90"><span class="stroke-text">Sponsors</span>
+                        <h2>Partenaire de l'événement</h2>
                     </div>
                 </div>
             </div>
