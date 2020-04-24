@@ -1,15 +1,34 @@
-<section id="contentkeynote">
-    <div><h2>Un grand merci à nos orateurs #Volcamp20</h2></div>
-</section>
-<section id="speakers">
-    <div class="withlocked">
-        <table>
+<section class="section-speaker section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-6">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les speakers</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             {% assign speakers_sorted_by_name = site.data.speakers.speakers | sort: "name" %}
             {% for speaker in speakers_sorted_by_name %}
-                <tr><td><img src="{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}"></td><td><strong>{{ speaker.name }}</strong> {{ speaker.bio }}</td></tr>
+            <div class="col-lg-4 col-sm-6">
+                <div class="speaker-block mb-5">
+                    <div class="img-block"><img src="{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                        <ul class="list-inline speaker-social">
+                            <li class="list-inline-item"><a href="{{ speaker.twitter }}"><i class="tf-ion-social-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="{{ speaker.linkedin }}"><i class="tf-ion-social-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="speaker-info">
+                        <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
+                        <p>{{ speaker.abstract }}</p>
+                    </div>
+                </div>
+            </div>
             {% else %}
                 Rien à voir ici.
             {% endfor %}
-        </table>
+        </div>
     </div>
 </section>
