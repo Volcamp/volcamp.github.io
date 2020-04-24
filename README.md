@@ -10,3 +10,5 @@ Logo des sponsors : écrit en blanc, 120x70 fond transpanrent
 tinyjpg : optimize avec https://tinyjpg.com/
 
 fontello : pour la font avec juste le necessaire http://fontello.com/
+- MFG Labs : location
+- Font awesome : menu, facebook, github-squared, linkedin-squared, twitter
