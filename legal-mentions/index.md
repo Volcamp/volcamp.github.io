@@ -79,7 +79,7 @@ title: Volcamp.io - Mentions legales
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">>
+            <div class="col-lg-12">
                 <p>
                 La loi Informatique et Libertés du 06 janvier 1978 vous permet à tout moment de modifier ou supprimer les renseignements liés vous concernant et stockés dans nos bases de données. Geek&Terroir respecte la législation française sur la protection de la vie privée.
                 </p>
