@@ -5,7 +5,7 @@ title: Volcamp.io - Contactez-nous
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">Contacts</span>
                     <div class="pl-90">
                         <h2>Nous écrire</h2>
@@ -43,7 +43,7 @@ title: Volcamp.io - Contactez-nous
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Sur les réseaux sociaux</h2>

@@ -5,7 +5,7 @@ title: Volcamp.io - Programme
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">Programme</span>
                     <div class="pl-90">
                         <h2>Vos conférences</h2>

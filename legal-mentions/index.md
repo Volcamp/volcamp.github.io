@@ -5,7 +5,7 @@ title: Volcamp.io - Mentions legales
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">Mentions legales</span>
                     <div class="pl-90">
                         <h2>Geek&Terroir</h2>
@@ -27,7 +27,7 @@ title: Volcamp.io - Mentions legales
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Hébergement</h2>
@@ -47,7 +47,7 @@ title: Volcamp.io - Mentions legales
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Conception et réalisation</h2>
@@ -70,7 +70,7 @@ title: Volcamp.io - Mentions legales
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Confidentialité</h2>

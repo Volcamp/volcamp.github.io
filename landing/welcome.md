@@ -19,7 +19,7 @@ order: 1
     <div class="container">
         <div class="counter-inner">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-8">
                     <div class="counter-stat">
                         <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
                     </div>

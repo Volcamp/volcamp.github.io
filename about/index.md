@@ -5,7 +5,7 @@ title: Volcamp.io - A Propos
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">à propos de nous</span>
                     <div class="pl-90">
                         <h2>Qu’est ce que Volcamp ?</h2>
@@ -28,7 +28,7 @@ title: Volcamp.io - A Propos
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>L'association</h2>
@@ -57,7 +57,7 @@ title: Volcamp.io - A Propos
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Nos objectifs</h2>
@@ -86,7 +86,7 @@ title: Volcamp.io - A Propos
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Intervenant</h2>

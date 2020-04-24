@@ -5,7 +5,7 @@ title: Volcamp.io - Comment venir ?
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">Comment venir ?</span>
                     <div class="pl-90">
                         <h2 class="text-white">en terre volcanique</h2>

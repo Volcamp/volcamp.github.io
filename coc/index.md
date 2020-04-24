@@ -5,7 +5,7 @@ title: Volcamp.io - Code of conduct
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading"><span class="stroke-text">Code of conduct</span>
                     <div class="pl-90">
                         <h2>version rapide</h2>
@@ -28,7 +28,7 @@ title: Volcamp.io - Code of conduct
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Version longue</h2>
