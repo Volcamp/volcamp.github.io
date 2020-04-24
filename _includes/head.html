@@ -13,6 +13,11 @@
     <meta name="twitter:title" content="{{ page.title }}">
     <!--link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml"-->
 
+    {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/{{ stylesheet }}/stylesheet.css">
+    {% endfor %}
+    {% endif %}
     <link href="/css/style.css" rel="stylesheet" type="text/css">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">

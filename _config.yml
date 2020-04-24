@@ -7,6 +7,8 @@ url: https://www.volcamp.io
 navigation:
  - title: Home
    url: /
+ - title: Programme
+   url: /agenda/   
  - title: À propos
    url: /about/
  - title: Contacts
