@@ -1,13 +1,13 @@
 gold:
   - name : be-ys group
     url: http://www.be-ys.com
-    logo: beys.jpg
+    logo: beys_blanc.png
     level : gold
 
 silver:
   - name: oracle
     url: http://www.oracle.com/
-    logo: oracle_rouge.png
+    logo: oracle_blanc.png
     level : silver
 
 bronze:
@@ -18,5 +18,5 @@ bronze:
     
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
-    logo: thea.jpg
+    logo: labo_thea.png
     level : bronze
