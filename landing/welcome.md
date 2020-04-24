@@ -10,7 +10,7 @@ order: 1
             <div class="col-lg-7 mr-auto">
                 <div class="banner-content"><span>15, 16 Octobre 2020</span>
                     <h1 class="mt-3 mb-5">Volcamp</h1>
-                    <span>Votre conférence au coeur des volcans d'Auvergne</span>
+                    <span>Votre conférence au cœur des volcans d'Auvergne</span>
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@ order: 1
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="cta-content"><span class="lead">Un prix réduit pour tous</span>
-                    <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des speakers</strong> &amp; des influenceurs tech dans un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
+                    <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des speakers</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
                     <a href="#" class="btn btn-secondary btn-rounded">get ticket</a></div>
             </div>
             <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block"><img src="images/home/rev-slider-09.png" alt="" class="img-fluid"></div>
