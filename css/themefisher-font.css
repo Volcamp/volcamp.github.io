@@ -1,15 +1,13 @@
 @font-face {
     font-family: themefisher-font;
-    src: url(themefisher-font.eot?ug5hnh);
-    src: url(themefisher-font.eot?ug5hnh#iefix) format('embedded-opentype'), url(themefisher-font.ttf?ug5hnh) format('truetype'), url(themefisher-font.woff?ug5hnh) format('woff'), url(themefisher-font.svg?ug5hnh#themefisher-font) format('svg');
+    src: url(font/themefisher-font.eot?ug5hnh);
+    src: url(font/themefisher-font.eot?ug5hnh#iefix) format('embedded-opentype'), url(font/themefisher-font.ttf?ug5hnh) format('truetype'), url(font/themefisher-font.woff?ug5hnh) format('woff'), url(font/themefisher-font.svg?ug5hnh#themefisher-font) format('svg');
     font-weight: 400;
     font-style: normal
 }
-
 [class*=" tf-"],
 [class^=tf-] {
     font-family: themefisher-font!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
