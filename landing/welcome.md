@@ -38,8 +38,8 @@ order: 1
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
-                <div class="about-img position-relative"><img src="images/home/confhall32.jpg" alt="" class="img-fluid w-100">
-                    <div class="img-block"><img src="images/home/confback.jpg" alt="" class="img-fluid"></div>
+                <div class="about-img position-relative"><img src="https://www.volcamp.io/asset/images/home/confhall32.jpg" alt="" class="img-fluid w-100">
+                    <div class="img-block"><img src="https://www.volcamp.io/asset/images/home/confback.jpg" alt="" class="img-fluid"></div>
                 </div>
             </div>
             <div class="col-lg-7">
@@ -61,7 +61,7 @@ order: 1
                     <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des speakers</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
                     <a href="#" class="btn btn-secondary btn-rounded">get ticket</a></div>
             </div>
-            <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block"><img src="images/home/logo_black.png" alt="" class="img-fluid"></div>
+            <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block"><img src="https://www.volcamp.io/asset/images/home/logo_black.png" alt="" class="img-fluid"></div>
         </div>
     </div>
 </section>
