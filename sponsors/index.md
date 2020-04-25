@@ -35,7 +35,6 @@ title: Volcamp.io - Sponsors
                     <li>3 badges Exposants</li>
                     <li>3 badges conférencier</li>
                     <li>Votre logo sur le site</li>
-                    <li>Votre logo sur le site</li>
                     <li>Votre nom cité sur supports de communication</li>
                     </ul>
                     <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>

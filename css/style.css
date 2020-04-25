@@ -1007,21 +1007,51 @@ a {
 }
 
 .style-1 .pname {
-    border-color: #4F993F
+    border-color: rgb(218, 165, 32)
 }
 
-.style-2 .pname {
-    border-color: #ff4747
-}
-
-.style-2 .btn {
-    border-color: #ff4747;
-    background: #ff4747;
+.style-1 .btn {
+    border-color: rgb(218, 165, 32);
+    background: rgb(218, 165, 32);
     color: #fff
 }
 
+.style-1 .btn:hover {
+    border-color: rgb(218, 165, 32);
+    background: #fff;
+    color: #111;
+}
+
+.style-2 .pname {
+    border-color: rgb(92, 91, 91)
+}
+
+.style-2 .btn {
+    border-color: rgb(92, 91, 91);
+    background: rgb(92, 91, 91);
+    color: #fff
+}
+
+.style-2 .btn:hover {
+    border-color: rgb(92, 91, 91);
+    background: #fff;
+    color: #111;
+}
+
 .style-3 .pname {
-    border-color: #4F993F
+    border-color: rgb(153, 101, 21)
+}
+
+.style-2 .btn {
+    border-color: rgb(153, 101, 21);
+    background: rgb(153, 101, 21);
+    color: #fff
+}
+
+.style-2 .btn:hover {
+    border-color: rgb(153, 101, 21);
+    background: #fff;
+    color: #111;
 }
 
 .sponsors {
