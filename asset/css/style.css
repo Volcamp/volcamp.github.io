@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800&display=swap");
 body {
     font-family: poppins, sans-serif;
-    font-size: 14px;
+    font-size: 1em;
     font-weight: 400;
     line-height: 25px;
     -webkit-font-smoothing: antialiased;
@@ -274,7 +274,7 @@ a {
 }
 
 .main-nav .nav-link {
-    font-size: 14px;
+    font-size: 1em;
     padding: 26px 18px!important;
     font-weight: 700;
     letter-spacing: 1px;
@@ -929,7 +929,7 @@ a {
 }
 
 .text-sm {
-    font-size: 14px
+    font-size: 1em
 }
 
 .bg-gray {
