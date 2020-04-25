@@ -2,7 +2,7 @@
 layout: default
 title: Volcamp.io - Contactez-nous
 ---
-<section class="page-header" style="background-image:url(https://www.volcamp.io/images/chainedespuys.jpg);">
+<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
