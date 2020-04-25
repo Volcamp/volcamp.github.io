@@ -2,6 +2,22 @@
 layout: default
 title: Volcamp.io - Contenu
 ---
+<section class="page-header" style="background-image:url(https://www.volcamp.io/images/chainedespuys.jpg);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="content text-center">
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Contenu</h1>
+                    <div class="divider mx-auto mb-4 bg-white"></div>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
+                        <li class="list-inline-item">Contenu</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
