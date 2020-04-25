@@ -47,7 +47,7 @@ order: 1
                     <div class="ml-90">
                         <h2 class="text-lg mb-3 mt-3">Volcamp by Geek&Terroir</h2>
                         <p>La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
-                        </p><a href="https://www.volcamp.io/programme/" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">En savoir plus</a></div>
+                        </p><a href="https://www.volcamp.io/content/" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">En savoir plus</a></div>
                 </div>
             </div>
         </div>
