@@ -11,4 +11,4 @@ tinyjpg : optimize avec https://tinyjpg.com/
 
 fontello : pour la font avec juste le necessaire http://fontello.com/
 - MFG Labs : location
-- Font awesome : menu, facebook, github-squared, linkedin-squared, twitter
+- Font awesome : menu, facebook, github-squared, linkedin-squared, twitter, heart, star, thumbs-up-alt
