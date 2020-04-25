@@ -1,8 +1,18 @@
 name: Volcamp
 description: La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
 author: Geek&Terroir
+keywords: Volcamp, tech conference, conference, auvergne, clermont-fd, Geek&Terroir
 
 url: https://www.volcamp.io
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
+  - .gitignore
+  - CNAME
 
 navigation:
  - title: À propos
@@ -13,10 +23,9 @@ navigation:
    url: /speakers/
    
 syndication:
- - name: twitter
-   url: http://www.twitter.com/volcampio
- - name: github
-   url: https://github.com/Volcamp
+  twitter: http://www.twitter.com/volcampio
+  github: https://github.com/Volcamp
+  linkedin: https://www.linkedin.com/company/volcampio
 
 gems:
   - jekyll-redirect-from

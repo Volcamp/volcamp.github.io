@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=1, user-scalable=yes"> 
-    <meta name="Keywords" content="Volcamp, tech conference, conference, auvergne, clermont-fd">
-    <meta name="description" content="La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir. ">
-    <meta name="author" content="{{ side.author }}">
+    <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=1, user-scalable=yes">
+    <meta name="Keywords" content="{{ site.keywords }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
 
-    <meta property="og:image" content="/images/logo.png">
-    <meta name="twitter:image" content="/images/logo.png">
+    <meta property="og:image" content="{{ site.baseurl }}/images/logo.png">
+    <meta name="twitter:image" content="{{ site.baseurl }}/images/logo.png">
     <meta name="twitter:title" content="{{ page.title }}">
     <!--link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml"-->
 
@@ -26,6 +27,7 @@
     <meta name="msapplication-TileColor" content="#00aba9">
     <meta name="msapplication-config" content="{{ site.baseurl }}/images/favicon/browserconfig.xml">
 </head>
+
 <body>
     <header class="header-bar">
         <nav class="navbar navbar-expand-lg main-nav">
