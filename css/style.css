@@ -1042,13 +1042,13 @@ a {
     border-color: rgb(153, 101, 21)
 }
 
-.style-2 .btn {
+.style-3 .btn {
     border-color: rgb(153, 101, 21);
     background: rgb(153, 101, 21);
     color: #fff
 }
 
-.style-2 .btn:hover {
+.style-3 .btn:hover {
     border-color: rgb(153, 101, 21);
     background: #fff;
     color: #111;
