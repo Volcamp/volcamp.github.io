@@ -1165,6 +1165,9 @@ a {
 }
 
 @media(max-width:767px) {
+    body {
+        font-size: 1.2em;
+    }
     .sub-form .btn {
         position: relative;
         margin-top: 16px!important;
