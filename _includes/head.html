@@ -17,7 +17,10 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" media="screen">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/fontello.css" media="screen">
-
+    {% if page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/{{ page.custom_css }}">
+    {% endif %}
+    
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicon/favicon-16x16.png">
