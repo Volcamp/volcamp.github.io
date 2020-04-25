@@ -2,13 +2,26 @@
 
 The Volcamp conference website.
 
+# Development
 
-Photo des speakers 800x800
+Install Jekyll following official documentation https://jekyllrb.com/
 
-Logo des sponsors : écrit en blanc, 120x70 fond transpanrent
+or 
 
-tinyjpg : optimize avec https://tinyjpg.com/
+```quick start
+  sudo gem install bundler jekyll
+  sudo gem install github-pages
+  bundle exec jekyll serve
+```
 
-fontello : pour la font avec juste le necessaire http://fontello.com/
+# Rules
+
+Speakers : 800x800
+
+Sponsors logo : white text, 120x70, transparent background
+
+tinyjpg : optimize jpg with https://tinyjpg.com/
+
+fontello : just the necessary pictures in font with http://fontello.com/
 - MFG Labs : location
 - Font awesome : menu, facebook, github-squared, linkedin-squared, twitter, heart, star, thumbs-up-alt
