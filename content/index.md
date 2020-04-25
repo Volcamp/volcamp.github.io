@@ -66,7 +66,7 @@ title: Volcamp.io - Contenu
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <p>La conférence s'ogranise autour de 8 grands thèmes :</p>
+                <p>La conférence s'organise autour de 8 grands thèmes :</p>
                 <ul>
                     <li>Langage & Frameworks</li>
                     <li>BigData & AI</li>

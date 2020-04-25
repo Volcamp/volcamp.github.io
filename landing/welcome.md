@@ -57,7 +57,7 @@ order: 1
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7">
-                <div class="cta-content"><span class="lead">Un prix réduit pour tous</span>
+                <div class="cta-content">
                     <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des speakers</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
                     <a href="#" class="btn btn-secondary btn-rounded">get ticket</a></div>
             </div>
