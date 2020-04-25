@@ -363,7 +363,7 @@ a {
 
 .section-banner .banner-content span {
     color: white;
-    font-size: 18px
+    font-size: 20px
 }
 
 .banner-img {
@@ -1142,7 +1142,7 @@ a {
         font-size: 1.5em;
     }
     .section-banner .banner-content h1 {
-        font-size: 80px
+        font-size: 90px
     }
     .about-img .img-block {
         left: 50%;
@@ -1180,7 +1180,7 @@ a {
         position: absolute
     }
     .section-banner .banner-content h1 {
-        font-size: 60px
+        font-size: 70px
     }
     .section-banner {
         min-height: 515px
