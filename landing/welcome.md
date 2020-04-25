@@ -4,7 +4,7 @@ title: Volcamp.io
 order: 1
 ---
 
-<section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/images/bg-banner.png) no-repeat center top #6fc660">
+<section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/asset/images/bg-banner.png) no-repeat center top #6fc660">
     <div class="container">
         <div class="row">
             <div class="col-lg-7 mr-auto">
@@ -69,13 +69,13 @@ order: 1
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 badge">
-                <img src="https://www.volcamp.io/images/participants.png" alt="250 participants"><br>Participants
+                <img src="https://www.volcamp.io/asset/images/participants.png" alt="250 participants"><br>Participants
             </div>
             <div class="col-lg-4 col-md-6 badge">
-                <img src="https://www.volcamp.io/images/speakers.png" alt="30 speakers"><br>Orateurs
+                <img src="https://www.volcamp.io/asset/images/speakers.png" alt="30 speakers"><br>Orateurs
             </div>
             <div class="col-lg-4 col-md-6 badge">
-                <img src="https://www.volcamp.io/images/terroir.png" alt="100% terroir"><br>Terroir
+                <img src="https://www.volcamp.io/asset/images/terroir.png" alt="100% terroir"><br>Terroir
             </div>
         </div>
     </div>

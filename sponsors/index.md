@@ -26,7 +26,7 @@ title: Volcamp.io - Sponsors
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-4 col-md-6">
                 <div class="package style-1 bg-white mb-5 mb-lg-0">
-                    <div class="price-header mb-4" style="background-image:url(/images/page-header.jpg)">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
                     <i class="icon-star"></i>
                     </div>
                     <h6 class="pname">Gold</h6>
@@ -42,7 +42,7 @@ title: Volcamp.io - Sponsors
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="package style-2 bg-white mb-5 mb-lg-0">
-                    <div class="price-header mb-4" style="background-image:url(/images/page-header.jpg)">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
                     <i class="icon-heart"></i>
                     </div>
                     <h6 class="pname">Silver</h6>
@@ -58,7 +58,7 @@ title: Volcamp.io - Sponsors
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="package style-3 bg-white mb-5 mb-lg-0">
-                    <div class="price-header mb-4" style="background-image:url(/images/page-header.jpg)">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
                     <i class="icon-thumbs-up-alt"></i>
                     </div>
                     <h6 class="pname">Bronze</h6>
