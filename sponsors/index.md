@@ -94,44 +94,40 @@ title: Volcamp.io - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2 class="text-white">Les sponsors Volcamp 2020</h2>
+                        <h2>Les sponsors Volcamp 2020</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 text-white letter-spacing text-sm style-1">Sponsors Gold</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-1">Sponsors Gold</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.gold %}
-                <div class="client-item"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 text-white letter-spacing text-sm style-2">Sponsors Silver</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-2">Sponsors Silver</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.silver %}
-                <div class="client-item"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 text-white letter-spacing text-sm style-3">Sponsors Bronze</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-3">Sponsors Bronze</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.bronze %}
-                <div class="client-item"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <h5 class="text-white mt-5 mb-4 h3">Pour devenir sponsor ?</h5><a href="{{ site.baseurl }}/sponsors/" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">Les packages</a></div>
         </div>
     </div>
 </section>

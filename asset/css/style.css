@@ -903,6 +903,17 @@ h4.style-3 {
     height: 100%;
 }
 
+.client-item-color {
+    float: left;
+    width: 15%;
+    height: 115px;
+    padding: 20px;
+    text-align: center;
+}
+.client-item-color a {
+    display: block
+}
+
 .client-item {
     float: left;
     width: 15%;
@@ -917,11 +928,9 @@ h4.style-3 {
     -o-transition: all .45s ease-in-out;
     transition: all .45s ease-in-out
 }
-
 .client-item a {
     display: block
 }
-
 .client-item:hover {
     opacity: 1;
     background: #111

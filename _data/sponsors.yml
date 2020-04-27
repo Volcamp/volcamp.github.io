@@ -1,22 +1,22 @@
 gold:
   - name : be-ys group
     url: http://www.be-ys.com
-    logo: beys_blanc.png
+    logo: beys
     level : gold
 
 silver:
   - name: oracle
     url: http://www.oracle.com/
-    logo: oracle_blanc.png
+    logo: oracle
     level : silver
 
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
-    logo: clever_cloud.png
+    logo: clever_cloud
     level : bronze
     
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
-    logo: labo_thea.png
+    logo: labo_thea
     level : bronze
