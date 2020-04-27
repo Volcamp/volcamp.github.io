@@ -831,50 +831,59 @@ a {
     background: #ff4747
 }
 
+h4.style-1 {
+    color: #D4AF37;
+}
 .style-1 .pname {
-    border-color: rgb(218, 165, 32)
+    border-color: #D4AF37;
 }
 
 .style-1 .btn {
-    border-color: rgb(218, 165, 32);
-    background: rgb(218, 165, 32);
+    border-color: #D4AF37;
+    background: #D4AF37;
     color: #fff
 }
 
 .style-1 .btn:hover {
-    border-color: rgb(218, 165, 32);
+    border-color: #D4AF37;
     background: #fff;
     color: #111;
 }
 
+h4.style-2 {
+    color: #C0C0C0
+}
 .style-2 .pname {
-    border-color: rgb(92, 91, 91)
+    border-color: #C0C0C0
 }
 
 .style-2 .btn {
-    border-color: rgb(92, 91, 91);
-    background: rgb(92, 91, 91);
+    border-color: #C0C0C0;
+    background: #C0C0C0;
     color: #fff
 }
 
 .style-2 .btn:hover {
-    border-color: rgb(92, 91, 91);
+    border-color:#C0C0C0;
     background: #fff;
     color: #111;
 }
 
+h4.style-3 {
+    color: #9F7A34;
+}
 .style-3 .pname {
-    border-color: rgb(153, 101, 21)
+    border-color: #9F7A34;
 }
 
 .style-3 .btn {
-    border-color: rgb(153, 101, 21);
-    background: rgb(153, 101, 21);
+    border-color: #9F7A34;
+    background: #9F7A34;
     color: #fff
 }
 
 .style-3 .btn:hover {
-    border-color: rgb(153, 101, 21);
+    border-color: #9F7A34;
     background: #fff;
     color: #111;
 }
