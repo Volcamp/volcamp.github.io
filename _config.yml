@@ -23,6 +23,8 @@ navigation:
    url: /speakers/
  - title: Sponsors
    url: /sponsors/
+ - title: Programme
+   url: /agenda/
    
 syndication:
   twitter: http://www.twitter.com/volcampio
