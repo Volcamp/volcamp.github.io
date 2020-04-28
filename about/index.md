@@ -7,11 +7,11 @@ title: Volcamp.io - A Propos
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">A propos</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">&Agrave; propos de Volcamp</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
                     <ul class="list-inline">
                         <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">A propos</li>
+                        <li class="list-inline-item">A propos de Volcamp</li>
                     </ul>
                 </div>
             </div>
