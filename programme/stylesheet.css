@@ -1,14 +1,12 @@
 table {
-  border-top: 0px solid black;
-  border-right: 1px solid black;
-  border-left: 0px;
-  border-collapse: collapse;
   margin-top: 10px;
   margin-bottom: 50px;
+  border-spacing: 10px;
+  border-collapse: unset;
 }
 
 th, td {
-  border: 1px solid #a4a4a4;
+  border-radius:10px;
   border-collapse: collapse;
   text-align: center;
   padding: 15px;
@@ -23,8 +21,8 @@ th, td {
 }
 
 .break {
-  background-color: white;
-  color: #a4a4a4;
+  background-color: #dbd8d8;
+  color: #757575;
   font-weight: 800;
 }
 
