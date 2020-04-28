@@ -1,0 +1,53 @@
+table {
+  border-top: 0px solid black;
+  border-right: 1px solid black;
+  border-left: 0px;
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+th, td {
+  border: 1px solid #a4a4a4;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 15px;
+  color: #444444;
+}
+
+.schedule {
+  border: 0px;
+  text-align: right;
+  color: #6EC660;
+  font-weight: 800;
+}
+
+.break {
+  background-color: white;
+  color: #a4a4a4;
+  font-weight: 800;
+}
+
+.conf {
+  background-color: #6EC65F;
+  color: white;
+  font-weight: 800;
+}
+
+.rex {
+  background-color: #4F993F;
+  color: white;
+  font-weight: 800;
+}
+
+.workshop {
+  background-color: #444444;
+  color: #6EC660;
+  font-weight: 800;
+}
+
+.quicky {
+  background-color: #a4a4a4;
+  color: #444444;
+  font-weight: 800;
+}
