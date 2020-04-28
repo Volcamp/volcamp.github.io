@@ -1183,7 +1183,7 @@ h4.style-3 {
     .ml-90 {
         margin-left: 0
     }
-    .client-item {
+    .client-item, .client-item-color {
         width: 20%
     }
     .counter-inner {
@@ -1232,7 +1232,7 @@ h4.style-3 {
         height: 40px;
         line-height: 40px
     }
-    .client-item {
+    .client-item, .client-item-color {
         width: 30%
     }
 }
@@ -1280,7 +1280,7 @@ h4.style-3 {
     .counter-inner .counter-stat h2 {
         font-size: 20px
     }
-    .client-item {
+    .client-item, .client-item-color {
         width: 40%
     }
     .syotimer-cell {
@@ -1324,7 +1324,7 @@ h4.style-3 {
     .pl-90 {
         padding-left: 0
     }
-    .client-item {
+    .client-item, .client-item-color {
         width: 50%
     }
     .comment-respond {
