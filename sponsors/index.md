@@ -20,7 +20,7 @@ title: Volcamp.io - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Partenaire de l'événement</h2>
+                        <h2>Devenir un partenaire de l'événement</h2>
                     </div>
                 </div>
             </div>

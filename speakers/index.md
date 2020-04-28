@@ -25,7 +25,7 @@ title: Volcamp.io - Orateurs
                 </div>
             </div>
         </div>
-        {% include speaker_keynotes.html %}
+        {% include speakers_keynote.html %}
     </div>
 </section>
 {% if site.data.speakers.speakers %}
