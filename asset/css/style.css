@@ -220,6 +220,18 @@ p {
     border-color: #4F993F
 }
 
+.btn-sponsor {
+    background: #4F993F;
+    border-color: #4F993F;
+    color: #fff
+}
+
+.btn-sponsor:hover {
+    background: #fff;
+    color: #111;
+    border-color: #4F993F
+}
+
 .btn-gray {
     background: #f8f8f8;
     color: #111

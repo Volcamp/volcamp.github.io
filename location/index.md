@@ -20,7 +20,7 @@ title: Volcamp.io - Comment venir ?
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Comment venir en terre volcanique ?</h2>
+                        <h2>Venir en terre volcanique ?</h2>
                     </div>
                 </div>
             </div>
