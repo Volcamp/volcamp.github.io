@@ -21,6 +21,8 @@ navigation:
    url: /contacts/
  - title: Orateurs
    url: /speakers/
+ - title: Infos
+   url: /content/
    
 syndication:
   twitter: http://www.twitter.com/volcampio
