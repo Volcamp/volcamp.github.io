@@ -15,12 +15,12 @@ exclude:
   - CNAME
 
 navigation:
+ - title: Programme
+   url: /programme/
  - title: Orateurs
    url: /speakers/
  - title: Sponsors
    url: /sponsors/
- - title: Programme
-   url: /programme/
    
 syndication:
   twitter: http://www.twitter.com/volcampio
