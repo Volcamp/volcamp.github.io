@@ -8,9 +8,9 @@ order: 1
     <div class="container">
         <div class="row">
             <div class="col-lg-7 mr-auto">
-                <div class="banner-content"><span>Jeudi 15 et vendredi 16 Octobre 2020</span>
+                <div class="banner-content"><span>jeudi 15 et vendredi 16 octobre 2020</span>
                     <h1 class="mt-3 mb-5">Volcamp</h1>
-                    <span>Première conférence tech au cœur des volcans d'Auvergne</span>
+                    <span>Première conférence tech<br>au cœur des volcans d'Auvergne</span>
                 </div>
             </div>
         </div>
