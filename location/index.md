@@ -7,7 +7,7 @@ title: Volcamp.io - Comment venir ?
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Comment venir à Volcamp ?</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Comment venir ?</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
                 </div>
             </div>
@@ -20,7 +20,7 @@ title: Volcamp.io - Comment venir ?
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2 class="text-white">Comment venir en terre volcanique ?</h2>
+                        <h2>Comment venir en terre volcanique ?</h2>
                     </div>
                 </div>
             </div>
