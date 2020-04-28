@@ -9,10 +9,6 @@ title: Volcamp.io - Comment venir ?
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Comment venir à Volcamp ?</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Comment venir à Volcamp ?</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -22,9 +18,9 @@ title: Volcamp.io - Comment venir ?
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
-                <div class="heading"><span class="stroke-text">Comment venir ?</span>
+                <div class="heading">
                     <div class="pl-90">
-                        <h2 class="text-white">en terre volcanique</h2>
+                        <h2 class="text-white">Comment venir en terre volcanique ?</h2>
                     </div>
                 </div>
             </div>

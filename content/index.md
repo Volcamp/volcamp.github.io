@@ -9,10 +9,6 @@ title: Volcamp.io - Contenu
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Contenu</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Contenu</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -22,7 +18,7 @@ title: Volcamp.io - Contenu
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
-                <div class="heading"><span class="stroke-text">Contenu</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>Vos conférences</h2>
                     </div>

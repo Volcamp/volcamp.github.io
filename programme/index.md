@@ -11,10 +11,6 @@ custom_css: programme/stylesheet.css
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Programme</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Programme</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -24,7 +20,7 @@ custom_css: programme/stylesheet.css
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
-                <div class="heading"><span class="stroke-text">Programme</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>Volcamp 2020</h2>
                     </div>

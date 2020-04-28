@@ -9,10 +9,6 @@ title: Volcamp.io - Code de conduite
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Code de conduite</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Code de conduite</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -22,7 +18,7 @@ title: Volcamp.io - Code de conduite
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
-                <div class="heading"><span class="stroke-text">Code de conduite</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>version rapide</h2>
                     </div>

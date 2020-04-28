@@ -9,10 +9,6 @@ title: Volcamp.io - Mentions legales
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Mentions legales</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Mentions legales</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -22,7 +18,7 @@ title: Volcamp.io - Mentions legales
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
-                <div class="heading"><span class="stroke-text">Mentions legales</span>
+                <div class="heading">
                     <div class="pl-90">
                         <h2>Geek&Terroir</h2>
                     </div>

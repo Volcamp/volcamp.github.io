@@ -9,16 +9,25 @@ title: Volcamp.io - Orateurs
                 <div class="content text-center">
                     <h1 class="mb-3 text-white text-capitalize letter-spacing">Nos orateurs</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
-                    <ul class="list-inline">
-                        <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">Nos orateurs</li>
-                    </ul>
                 </div>
             </div>
         </div>
     </div>
 </section>
-{% include keynotes.html %}
+<section class="section-speaker section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les keynotes</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include speaker_keynotes.html %}
+    </div>
+</section>
 {% if site.data.speakers.speakers %}
 <hr/>
 {% include speakers.html %}
