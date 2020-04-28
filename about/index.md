@@ -11,7 +11,7 @@ title: Volcamp.io - A Propos
                     <div class="divider mx-auto mb-4 bg-white"></div>
                     <ul class="list-inline">
                         <li class="list-inline-item"><a href="/">Accueil</a> /</li>
-                        <li class="list-inline-item">A propos de Volcamp</li>
+                        <li class="list-inline-item">&Agrave; propos de Volcamp</li>
                     </ul>
                 </div>
             </div>

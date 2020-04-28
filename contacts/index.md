@@ -41,16 +41,16 @@ title: Volcamp.io - Contactez-nous
                 Vous pouvez contacter directement nos commissions : 
                 </p>
                 <ul>
-                    <li>Sponsoring : sponsor at volcamp.io</li>
-                    <li>Logistique avant et pendant l'évènement : event at volcamp.io</li>
-                    <li>Billeterie : billeterie at volcamp.io</li>
-                    <li>Call For Paper : cfp at volcamp.io</li>
+                    <li>Sponsoring : "sponsor at volcamp.io".</li>
+                    <li>Logistique avant et pendant l'évènement : "event at volcamp.io".</li>
+                    <li>Billeterie : "billeterie at volcamp.io".</li>
+                    <li>Call For Paper : "cfp at volcamp.io".</li>
                 </ul>
                 <p>
                 (Pensez à remplacer "at" par "@").
                 </p>
                 <p>
-                Pour toute autre question, vous pouvez nous contacter via : contact at volcamp.io
+                Pour toute autre question, vous pouvez nous contacter via : "contact at volcamp.io".
                 </p>
             </div>
         </div>
@@ -73,9 +73,9 @@ title: Volcamp.io - Contactez-nous
                 Vous pouvez également nous suivre et nous contacter sur :
                 </p>
                 <ul>
-                    <li><i class="icon-twitter"></i> Twitter: <a href="https://twitter.com/VolcampIO">https://twitter.com/VolcampIO</a></li>
-                    <li><i class="icon-linkedin-squared"></i> LinkedIn: <a href="https://www.linkedin.com/company/volcampio">https://www.linkedin.com/company/volcampio</a></li>
-                    <li><i class="icon-github-squared"></i> Github: <a href="https://github.com/Volcamp/">https://github.com/Volcamp/</a></li>
+                    <li><i class="icon-twitter"></i> Twitter : <a href="https://twitter.com/VolcampIO">https://twitter.com/VolcampIO</a></li>
+                    <li><i class="icon-linkedin-squared"></i> LinkedIn : <a href="https://www.linkedin.com/company/volcampio">https://www.linkedin.com/company/volcampio</a></li>
+                    <li><i class="icon-github-squared"></i> GitHub : <a href="https://github.com/Volcamp/">https://github.com/Volcamp/</a></li>
                 </ul>
             </div>
         </div>
