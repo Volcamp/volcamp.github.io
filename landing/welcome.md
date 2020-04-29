@@ -58,7 +58,7 @@ order: 1
         <div class="row align-items-center">
             <div class="col-lg-7">
                 <div class="cta-content">
-                    <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des speakers</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
+                    <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des intervenants</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
                     </div>
             </div>
             <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block"><img src="https://www.volcamp.io/asset/images/home/logo_black.png" alt="" class="img-fluid"></div>
@@ -72,7 +72,7 @@ order: 1
                 <img src="https://www.volcamp.io/asset/images/participants.png" alt="250 participants"><br>Participants
             </div>
             <div class="col-lg-4 col-md-6 badge">
-                <img src="https://www.volcamp.io/asset/images/speakers.png" alt="30 speakers"><br>Orateurs
+                <img src="https://www.volcamp.io/asset/images/speakers.png" alt="30 speakers"><br>Intervenants
             </div>
             <div class="col-lg-4 col-md-6 badge">
                 <img src="https://www.volcamp.io/asset/images/terroir.png" alt="100% terroir"><br>Terroir
