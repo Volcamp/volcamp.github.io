@@ -31,7 +31,7 @@ title: Volcamp.io - A Propos
                 Volcamp est une conférence IT organisée à Clermont-Fd, FR, organisée par l'association Geek&Terroir (association à but non-lucratif). L'association rassemble les acteurs régionaux (industriels, universitaires, étudiants, associations…) qui partagent un intérêt pour lʼinformatique et les nouvelles technologies.
                 </p>
                 <p>
-                2020 est la première édition avec comme objectif de rassembler plus de 250 participants autour de 30 speakers pour 2 jours de conférences.
+                2020 est la première édition avec comme objectif de rassembler plus de 250 participants autour de 30 intervenants pour 2 jours de conférences.
                 </p>
             </div>
         </div>
@@ -60,7 +60,7 @@ title: Volcamp.io - A Propos
                 Autour de cette collégiale, une vingtaine de bénévoles, membres de l'association, participent à l'organisation de l'évènement via des commissions thématiques (communication, call for paper, sponsors, logistique...)
                 </p>
                 <p>
-                Geek&Terroir est animé par une équipe de bénévoles, avec lʼaide de sponsors qui proposent leur soutien ﬁnancier. En retour, nous offrons à ces partenaires divers vecteurs de communication privilégiés qui touchent les personnes les plus impliquées localement dans lʼutilisation des nouvelles technologies : réseaux sociaux, site web, stand lors de l'évènement.
+                Geek&Terroir est animé par une équipe de bénévoles, avec lʼaide de sponsors qui proposent leur soutien ﬁnancier. En retour, nous offrons à ces sponsors divers vecteurs de communication privilégiés qui touchent les personnes les plus impliquées localement dans lʼutilisation des nouvelles technologies : réseaux sociaux, site web, stand lors de l'évènement.
                 </p>
             </div>
         </div>
@@ -83,10 +83,10 @@ title: Volcamp.io - A Propos
                 L'objectif premier est d'organiser 1 conférence annuelle de 2 jours afin de créer une synergie entre les acteurs de l'IT du bassin clermontois mais également de promouvoir le savoir-faire technologique et la beauté du patrimoine auvergnats.
                 </p>
                 <p>
-                Les speakers présents lors de l'évènement sont issus à la fois des entreprises, universités, associations de l'écosystème de la Région Auvergne mais aussi des speakers de renom connus dans la sphère des conférences IT nationales voire internationales.
+                Les intervenants présents lors de l'évènement sont issus à la fois des entreprises, universités, associations de l'écosystème de la Région Auvergne mais aussi des speakers de renom connus dans la sphère des conférences IT nationales voire internationales.
                 </p>
                 <p>
-                Volcamp met en place les outils : site web, comptes <a href="https://twitter.com/VolcampIO">Twitter</a> & <a href="https://www.linkedin.com/company/volcampio">Linkedin</a>, nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses partenaires.
+                Volcamp met en place les outils : site web, comptes <a href="https://twitter.com/VolcampIO">Twitter</a> & <a href="https://www.linkedin.com/company/volcampio">Linkedin</a>, nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses sponsors.
                 </p>
                 <p>
                 Dʼautre part Volcamp espère faire naître des vocations de conférencier parmi ses participants et offrir une tribune pour présenter des retours dʼexpérience ou les applications dʼun sujet de recherche.

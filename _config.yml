@@ -17,7 +17,7 @@ exclude:
 navigation:
  - title: Programme
    url: /programme/
- - title: Orateurs
+ - title: Intervenants
    url: /speakers/
  - title: Sponsors
    url: /sponsors/

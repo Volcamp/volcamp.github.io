@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Volcamp.io - Orateurs
+title: Volcamp.io - Les intervenants
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Nos orateurs</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Nos intervenants</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
                 </div>
             </div>
