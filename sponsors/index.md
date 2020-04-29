@@ -98,7 +98,7 @@ title: Volcamp.io - Sponsors
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-1">Sponsors Gold</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-1">Gold</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.gold %}
@@ -108,7 +108,7 @@ title: Volcamp.io - Sponsors
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-2">Sponsors Silver</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-2">Silver</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.silver %}
@@ -118,7 +118,7 @@ title: Volcamp.io - Sponsors
         </div>
         <div class="row mb-5">
             <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-3">Sponsors Bronze</h4>
+                <h4 class="mb-4 letter-spacing text-sm style-3">Bronze</h4>
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.bronze %}
