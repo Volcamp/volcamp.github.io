@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp.io - Sponsors
+title: Volcamp - Sponsors
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
@@ -28,7 +28,7 @@ title: Volcamp.io - Sponsors
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                Votre organisation est un acteur de lʼécosystème auvergnat ou du monde des nouvelles technologies et souhaite sʼassocier à Volcamp  en sponsorisant un événement : contactez notre équipe dédiée au sujet via sponsor@volcamp.io .
+                Votre organisation est un acteur de lʼécosystème auvergnat ou du monde des nouvelles technologies et souhaite sʼassocier à Volcamp  en sponsorisant un événement : contactez notre équipe dédiée au sujet via "sponsor at volcamp.io".
                 </p>
                 <p>
                 En contre partie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquette, réseaux sociaux, etc.) et présenté comme sponsor ofﬁciel lors de l'événement.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp.io - Comment venir ?
+title: Volcamp - Comment venir ?
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">

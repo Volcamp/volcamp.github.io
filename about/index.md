@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp.io - A Propos
+title: Volcamp - A Propos
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">

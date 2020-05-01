@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp.io - Programme
+title: Volcamp - Programme
 custom_css: talks/stylesheet.css
 ---
 

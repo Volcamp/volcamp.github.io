@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp.io - Mentions legales
+title: Volcamp - Mentions legales
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
@@ -127,7 +127,7 @@ title: Volcamp.io - Mentions legales
                 Conformément à la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés modifiée, et au Règlement Général pour la Protection des Données (UE) 2016/679 – le « RGPD », vous pouvez à tout moment modifier ou supprimer les renseignements vous concernant et stockés dans nos bases de données.
                 </p>
                 <p>
-                Selon ces mêmes articles, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour exercer ce droit, merci de nous contacter directement à l’adresse contact@volcamp.io.
+                Selon ces mêmes articles, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour exercer ce droit, merci de nous contacter directement à l’adresse "contact at volcamp.io".
                 </p>
             </div>
         </div>
