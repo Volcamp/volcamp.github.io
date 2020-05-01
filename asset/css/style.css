@@ -660,7 +660,7 @@ a {
     opacity: 1
 }
 
-.speaker-block img {
+.speaker-block img, .rounded {
     border-radius: 5px
 }
 
