@@ -61,7 +61,6 @@ a.ws{
 .legend_item{
   display: flex;
   flex-wrap: wrap;
-  margin: 1rem;
 }
 
 .all_theme {
@@ -132,6 +131,6 @@ a.ws{
     font-size: 0.7em;
   }
   .legend_item{
-    font-size: 0.8em;
+    font-size: 0.7em;
   }
 }
