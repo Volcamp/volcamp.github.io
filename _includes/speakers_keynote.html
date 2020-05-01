@@ -1,5 +1,6 @@
 <div class="row">
-    {% for speaker in site.data.speakers.keynotes %}
+    {% assign speakers = site.speakers | where: "keynotes", true | sort_natural: 'name' %}
+    {% for speaker in speakers %}
     <div class="col-lg-4 col-sm-6">
         <div class="speaker-block mb-5">
             <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
