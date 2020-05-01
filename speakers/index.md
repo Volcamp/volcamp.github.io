@@ -20,15 +20,31 @@ title: Volcamp.io - Les intervenants
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Les keynotes</h2>
+                        <h2>Les speakers</h2>
                     </div>
                 </div>
             </div>
         </div>
-        {% include speakers_keynote.html %}
+        <div class="row">
+            {% assign speakers = site.speakers | sort_natural: 'name' %}
+            {% for speaker in speakers %}
+            <div class="col-lg-4 col-sm-6">
+                <div class="speaker-block mb-5">
+                    <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                        <ul class="list-inline speaker-social">
+                            <li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}"><i class="icon-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}"><i class="icon-linkedin-squared"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="speaker-info">
+                        <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
+                        <p>{{ speaker.abstract }}</p>
+                    </div>
+                </div>
+            </div>
+            {% else %}
+                Rien à voir ici.
+            {% endfor %}
+        </div>
     </div>
 </section>
-{% if site.data.speakers.speakers %}
-<hr/>
-{% include speakers.html %}
-{% endif %}
