@@ -5,7 +5,7 @@
             <li><i class="icon-clock"></i> {{ talk.time_start }} - {{ talk.time_end }}</li>
             <li><i class="icon-mic"></i> {{ talk.speakers }}</li>
             <li><i class="icon-location"></i> {{ talk.room }}</li>
-            <li> {{ talk.format }}</li>     
+            <li>{% if talk.format == "Keynote" %}<i class="icon-megaphone"></i>{% elseif(talk.format == "Quicky" %}<i class="icon-icon-gauge"></i>{% elseif(talk.format == "Conférence" %}<i class="icon-icon-graduation-cap"></i>{% elseif(talk.format == "REX" %}<i class="icon-icon-arrows-cw"></i>{% elseif(talk.format == "Workshop" %}<i class="icon-icon-beaker"></i>{% endif %} {{ talk.format }}</li>     
             <li><i class="icon-tag"></i> {{ talk.category }}</li>                                  
         </ul>
     </div>
