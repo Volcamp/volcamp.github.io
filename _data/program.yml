@@ -1,0 +1,479 @@
+20d1t1k1:
+  name: 20d1t1k2
+  title: L'intro Volcamp
+  content:
+  category: Keynote
+  format: Keynote
+  speakers: Volcamp team
+  time_start: '09:00'
+  time_end: '09:15'
+  room: Auditorium
+20d1t1k2:
+  name: 20d1t1k2
+  title: Keynote
+  content:
+  category: Keynote
+  format: Keynote
+  speakers: Yves Caseau
+  time_start: '09:15'
+  time_end: '10:00'
+  room: Auditorium
+20d1t1s1:
+  name: 20d1t1s1
+  title: TBD
+  content:
+  category: Big Data
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '10:15'
+  time_end: '11:00'
+20d1t1s2:
+  name: 20d1t1s2
+  title: TBD
+  content:
+  category: Architecture
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '11:15'
+  time_end: '12:00'
+20d1t1s3:
+  name: 20d1t1s3
+  title: TBD
+  content:
+  category: Cloud
+  format: Quicky
+  speakers: TBD
+  room: Auditorium
+  time_start: '12:15'
+  time_end: '12:30'
+20d1t1s4:
+  name: 20d1t1s4
+  title: TBD
+  content:
+  category: Langage
+  format: Quicky
+  speakers: TBD
+  room: Auditorium
+  time_start: '12:35'
+  time_end: '12:50'
+20d1t1s5:
+  name: 20d1t1s5
+  title: TBD
+  content:
+  category: Devops
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '13:00'
+  time_end: '13:45'
+20d1t1s6:
+  name: 20d1t1s6
+  title: TBD
+  content:
+  category: Web
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '14:00'
+  time_end: '14:45'
+20d1t1s7:
+  name: 20d1t1s7
+  title: TBD
+  content:
+  category: UX/UI
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '15:00'
+  time_end: '15:45'
+20d1t1s8:
+  name: 20d1t1s8
+  title: TBD
+  content:
+  category: Découverte
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '16:00'
+  time_end: '16:45'
+20d1t1s9:
+  name: 20d1t1s9
+  title: TBD
+  content:
+  category: Big Data
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '17:00'
+  time_end: '17:45'
+20d1t2s1:
+  name: 20d1t2s1
+  title: TBD
+  content:
+  category: Architecture
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '10:15'
+  time_end: '11:00'
+20d1t2s2:
+  name: 20d1t2s2
+  title: TBD
+  content:
+  category: Devops
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '11:15'
+  time_end: '12:00'
+20d1t2s3:
+  name: 20d1t2s3
+  title: TBD
+  content:
+  category: Big Data
+  format: Quicky
+  speakers: TBD
+  room: Mezzanine
+  time_start: '12:15'
+  time_end: '12:30'
+20d1t2s4:
+  name: 20d1t2s4
+  title: TBD
+  content:
+  category: Découverte
+  format: Quicky
+  speakers: TBD
+  room: Mezzanine
+  time_start: '12:35'
+  time_end: '12:50'
+20d1t2s5:
+  name: 20d1t2s5
+  title: TBD
+  content:
+  category: Cloud
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '13:00'
+  time_end: '13:45'
+20d1t2s6:
+  name: 20d1t2s6
+  title: TBD
+  content:
+  category: UX/UI
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '14:00'
+  time_end: '14:45'
+20d1t2s7:
+  name: 20d1t2s7
+  title: TBD
+  content:
+  category: Langage
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '15:00'
+  time_end: '15:45'
+20d1t2s8:
+  name: 20d1t2s8
+  title: TBD
+  content:
+  category: Big Data
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '16:00'
+  time_end: '16:45'
+20d1t2s9:
+  name: 20d1t2s9
+  title: TBD
+  content:
+  category: Web
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '17:00'
+  time_end: '17:45'
+20d1t3s1:
+  name: 20d1t3s1
+  title: TBD
+  content:
+  category: Devops
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '10:15'
+  time_end: '12:00'
+20d1t3s2:
+  name: 20d1t3s2
+  title: TBD
+  content:
+  category: Cloud
+  format: Quicky
+  speakers: TBD
+  room: Showroom
+  time_start: '12:15'
+  time_end: '12:30'
+20d1t3s3:
+  name: 20d1t3s3
+  title: TBD
+  content:
+  category: Big Data
+  format: Quicky
+  speakers: TBD
+  room: Showroom
+  time_start: '12:35'
+  time_end: '12:50'
+20d1t3s4:
+  name: 20d1t3s4
+  title: TBD
+  content:
+  category: UX/UI
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '13:00'
+  time_end: '14:45'
+20d1t3s5:
+  name: 20d1t3s5
+  title: TBD
+  content:
+  category: Cloud
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '15:00'
+  time_end: '16:45'
+20d2t1k1:
+  name: 20d2t1k1
+  title: Keynote
+  content:
+  category: Keynote
+  format: Keynote
+  speakers: Agnès Crepet, Audrey Neveu
+  time_start: '09:00'
+  time_end: '10:00'
+20d2t1k2:
+  name: 20d2t1k2
+  title: Le mot de la fin
+  content:
+  category: Keynote
+  format: Keynote
+  speakers: Volcamp team
+  time_start: '17:00'
+  time_end: '17:30'
+  room: Auditorium
+20d2t1s1:
+  name: 20d2t1s1
+  title: TBD
+  content:
+  category: Big Data
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '10:15'
+  time_end: '11:00'
+20d2t1s2:
+  name: 20d2t1s2
+  title: TBD
+  content:
+  category: Architecture
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '11:15'
+  time_end: '12:00'
+20d2t1s3:
+  name: 20d2t1s3
+  title: TBD
+  content:
+  category: Cloud
+  format: Quicky
+  speakers: TBD
+  room: Auditorium
+  time_start: '12:15'
+  time_end: '12:30'
+20d2t1s4:
+  name: 20d2t1s4
+  title: TBD
+  content:
+  category: Langage
+  format: Quicky
+  speakers: TBD
+  room: Auditorium
+  time_start: '12:35'
+  time_end: '12:50'
+20d2t1s5:
+  name: 20d2t1s5
+  title: TBD
+  content:
+  category: Devops
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '13:00'
+  time_end: '13:45'
+20d2t1s6:
+  name: 20d2t1s6
+  title: TBD
+  content:
+  category: Web
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '14:00'
+  time_end: '14:45'
+20d2t1s7:
+  name: 20d2t1s7
+  title: TBD
+  content:
+  category: UX/UI
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '15:00'
+  time_end: '15:45'
+20d2t1s8:
+  name: 20d2t1s8
+  title: TBD
+  content:
+  category: Découverte
+  format: Conférence
+  speakers: TBD
+  room: Auditorium
+  time_start: '16:00'
+  time_end: '16:45'
+20d2t2s1:
+  name: 20d2t2s1
+  title: TBD
+  content:
+  category: Architecture
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '10:15'
+  time_end: '11:00'
+20d2t2s2:
+  name: 20d2t2s2
+  title: TBD
+  content:
+  category: Devops
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '11:15'
+  time_end: '12:00'
+20d2t2s3:
+  name: 20d2t2s3
+  title: TBD
+  content:
+  category: Big Data
+  format: Quicky
+  speakers: TBD
+  room: Mezzanine
+  time_start: '12:15'
+  time_end: '12:30'
+20d2t2s4:
+  name: 20d2t2s4
+  title: TBD
+  content:
+  category: Découverte
+  format: Quicky
+  speakers: TBD
+  room: Mezzanine
+  time_start: '12:35'
+  time_end: '12:50'
+20d2t2s5:
+  name: 20d2t2s5
+  title: TBD
+  content:
+  category: Cloud
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '13:00'
+  time_end: '13:45'
+20d2t2s6:
+  name: 20d2t2s6
+  title: TBD
+  content:
+  category: UX/UI
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '14:00'
+  time_end: '14:45'
+20d2t2s7:
+  name: 20d2t2s7
+  title: TBD
+  content:
+  category: Langage
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '15:00'
+  time_end: '15:45'
+20d2t2s8:
+  name: 20d2t2s8
+  title: TBD
+  content:
+  category: Big Data
+  format: REX
+  speakers: TBD
+  room: Mezzanine
+  time_start: '16:00'
+  time_end: '16:45'
+20d2t3s1:
+  name: 20d2t3s1
+  title: TBD
+  content:
+  category: Devops
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '10:15'
+  time_end: '12:00'
+20d2t3s2:
+  name: 20d2t3s2
+  title: TBD
+  content:
+  category: Cloud
+  format: Quicky
+  speakers: TBD
+  room: Showroom
+  time_start: '12:15'
+  time_end: '12:30'
+20d2t3s3:
+  name: 20d2t3s3
+  title: TBD
+  content:
+  category: Big Data
+  format: Quicky
+  speakers: TBD
+  room: Showroom
+  time_start: '12:35'
+  time_end: '12:50'
+20d2t3s4:
+  name: 20d2t3s4
+  title: TBD
+  content:
+  category: UX/UI
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '13:00'
+  time_end: '14:45'
+20d2t3s5:
+  name: 20d2t3s5
+  title: TBD
+  content:
+  category: Cloud
+  format: Workshop
+  speakers: TBD
+  room: Showroom
+  time_start: '15:00'
+  time_end: '16:45'
