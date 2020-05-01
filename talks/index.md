@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Volcamp.io - Programme
-custom_css: programme/stylesheet.css
+custom_css: talks/stylesheet.css
 ---
 
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
