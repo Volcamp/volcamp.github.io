@@ -26,7 +26,10 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <p><i class="icon-clock"></i>{{ talk.time_start }} - {{ talk.time_end}} | <i class="icon-location"></i> {{ talk.room }} | <i class="icon-mic"></i> {{ talk.speakers }}</p>
+                <p>
+                    <i class="icon-clock"></i>{{ talk.time_start }} - {{ talk.time_end}} | <i class="icon-location"></i> {{ talk.room }} | 
+                    <i class="icon-mic"></i> {% assign speaker = site.speakers | where: "name", talk.speakers | first %}<a href="{{ site.baseurl }}{{ speaker.url }}">{{ talk.speakers }}</a>
+                </p>
                 <p>{{ content | markdownify }}</p>
                 <p>{% if talk.category != "Keynote" %}
                     {% if(talk.format == "Quicky" %}<i class="icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}
