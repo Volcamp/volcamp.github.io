@@ -23,26 +23,6 @@ th, td {
   color: #757575;
 }
 
-.conf {
-  background-color: #6EC65F;
-  color: white;
-}
-
-.rex {
-  background-color: #4F993F;
-  color: white;
-}
-
-.workshop {
-  background-color: #444444;
-  color: #6EC660;
-}
-
-.quicky {
-  background-color: #a4a4a4;
-  color: #444444;
-}
-
 .slot_info{
   border-radius: 0 0 10px 10px;
   text-align: left;
@@ -71,9 +51,12 @@ a.talk:hover{
   color: #9a9a93;
 }
 a.ws{
-  min-height: 410px;
+  min-height: 420px;
 }
 @media(max-width:767px) {
   .schedule, .csched{display: none;}
   .ctrack1, .ctrack2, .ctrack3 {width: 33%;}
+  .slot_info{
+    font-size: 0.7em;
+  }
 }
