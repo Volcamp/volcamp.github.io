@@ -1,6 +1,7 @@
 talks:
-  - name: d1t1k1
-    title:
+  d1t1k1:
+    name: d1t1k2
+    title: L'intro Volcamp
     content:
     category: Keynote
     format: Keynote
@@ -8,7 +9,8 @@ talks:
     time_start: '09:00'
     time_end: '09:15'
     room: Auditorium
-  - name: d1t1k2
+  d1t1k2:
+    name: d1t1k2
     title: Keynote
     content:
     category: Keynote
