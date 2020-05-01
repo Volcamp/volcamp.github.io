@@ -22,6 +22,7 @@ Sponsors logo : white text, 120x70, transparent background
 
 tinyjpg : optimize jpg with https://tinyjpg.com/
 
-fontello : just the necessary pictures in font with http://fontello.com/
+fontello : just the necessaries pictures in font with http://fontello.com/
+- Font awesome : heart, star, tag, thumbs-up-alt, menu, mic, arrow-cw, beaker, graduation-cap, facebook, github-squared, linkedin-squared, twitter
+- Entypo : clock, megaphone, gauge
 - MFG Labs : location
-- Font awesome : menu, facebook, github-squared, linkedin-squared, twitter, heart, star, thumbs-up-alt

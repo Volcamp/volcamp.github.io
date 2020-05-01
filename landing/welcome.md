@@ -2,6 +2,7 @@
 type: landing
 title: Volcamp.io
 order: 1
+sitemap: false
 ---
 
 <section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/asset/images/bg-banner.png) no-repeat center top #6fc660">
