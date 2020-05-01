@@ -30,7 +30,7 @@ title: Volcamp.io - Les intervenants
             {% for speaker in speakers %}
             <div class="col-lg-4 col-sm-6">
                 <div class="speaker-block mb-5">
-                    <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                    <div class="img-block rounded"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
                             <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             <li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>
