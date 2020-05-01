@@ -61,6 +61,7 @@ a.ws{
 .legend_item{
   display: flex;
   flex-wrap: wrap;
+  font-size:0.9em;
 }
 
 .all_theme {
