@@ -33,3 +33,5 @@ gems:
 
 plugins:
   - jekyll-gzip
+  - jekyll-sitemap
+  - jekyll-minifier
