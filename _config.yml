@@ -25,6 +25,7 @@ navigation:
 collections:
   talks:
     output: true
+    permalink: /:collection/:name
 
 syndication:
   twitter: http://www.twitter.com/volcampio
