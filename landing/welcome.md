@@ -1,6 +1,6 @@
 ---
 type: landing
-title: Volcamp.io
+title: Volcamp
 order: 1
 sitemap: false
 ---
