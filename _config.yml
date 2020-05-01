@@ -26,6 +26,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:name
+  speakers:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:
@@ -33,6 +36,11 @@ defaults:
       type: talks
     values:
       layout: talks
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speakers
 
 syndication:
   twitter: http://www.twitter.com/volcampio
