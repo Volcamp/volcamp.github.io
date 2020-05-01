@@ -27,7 +27,7 @@ title: Volcamp.io - Les intervenants
         </div>
         <div class="row">
             {% assign speakers = site.speakers | sort_natural: 'name' %}
-            {% for speaker in speakers %}
+            {% for speaker in speakers %}{% if speaker.name != 'TBD' %}
             <div class="col-lg-4 col-sm-6">
                 <div class="speaker-block mb-5">
                     <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
@@ -43,7 +43,7 @@ title: Volcamp.io - Les intervenants
                     </div>
                 </div>
             </div>
-            {% else %}
+            {% endif %}{% else %}
                 Rien à voir ici.
             {% endfor %}
         </div>

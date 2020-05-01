@@ -26,6 +26,7 @@
             </div>
         </div>
         <div class="row">
+            {% if speaker.name != 'TBD' %}
             <div class="col-lg-4">
                 <img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid rounded" width="350" height="350">
             </div>
@@ -36,6 +37,7 @@
                 {{ if speaker.linkedin != nil }}<i class="icon-linkedin-squared"></i><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}">{{ speaker.linkedin }}</a> {{ endif }}
                 </p>
             </div>
+            {% endif %}
         </div>
     </div>
 </section>
