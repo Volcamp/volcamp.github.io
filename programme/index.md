@@ -30,7 +30,6 @@ custom_css: programme/stylesheet.css
         <div class="row">
             <div class="col-lg-6">
                 <h3>Les thèmes</h3>
-                <p>La conférence s'organise autour de 8 grands thèmes :</p>
                 <ul>
                     <li>Langage & Frameworks</li>
                     <li>BigData & AI</li>
@@ -39,19 +38,19 @@ custom_css: programme/stylesheet.css
                     <li>DevOps</li>
                     <li>Cloud</li>
                     <li>UX/UI</li>
-                    <li>Découverte: Le sujet ne correspond à aucune catégorie</li>
+                    <li>Découverte & Nouveauté</li>
                 </ul>
             </div>
             <div class="col-lg-6">
                 <h3>Les formats</h3>
                 <h4>Conférence</h4>
-                <p>Viens présenter un sujet qui te t’intéresse. Le sujet doit refléter l'univers des métiers de l'informatique au sens large.</p>
+                <p>Un sujet qui reflète l'univers des métiers de l'informatique au sens large.</p>
                 <h4>REX</h4>
-                <p>Un Retour d'Expérience (REX) est un partage d'une situation concrète que tu as vécu ou que tu es en train de vivre. Que ce soit la mise en place d'un changement technique (outil/méthode/organisation/etc.) ou pas (carrière/diversité/initiative personnelle), que ce soit un franc succès ou un lamentable échec vient expliquer tes choix, les gains constatés, les difficultés rencontrées et surtout ce tu as appris. </p>
+                <p>Un Retour d'Expérience d'une situation concrète vécue où la mise en place d'un changement technique ou méthologique a été un franc succès ou un lamentable échec.</p>
                 <h4>Workshop</h4>
-                <p>Les ateliers permettent "d'apprendre en faisant" au travers d'un sujet concret. Les participants auront leurs ordinateurs portables et Wi-Fi. Penser à lister les pré-requis matériel, logiciel et compétences pour les participants.</p>
+                <p>Un ateliers pour apprendre par la pratique au travers d'un sujet concret.</p>
                 <h4>Quicky</h4>
-                <p>Ce format court est très efficace pour capter l'attention du public et partager de manière claire et rapide ta dernière découverte ou faire passer un message. Sans prise de tête, c'est le format idéale pour prendre la parole en public pour la première fois.</p>
+                <p>Un format court et efficace pour partager de manière claire et rapide une découverte ou faire passer un message.</p>
             </div>
         </div>
     </div>
