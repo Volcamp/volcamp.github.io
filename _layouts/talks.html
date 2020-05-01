@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Code de conduite</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Session</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
                 </div>
             </div>
@@ -19,14 +19,17 @@
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Talk</h2>
+                        <h2>{{ talk.title }}</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-            {{ talk.content | markdownify }}
+                <p>{{ talk.time_start }} - {{ talk.time_end}} | {{ talk.room }} par {{ talk.speakers }}</p>
+                <p>{{ content | markdownify }}</p>
+                <p>{% if talk.format == "Keynote" %}<i class="icon-megaphone"></i>{% elsif(talk.format == "Quicky" %}<i class="icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}<br>
+                {% if talk.category != "Keynote" %}<i class="icon-tag"></i> {{ talk.category }}{% endif %}</p>
             </div>
         </div>
     </div>
