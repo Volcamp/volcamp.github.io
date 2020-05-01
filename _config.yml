@@ -27,6 +27,13 @@ collections:
     output: true
     permalink: /:collection/:name
 
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talks
+
 syndication:
   twitter: http://www.twitter.com/volcampio
   github: https://github.com/Volcamp
