@@ -1205,6 +1205,14 @@ h4.style-3 {
     background-color: #af7e66;
     border-color: #af7e66;
 }
+.bullet{
+    width: 1em;
+    min-width: 1em;
+    height: 1em;
+    min-height: 1em;
+    display: inline-block;
+    border-radius: 100%;
+}
 @media(max-width:991px) {
     .main-nav .nav-link {
         padding: 10px 18px!important
