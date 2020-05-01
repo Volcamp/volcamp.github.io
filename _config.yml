@@ -21,7 +21,11 @@ navigation:
    url: /speakers/
  - title: Sponsors
    url: /sponsors/
-   
+
+collections:
+  talks:
+    output: true
+
 syndication:
   twitter: http://www.twitter.com/volcampio
   github: https://github.com/Volcamp
