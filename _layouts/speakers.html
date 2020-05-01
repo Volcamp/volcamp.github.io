@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="row">
-            {% if speaker.name != 'TBD' %}
+            {% if speaker.name != 'TBD' and speaker.name != 'Volcamp Team' %}
             <div class="col-lg-4">
                 <img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid rounded" width="350" height="350">
             </div>

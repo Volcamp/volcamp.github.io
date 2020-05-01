@@ -41,6 +41,14 @@ defaults:
       type: speakers
     values:
       layout: speakers
+  - scope:
+      path: "speakers/tbd"
+    values:
+      sitemap: false
+  - scope:
+      path: "speakers/volcamp"
+    values:
+      sitemap: false
 
 syndication:
   twitter: http://www.twitter.com/volcampio
