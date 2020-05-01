@@ -32,6 +32,7 @@ title: Volcamp.io - Les intervenants
                 <div class="speaker-block mb-5">
                     <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
+                            <li class="list-inline-item"><a href="/speakers/{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             <li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}"><i class="icon-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}"><i class="icon-linkedin-squared"></i></a></li>
                         </ul>
