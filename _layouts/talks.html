@@ -29,7 +29,9 @@
                 <p>
                     <i class="icon-clock"></i>{{ talk.time_start }} - {{ talk.time_end}} | <i class="icon-location"></i> {{ talk.room }} | 
                     <i class="icon-mic"></i> 
+                    {% assign counter = 0 %}
                     {% for speaker in talk.speakers %}
+                        {% if counter != 0 %}, {% endif %}
                         {% assign s = site.speakers | where: "name", speaker | first %}<a href="{{ site.baseurl }}{{ s.url }}">{{ s.name }}</a> 
                     {% endfor %}
                 </p>
