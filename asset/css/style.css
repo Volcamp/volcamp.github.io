@@ -649,12 +649,6 @@ a {
     top: 0;
     width: 100%;
     height: 70%;
-    background: rgba(59, 29, 130, .5);
-    -o-transition: all .4s ease;
-    transition: all .4s ease;
-    -webkit-transition: all .4s ease;
-    -moz-transition: all .4s ease;
-    opacity: 0
 }
 
 .speaker-block .img-block:hover:before {
@@ -702,7 +696,24 @@ a {
     background: white;
     color: #4F993F;
 }
+.speaker-block .speaker-social li a.tw {
+    background: #00acee;
+    color: #fff;
 
+}
+.speaker-block .speaker-social li a.tw:hover {
+    background: white;
+    color: #00acee;
+}
+.speaker-block .speaker-social li a.lnked {
+    background: #0e76a8;
+    color: #fff;
+
+}
+.speaker-block .speaker-social li a.lnked:hover {
+    background: white;
+    color: #0e76a8;
+}
 .speaker-block.style-2 .img-block {
     position: relative
 }
