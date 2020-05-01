@@ -1,11 +1,11 @@
-<a href="/session/{{ talk.name}}" class="talk">
+<a href="/session/{{ talk.name}}" class="talk {% if(talk.format == "Workshop" %}ws{% endif %}">
     <div class="all_theme {% if talk.category == "Keynote" %}theme_key{% elsif(talk.category == "Langage" %}theme_lang{% elsif(talk.category == "Big Data" %}theme_big{% elsif(talk.category == "Web" %}theme_web{% elsif(talk.category == "Architecture" %}theme_archi{% elsif(talk.category == "Devops" %}theme_devops{% elsif(talk.category == "Cloud" %}theme_cloud{% elsif(talk.category == "UX/UI" %}theme_ux{% elsif(talk.category == "Découverte" %}theme_decouv{% endif %}">{{ talk.title }}</div>
     <div class="slot_info">
         <ul>
             <li><i class="icon-clock"></i> {{ talk.time_start }} - {{ talk.time_end }}</li>
             <li><i class="icon-mic"></i> {{ talk.speakers }}</li>
             <li><i class="icon-location"></i> {{ talk.room }}</li>
-            <li>{% if talk.format == "Keynote" %}<i class="icon-megaphone"></i>{% elsif(talk.format == "Quicky" %}<i class="icon-icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-icon-beaker"></i>{% endif %} {{ talk.format }}</li> 
+            <li>{% if talk.format == "Keynote" %}<i class="icon-megaphone"></i>{% elsif(talk.format == "Quicky" %}<i class="icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}</li> 
             {% if talk.category != "Keynote" %}<li><i class="icon-tag"></i> {{ talk.category }}</li>{% endif %}
         </ul>
     </div>
