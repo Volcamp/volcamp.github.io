@@ -56,8 +56,8 @@
   format: Quicky
   speakers: TBD
   room: Auditorium
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d1t1s5:
   name: 20d1t1s5
   title: TBD
@@ -146,8 +146,8 @@
   format: Quicky
   speakers: TBD
   room: Mezzanine
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d1t2s5:
   name: 20d1t2s5
   title: TBD
@@ -226,8 +226,8 @@
   format: Quicky
   speakers: TBD
   room: Showroom
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d1t3s4:
   name: 20d1t3s4
   title: TBD
@@ -305,8 +305,8 @@
   format: Quicky
   speakers: TBD
   room: Auditorium
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d2t1s5:
   name: 20d2t1s5
   title: TBD
@@ -385,8 +385,8 @@
   format: Quicky
   speakers: TBD
   room: Mezzanine
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d2t2s5:
   name: 20d2t2s5
   title: TBD
@@ -455,8 +455,8 @@
   format: Quicky
   speakers: TBD
   room: Showroom
-  time_start: '12:30'
-  time_end: '12:45'
+  time_start: '12:35'
+  time_end: '12:50'
 20d2t3s4:
   name: 20d2t3s4
   title: TBD
