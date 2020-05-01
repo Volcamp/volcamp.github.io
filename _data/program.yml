@@ -1,0 +1,432 @@
+talks:
+  - name: d1t1k1
+    title:
+    content:
+    category: Keynote
+    format: Keynote
+    speakers: Volcamp team
+    time_start: '09:00'
+    time_end: '09:15'
+    room: Auditorium
+  - name: d1t1k2
+    title: Keynote
+    content:
+    category: Keynote
+    format: Keynote
+    speakers: Yves Caseau
+    time_start: '09:15'
+    time_end: '10:00'
+    room: Auditorium
+  - name: d1t1s1
+    title: TDB
+    content:
+    category: Big Data
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '10:15'
+    time_end: '11:00'
+  - name: d1t1s2
+    title: TBD
+    content:
+    category: Architecture
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '11:15'
+    time_end: '12:00'
+  - name: d1t1s3
+    title: TDB
+    content:
+    category: Cloud
+    format: Quicky
+    speakers: TDB
+    room: Auditorium
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d1t1s4
+    title: TDB
+    content:
+    category: Langage
+    format: Quicky
+    speakers: TDB
+    room: Auditorium
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d1t1s5
+    title: TDB
+    content:
+    category: Devops
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '13:00'
+    time_end: '13:45'
+  - name: d1t1s6
+    title: TDB
+    content:
+    category: Web
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '14:00'
+    time_end: '14:45'
+  - name: d1t1s7
+    title: TDB
+    content:
+    category: UX/UI
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '15:00'
+    time_end: '15:45'
+  - name: d1t1s8
+    title: TDB
+    content:
+    category: Découverte
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '16:00'
+    time_end: '16:45'
+  - name: d1t1s9
+    title: TDB
+    content:
+    category: Big Data
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '17:00'
+    time_end: '18:00'
+  - name: d1t2s1
+    title: TDB
+    content:
+    category: Architecture
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '10:15'
+    time_end: '11:00'
+  - name: d1t2s2
+    title: TBD
+    content:
+    category: Devops
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '11:15'
+    time_end: '12:00'
+  - name: d1t2s3
+    title: TDB
+    content:
+    category: Big Data
+    format: Quicky
+    speakers: TDB
+    room: Mezzanine
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d1t2s4
+    title: TDB
+    content:
+    category: Découverte
+    format: Quicky
+    speakers: TDB
+    room: Mezzanine
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d1t2s5
+    title: TDB
+    content:
+    category: Cloud
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '13:00'
+    time_end: '13:45'
+  - name: d1t2s6
+    title: TDB
+    content:
+    category: UX/UI
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '14:00'
+    time_end: '14:45'
+  - name: d1t2s7
+    title: TDB
+    content:
+    category: Langage
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '15:00'
+    time_end: '15:45'
+  - name: d1t2s8
+    title: TDB
+    content:
+    category: Big Data
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '16:00'
+    time_end: '16:45'
+  - name: d1t2s9
+    title: TDB
+    content:
+    category: Web
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '17:00'
+    time_end: '18:00'
+  - name: d1t3s1
+    title: TBD
+    content:
+    category: Devops
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '10:15'
+    time_end: '12:00'
+  - name: d1t3s2
+    title: TDB
+    content:
+    category: Cloud
+    format: Quicky
+    speakers: TDB
+    room: Showroom
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d1t3s3
+    title: TDB
+    content:
+    category: Big Data
+    format: Quicky
+    speakers: TDB
+    room: Showroom
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d1t3s4
+    title: TDB
+    content:
+    category: UX/UI
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '13:00'
+    time_end: '14:45'
+  - name: d1t3s5
+    title: TDB
+    content:
+    category: Cloud
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '15:00'
+    time_end: '16:45'
+  - name: d2t1k1
+    title: Keynote
+    content:
+    category: Keynote
+    format: Keynote
+    speakers: Agnès Crepet, Audrey Neveu
+    time_start: '09:00'
+    time_end: '10:00'
+  - name: d2t1k2
+    title: Le mot de la fin
+    content:
+    category: Keynote
+    format: Keynote
+    speakers: Volcamp team
+    time_start: '17:00'
+    time_end: '17:30'
+    room: Auditorium
+  - name: d2t1s1
+    title: TDB
+    content:
+    category: Big Data
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '10:15'
+    time_end: '11:00'
+  - name: d2t1s2
+    title: TBD
+    content:
+    category: Architecture
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '11:15'
+    time_end: '12:00'
+  - name: d2t1s3
+    title: TDB
+    content:
+    category: Cloud
+    format: Quicky
+    speakers: TDB
+    room: Auditorium
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d2t1s4
+    title: TDB
+    content:
+    category: Langage
+    format: Quicky
+    speakers: TDB
+    room: Auditorium
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d2t1s5
+    title: TDB
+    content:
+    category: Devops
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '13:00'
+    time_end: '13:45'
+  - name: d2t1s6
+    title: TDB
+    content:
+    category: Web
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '14:00'
+    time_end: '14:45'
+  - name: d2t1s7
+    title: TDB
+    content:
+    category: UX/UI
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '15:00'
+    time_end: '15:45'
+  - name: d2t1s8
+    title: TDB
+    content:
+    category: Découverte
+    format: Conférence
+    speakers: TDB
+    room: Auditorium
+    time_start: '16:00'
+    time_end: '16:45'
+  - name: d2t2s1
+    title: TDB
+    content:
+    category: Architecture
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '10:15'
+    time_end: '11:00'
+  - name: d2t2s2
+    title: TBD
+    content:
+    category: Devops
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '11:15'
+    time_end: '12:00'
+  - name: d2t2s3
+    title: TDB
+    content:
+    category: Big Data
+    format: Quicky
+    speakers: TDB
+    room: Mezzanine
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d2t2s4
+    title: TDB
+    content:
+    category: Découverte
+    format: Quicky
+    speakers: TDB
+    room: Mezzanine
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d2t2s5
+    title: TDB
+    content:
+    category: Cloud
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '13:00'
+    time_end: '13:45'
+  - name: d2t2s6
+    title: TDB
+    content:
+    category: UX/UI
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '14:00'
+    time_end: '14:45'
+  - name: d2t2s7
+    title: TDB
+    content:
+    category: Langage
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '15:00'
+    time_end: '15:45'
+  - name: d2t2s8
+    title: TDB
+    content:
+    category: Big Data
+    format: REX
+    speakers: TDB
+    room: Mezzanine
+    time_start: '16:00'
+    time_end: '16:45'
+  - name: d2t3s1
+    title: TBD
+    content:
+    category: Devops
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '10:15'
+    time_end: '12:00'
+  - name: d2t3s2
+    title: TDB
+    content:
+    category: Cloud
+    format: Quicky
+    speakers: TDB
+    room: Showroom
+    time_start: '12:15'
+    time_end: '12:30'
+  - name: d2t3s3
+    title: TDB
+    content:
+    category: Big Data
+    format: Quicky
+    speakers: TDB
+    room: Showroom
+    time_start: '12:30'
+    time_end: '12:45'
+  - name: d2t3s4
+    title: TDB
+    content:
+    category: UX/UI
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '13:00'
+    time_end: '14:45'
+  - name: d2t3s5
+    title: TDB
+    content:
+    category: Cloud
+    format: Workshop
+    speakers: TDB
+    room: Showroom
+    time_start: '15:00'
+    time_end: '16:45'

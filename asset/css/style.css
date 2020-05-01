@@ -1155,6 +1155,56 @@ h4.style-3 {
     border-top: 1px solid rgba(255, 255, 255, .04)!important
 }
 
+.all_theme {
+    border-radius: 10px 10px 0 0;
+    padding-top: 10px;
+}
+
+.theme_key {
+    color: #572019;
+    background-color: #fc5a45;
+    border-color: #fc5a45;
+}
+.theme_lang {
+    color: #57411e;
+    background-color: #dca242;
+    border-color: #dca242;
+}
+.theme_big {
+    color: #244428;
+    background-color: #89fa98;
+    border-color: #89fa98;
+}
+.theme_web {
+    color: #154e4c;
+    background-color: #33bab5;
+    border-color: #33bab5;
+}
+.theme_archi {
+    color: #1f2e4b;
+    background-color: #4b78cb;
+    border-color: #4b78cb;
+}
+.theme_devops {
+    color: #2c0e27;
+    background-color: #bf3fa7;
+    border-color: #bf3fa7;
+}
+.theme_cloud {
+    color: #523f12;
+    background-color: #ffe5a8;
+    border-color: #ffe5a8;
+}
+.theme_ux {
+    color: #503236;
+    background-color: #ff94a4;
+    border-color: #ff94a4;
+}
+.theme_decouv {
+    color: #4d3b32;
+    background-color: #af7e66;
+    border-color: #af7e66;
+}
 @media(max-width:991px) {
     .main-nav .nav-link {
         padding: 10px 18px!important

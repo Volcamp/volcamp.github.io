@@ -9,43 +9,71 @@ th, td {
   border-radius:10px;
   border-collapse: collapse;
   text-align: center;
-  padding: 15px;
   color: #444444;
 }
 
 .schedule {
   border: 0px;
-  text-align: right;
-  color: #6EC660;
-  font-weight: 800;
+  text-align: center;
+  color: #9a9a93;
 }
 
 .break {
   background-color: #dbd8d8;
   color: #757575;
-  font-weight: 800;
 }
 
 .conf {
   background-color: #6EC65F;
   color: white;
-  font-weight: 800;
 }
 
 .rex {
   background-color: #4F993F;
   color: white;
-  font-weight: 800;
 }
 
 .workshop {
   background-color: #444444;
   color: #6EC660;
-  font-weight: 800;
 }
 
 .quicky {
   background-color: #a4a4a4;
   color: #444444;
-  font-weight: 800;
+}
+
+.slot_info{
+  border-radius: 0 0 10px 10px;
+  text-align: left;
+  padding-left: 10px;
+  font-size: 0.9em;
+}
+.slot_info ul{
+  list-style: none;
+  margin-top: 10px;
+  padding-left: 4px;
+}
+.csched{width: 4%;}
+.ctrack1, .ctrack2, .ctrack3 {width: 32%;}
+
+a.talk{
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  text-decoration: none;
+  color: #9a9a93;
+  min-height: 180px;
+}
+a.talk:hover{
+  text-decoration: none;
+  color: #9a9a93;
+}
+a.ws{
+  min-height: 410px;
+}
+@media(max-width:767px) {
+  .schedule, .csched{display: none;}
+  .ctrack1, .ctrack2, .ctrack3 {width: 33%;}
 }

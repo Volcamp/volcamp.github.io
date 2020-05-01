@@ -1,7 +1,7 @@
 <section class="section">
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Jeudi 15 octobre 2020</h2>
@@ -12,28 +12,37 @@
         <div class="row">
             <table style="width:100%">
                 <colgroup>
-                    <col style="width: 10%;">
-                    <col style="width: 30%;">
-                    <col style="width: 30%;">
-                    <col style="width: 30%;">
+                    <col class="csched">
+                    <col class="ctrack1">
+                    <col class="ctrack2">
+                    <col class="ctrack3">
                 </colgroup>
                 <tr>
-                    <th class="schedule"></th>
-                    <th>Auditorium</th>
-                    <th>Mezzanine</th>
-                    <th>Showroom</th>
-                </tr>
-                <tr>
-                    <td class="schedule">8h00</td>
+                    <td class="schedule">08h00</td>
                     <td class="break" colspan="3">Accueil Caf&eacute;</td>
                 </tr>
                 <tr>
-                    <td class="schedule">8h45</td>
-                    <td colspan="3" class="conf">Intro</td>
+                    <td class="schedule">09h00</td>
+                    <td colspan="3">
+                        {% assign talk = site.data.program.talks.d1t1k1 %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
                 </tr>
                 <tr>
-                    <td class="schedule">9h15</td>
-                    <td colspan="3" class="conf">Keynote</td>
+                    <td class="schedule">09h15</td>
+                    <td colspan="3">
+                        <a href="/session/d1t1k2" class="talk">
+                            <div class="all_theme theme_key">La keynote du jeudi</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 09:15 - 10:00</li>
+                                    <li><i class="icon-mic"></i> Keynoter</li>
+                                    <li><i class="icon-location"></i> Auditorium</li>
+                                    <li><i class="icon-megaphone"></i> keynote</li>                                  
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
                 </tr>
                 <tr>
                     <td class="schedule">10h00</td>
@@ -41,9 +50,48 @@
                 </tr>
                 <tr>
                     <td class="schedule">10h15</td>
-                    <td class="conf">Conference</td>
-                    <td class="rex">Retour d'exp&eacute;rience</td>
-                    <td class="workshop" rowspan="3">Workshop</td>
+                    <td>
+                        <a href="/session/d1t1s1" class="talk">
+                            <div class="all_theme theme_big">Mon talk</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 10:15 - 11:00</li>
+                                    <li><i class="icon-mic"></i> Speaker 1</li>
+                                    <li><i class="icon-location"></i> Auditorium</li>
+                                    <li><i class="icon-graduation-cap"></i> Conférence</li>                                   
+                                    <li><i class="icon-tag"></i> Bid Data</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="/session/d1t2s1" class="talk">
+                            <div class="all_theme theme_lang">L'autre talk</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 10:15 - 11:00</li>
+                                    <li><i class="icon-mic"></i> Speaker 2</li>
+                                    <li><i class="icon-location"></i> Mezzanine</li>
+                                    <li><i class="icon-arrows-cw"></i> REX</li>
+                                    <li><i class="icon-tag"></i> Langage</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
+                    <td rowspan="3">
+                        <a href="/session/d1t3s1" class="talk ws">
+                            <div class="all_theme theme_web">workshop</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 10:15 - 12:00</li>
+                                    <li><i class="icon-mic"></i> Speaker 3</li>
+                                    <li><i class="icon-location"></i> Showroom</li>
+                                    <li><i class="icon-beaker"></i> Workshop</li>                                   
+                                    <li><i class="icon-tag"></i> Web</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
                 </tr>
                 <tr>
                     <td class="schedule">11h00</td>
@@ -51,28 +99,89 @@
                 </tr>
                 <tr>
                     <td class="schedule">11h15</td>
-                    <td class="conf">Conference</td>
-                    <td class="rex">Retour d'exp&eacute;rience</td>
-                </tr>
-                <tr>
-                    <td class="schedule"></td>
-                    <td colspan="3"></td>
+                    <td>
+                        <a href="/session/d1t1s2" class="talk">
+                            <div class="all_theme theme_archi">Mon talk</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 11:15 - 12:00</li>
+                                    <li><i class="icon-mic"></i> Speaker 4</li>
+                                    <li><i class="icon-location"></i> Auditorium</li>
+                                    <li><i class="icon-graduation-cap"></i> Conférence</li>                                   
+                                    <li><i class="icon-tag"></i> Archi</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="/session/d1t2s2" class="talk">
+                            <div class="all_theme theme_devops">L'autre talk</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 11:15 - 12:00</li>
+                                    <li><i class="icon-mic"></i> Speaker 5</li>
+                                    <li><i class="icon-location"></i> Mezzanine</li>
+                                    <li><i class="icon-arrows-cw"></i> REX</li>
+                                    <li><i class="icon-tag"></i> Devops</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
                 </tr>
                 <tr>
                     <td class="schedule">12h00</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
+                    <td class="break" colspan="3">Pause déjeuner</td>
                 </tr>
                 <tr>
                     <td class="schedule">12h15</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
+                    <td>
+                        <a href="/session/d1t1s2" class="talk">
+                            <div class="all_theme theme_cloud">Quicky 1</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 12:15 - 12:30</li>
+                                    <li><i class="icon-mic"></i> Speaker 6</li>
+                                    <li><i class="icon-location"></i> Auditorium</li>
+                                    <li><i class="icon-gauge"></i> Quicky</li>  
+                                    <li><i class="icon-tag"></i> Cloud</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="/session/d1t2s2" class="talk">
+                            <div class="all_theme theme_ux">Quicky 2</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 12:15 - 12:30</li>
+                                    <li><i class="icon-mic"></i> Speaker 7</li>
+                                    <li><i class="icon-location"></i> Mezzanine</li>
+                                    <li><i class="icon-gauge"></i> Quicky</li>   
+                                    <li><i class="icon-tag"></i> UX/UI</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="/session/d1t2s2" class="talk">
+                            <div class="all_theme theme_decouv">Quicky 3</div>
+                            <div class="slot_info">
+                                <ul>
+                                    <li><i class="icon-clock"></i> 12:15 - 12:30</li>
+                                    <li><i class="icon-mic"></i> Speaker 8</li>
+                                    <li><i class="icon-location"></i> Showroom</li>
+                                    <li><i class="icon-gauge"></i> Quicky</li>  
+                                    <li><i class="icon-tag"></i> Découverte</li>                                   
+                                </ul>
+                            </div>
+                        </a>
+                    </td>
                 </tr>
                 <tr>
-                    <td class="schedule"></td>
-                    <td colspan="3"></td>
+                    <td class="schedule">12h35</td>
+                    <td class="quicky">Quicky</td>
+                    <td class="quicky">Quicky</td>
+                    <td class="quicky">Quicky</td>
                 </tr>
                 <tr>
                     <td class="schedule">13h00</td>
@@ -113,7 +222,7 @@
                     <td class="break" colspan="3">Pause</td>
                 </tr>
                 <tr>
-                    <td class="schedule">17h15</td>
+                    <td class="schedule">17h00</td>
                     <td class="conf">Conference</td>
                     <td class="rex">Retour d'exp&eacute;rience</td>
                 </tr>
@@ -125,7 +234,7 @@
 <section>
     <div class="container">
         <div class="row section-heading">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 <div class="heading">
                     <div class="pl-90">
                         <h2>Vendredi 16 octobre</h2>
@@ -136,24 +245,18 @@
         <div class="row">
             <table style="width:100%">
                 <colgroup>
-                    <col style="width: 10%;">
-                    <col style="width: 30%;">
-                    <col style="width: 30%;">
-                    <col style="width: 30%;">
+                    <col class="csched">
+                    <col class="ctrack1">
+                    <col class="ctrack2">
+                    <col class="ctrack3">
                 </colgroup>
                 <tr>
-                    <th class="schedule"></th>
-                    <th>Auditorium</th>
-                    <th>Mezzanine</th>
-                    <th>Showroom</th>
-                </tr>
-                <tr>
-                    <td class="schedule">8h30</td>
+                    <td class="schedule">08h30</td>
                     <td class="break" colspan="3">Accueil Caf&eacute;</td>
                 </tr>
                 <tr>
-                    <td class="schedule">9h00</td>
-                    <td colspan="3" class="conf">Keynote</td>
+                    <td class="schedule">09h00</td>
+                    <td class="conf" colspan="3">Keynote</td>
                 </tr>
                 <tr>
                     <td class="schedule">10h00</td>
@@ -175,14 +278,8 @@
                     <td class="rex">Retour d'exp&eacute;rience</td>
                 </tr>
                 <tr>
-                    <td class="schedule"></td>
-                    <td colspan="3"></td>
-                </tr>
-                <tr>
                     <td class="schedule">12h00</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
-                    <td class="quicky">Quicky</td>
+                    <td class="break" colspan="3">Pause déjeuner</td>
                 </tr>
                 <tr>
                     <td class="schedule">12h15</td>
@@ -191,8 +288,10 @@
                     <td class="quicky">Quicky</td>
                 </tr>
                 <tr>
-                    <td class="schedule"></td>
-                    <td colspan="3"></td>
+                    <td class="schedule">12h35</td>
+                    <td class="quicky">Quicky</td>
+                    <td class="quicky">Quicky</td>
+                    <td class="quicky">Quicky</td>
                 </tr>
                 <tr>
                     <td class="schedule">13h00</td>
@@ -233,7 +332,7 @@
                     <td class="break" colspan="3">Pause</td>
                 </tr>
                 <tr>
-                    <td class="schedule">9h00</td>
+                    <td class="schedule">17h00</td>
                     <td colspan="3" class="conf">Le mot de la fin</td>
                 </tr>
             </table>

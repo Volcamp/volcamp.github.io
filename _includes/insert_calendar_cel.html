@@ -1,0 +1,12 @@
+<a href="/session/{{ talk.name}}" class="talk">
+    <div class="all_theme {% if talk.category=="Keynote" %}theme_key{% elseif(talk.category=="Langage" %}theme_lang{% elseif(talk.category=="Big Data" %}theme_big{% elseif(talk.category=="Web" %}theme_web{% elseif(talk.category=="Architecture" %}theme_archi{% elseif(talk.category=="Devops" %}theme_devops{% elseif(talk.category=="Cloud" %}theme_cloud{% elseif(talk.category=="UX/UI" %}theme_ux{% elseif(talk.category=="Découverte" %}theme_decouv{% endif %}">{{ talk.title }}</div>
+    <div class="slot_info">
+        <ul>
+            <li><i class="icon-clock"></i> {{ talk.time_start }} - {{ talk.time_end }}</li>
+            <li><i class="icon-mic"></i> {{ talk.speakers }}</li>
+            <li><i class="icon-location"></i> {{ talk.room }}</li>
+            <li><i class="{% if talk.format=="Keynote" %}icon-megaphone{% elseif(talk.format=="Quicky" %}icon-gauge{% elseif(talk.format=="Conférence" %}icon-graduation-cap{% elseif(talk.format=="REX" %}icon-arrows-cw{% elseif(talk.format=="Workshop" %}icon-beaker{% endif %}"></i> {{ talk.format }}</li>     
+            <li><i class="icon-tag"></i> {{ talk.category }}</li>                                  
+        </ul>
+    </div>
+</a>
