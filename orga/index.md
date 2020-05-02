@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp - Sponsors
+title: Volcamp - L'équipe
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
