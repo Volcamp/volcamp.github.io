@@ -6,4 +6,5 @@
   photo: 
   linkedin: 
   keynotes: false
+  sitemap: false
 ---

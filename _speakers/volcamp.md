@@ -6,4 +6,5 @@
   photo: volcamp.jpg
   linkedin: volcampio
   keynotes: false
+  sitemap: false
 ---
