@@ -1,10 +1,11 @@
 cpr:
   name: Christophe Prugnaud
   twitter: khrys63
-  linkedin: christophe-prugnaud-4274a5111
+  linkedin: christophe-prugnaud
   jobtitle: architecte entreprise
   employer: be-ys group
   committee: cfp, communication
+  photo: cpr.jpg
 cdi:
   name: claude Dioudonnat
   twitter: claudusd
@@ -109,4 +110,24 @@ vse:
   linkedin: valérie-servaire-07ab07141
   jobtitle: Architecte IT
   employer: Michelin
-  committee: cfp 
+  committee: cfp
+abl:
+  name: Arnaud Blandamour
+  twitter: nonowheels
+  linkedin: arnaudblandamour
+  jobtitle: Expert Technique
+  employer: be-ys group
+  commitee: cfp
+bey:
+  name: Benoit Eymard
+  linkedin: benoit-eymard-b3135157
+  jobtitle: Architecte IT
+  employer: Agaetis
+  commitee: sponsors
+ppl:
+  name: Pierre Plagnes
+  twitter: doguei
+  linkedin: pierre-plagnes-b6428220
+  jobtitle: Architecte IT
+  employer: CGI
+  commitee: sponsors
