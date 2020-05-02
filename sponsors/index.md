@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Volcamp - Sponsors
+title: Volcamp - Sponsors et partenaires
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Sponsors</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Sponsors et partenaires</h1>
                     <div class="divider mx-auto mb-4 bg-white"></div>
                 </div>
             </div>
@@ -124,6 +124,30 @@ title: Volcamp - Sponsors
                 {% for sponsor in site.data.sponsors.bronze %}
                 <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les sponsors Volcamp 2020</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <a href="https://www.clermontech.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/clermontech_logo.png" alt="Clermontech" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4">
+                <a href="https://www.lavajug.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/lavajug_logo.png" alt="LavaJUG" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4">
+                <a href="https://muginclermont.azurewebsites.net/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/muginclermont_logo.png" alt="MUGinClermont" class="img-partenaire"></a>
             </div>
         </div>
     </div>
