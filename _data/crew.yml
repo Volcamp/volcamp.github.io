@@ -1,4 +1,4 @@
-cpr:
+- cpr:
   name: Christophe Prugnaud
   twitter: khrys63
   linkedin: christophe-prugnaud
@@ -6,125 +6,125 @@ cpr:
   employer: be-ys group
   committee: cfp, communication
   photo: cpr.jpg
-cdi:
+- cdi:
   name: claude Dioudonnat
   twitter: claudusd
   linkedin: claude-dioudonnat-89a405a9
   jobtitle: Administrateur système
   employer: Université d'Auvergne
   committee: finances, logistique
-dpe:
+- dpe:
   name: Daniel Petisme
   twitter: danielpetisme
   linkedin: danielpetisme
   jobtitle: Expert Technique
   employer: Michelin
   committee: cfp
-mvi:
+- mvi:
   name: Matthieu VINCENT
   twitter: yodamad03
   linkedin: matthieu-vincent-ab25064
   jobtitle: Architecte 
   employer: sopra steria  
   committee: communication, sponsors, collegiale
-tma:
+- tma:
   name: Thomas Maurel
   twitter: tmaurel
   linkedin: tmaurel
   jobtitle: Développeur
   employer: Axys Consultants
   committee: finances, logistique
-gde:
+- gde:
   name: Guillaume Delaire
   twitter: gdelaire63
   linkedin: guillaumedelaire
   jobtitle: Architecte IT
   employer: Limagrain
   committee: cfp
-pco:
+- pco:
   name: Pierre Colomb
   twitter: pcolomb
   linkedin: pcolomb
   jobtitle: R&D Manager
   employer: Braincube
   committee: admin, cfp, logistique
-ech:
+- ech:
   name: Eric Champion
   twitter: erchampion
   linkedin: éric-champion-558b4074
   jobtitle: ingénieur
   employer: Sopra Steria
   committee: communication 
-jgo:
+- jgo:
   name: Jérôme Godard
   twitter: jegodard
   linkedin: jeromegodard
   jobtitle: Architecte systèmes d’information
   employer: Michelin
   committee: sponsors, logistique
-vha:
+- vha:
   name: Virginie Hang
   twitter: HngVirginie
   linkedin: virginiehang
   jobtitle: manager
   employer: Accenture
   committee: cfp
-mch :
+- mch :
   name: Mathieu CHAUSSE
   twitter: ChausseMathieu
   linkedin: mathieu-chausse-26308850
   jobtitle: Delivery Lead
   employer: Accenture
   committee: sponsors
-tma:
+- tma:
   name: Thomas Maurel
   twitter: tmaurel
   linkedin: tmaurel
   jobtitle: Développeur
   employer: Axys Consultants
   committee: finances, logistique
-scp:
+- scp:
   name: Stephanie Cluzel-Poughet
   twitter: 
   linkedin: stéphanie-cluzel-poughet-b2338817
   jobtitle: Architecte IT
   employer: Limagrain
   committee:
-sco:
+- sco:
   name: Stéphane Coussy
   twitter: styef4
   linkedin: stephane-coussy
   jobtitle: expert technique
   employer: be-ys group
   committee:
-oco:
+- oco:
   name: Olivier Coupelon
   twitter: coupelon
   linkedin: coupelon
   jobtitle: Responsable SRE
   employer: coffreo
   committee: cfp
-vse:
+- vse:
   name: Valérie Servaire
   twitter: vservaire
   linkedin: valérie-servaire-07ab07141
   jobtitle: Architecte IT
   employer: Michelin
   committee: cfp
-abl:
+- abl:
   name: Arnaud Blandamour
   twitter: nonowheels
   linkedin: arnaudblandamour
   jobtitle: Expert Technique
   employer: be-ys group
   commitee: cfp
-bey:
+- bey:
   name: Benoit Eymard
   linkedin: benoit-eymard-b3135157
   jobtitle: Architecte IT
   employer: Agaetis
   commitee: sponsors
-ppl:
+- ppl:
   name: Pierre Plagnes
   twitter: doguei
   linkedin: pierre-plagnes-b6428220
