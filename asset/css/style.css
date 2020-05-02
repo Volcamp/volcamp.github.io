@@ -1187,7 +1187,7 @@ iframe.maps{
     max-width: 100%;
 }
 .img-partenaire{
-    max-width: 350px;
+    max-width: 180px;
 }
 @media(max-width:991px) {
     .main-nav .nav-link {

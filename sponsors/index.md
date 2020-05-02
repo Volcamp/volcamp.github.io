@@ -102,7 +102,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.gold %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
         </div>
@@ -112,7 +112,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.silver %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
         </div>
@@ -122,7 +122,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.bronze %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                 {% endfor %}
             </div>
         </div>
@@ -134,20 +134,20 @@ title: Volcamp - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Les sponsors Volcamp 2020</h2>
+                        <h2>Le réseau local</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 text-center">
                 <a href="https://www.clermontech.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/clermontech_logo.png" alt="Clermontech" class="img-partenaire"></a>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 text-center">
                 <a href="https://www.lavajug.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/lavajug_logo.png" alt="LavaJUG" class="img-partenaire"></a>
             </div>
-            <div class="col-lg-4">
-                <a href="https://muginclermont.azurewebsites.net/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/muginclermont_logo.png" alt="MUGinClermont" class="img-partenaire"></a>
+            <div class="col-lg-4 text-center">
+                <a href="https://muginclermont.azurewebsites.net/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/muginclermont_logo.jpg" alt="MUGinClermont" class="img-partenaire"></a>
             </div>
         </div>
     </div>
