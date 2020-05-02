@@ -33,7 +33,8 @@ title: Volcamp - Sponsors
             </div>
         </div>
         <div class="row">
-        {% for member in site.data.crew %}
+        {% assign members = site.data.crew | sort_natural: 'name' %}
+        {% for member in members %}
             <div class="col-lg-4">
                 <img src="{{ site.baseurl }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="float-left orga">{{ member.name }}<br><br>
                 <a href="https://twitter.com/{{ member.twitter }}" class="tw"><i class="icon-twitter"></i>{{ member.twitter }}</a><br>

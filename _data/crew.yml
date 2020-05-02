@@ -13,6 +13,7 @@
   jobtitle: Administrateur système
   employer: Université d'Auvergne
   committee: finances, logistique
+  photo: cdi.jpg
 - dpe:
   name: Daniel Petisme
   twitter: danielpetisme
@@ -20,6 +21,7 @@
   jobtitle: Expert Technique
   employer: Michelin
   committee: cfp
+  photo: dpe.jpg
 - mvi:
   name: Matthieu VINCENT
   twitter: yodamad03
@@ -27,6 +29,7 @@
   jobtitle: Architecte 
   employer: sopra steria  
   committee: communication, sponsors, collegiale
+  photo: mvi.jpg
 - tma:
   name: Thomas Maurel
   twitter: tmaurel
@@ -34,6 +37,7 @@
   jobtitle: Développeur
   employer: Axys Consultants
   committee: finances, logistique
+  photo: tma.jpg
 - gde:
   name: Guillaume Delaire
   twitter: gdelaire63
@@ -41,6 +45,7 @@
   jobtitle: Architecte IT
   employer: Limagrain
   committee: cfp
+  photo: gde.jpg
 - pco:
   name: Pierre Colomb
   twitter: pcolomb
@@ -48,6 +53,7 @@
   jobtitle: R&D Manager
   employer: Braincube
   committee: admin, cfp, logistique
+  photo: pco.jpg
 - ech:
   name: Eric Champion
   twitter: erchampion
@@ -55,6 +61,7 @@
   jobtitle: ingénieur
   employer: Sopra Steria
   committee: communication 
+  photo: ech.jpg
 - jgo:
   name: Jérôme Godard
   twitter: jegodard
@@ -62,6 +69,7 @@
   jobtitle: Architecte systèmes d’information
   employer: Michelin
   committee: sponsors, logistique
+  photo: jgo.jpg
 - vha:
   name: Virginie Hang
   twitter: HngVirginie
@@ -69,6 +77,7 @@
   jobtitle: manager
   employer: Accenture
   committee: cfp
+  photo: vha.jpg
 - mch :
   name: Mathieu CHAUSSE
   twitter: ChausseMathieu
@@ -76,13 +85,7 @@
   jobtitle: Delivery Lead
   employer: Accenture
   committee: sponsors
-- tma:
-  name: Thomas Maurel
-  twitter: tmaurel
-  linkedin: tmaurel
-  jobtitle: Développeur
-  employer: Axys Consultants
-  committee: finances, logistique
+  photo: mch.jpg
 - scp:
   name: Stephanie Cluzel-Poughet
   twitter: 
@@ -90,6 +93,7 @@
   jobtitle: Architecte IT
   employer: Limagrain
   committee:
+  photo: scp.jpg
 - sco:
   name: Stéphane Coussy
   twitter: styef4
@@ -97,6 +101,7 @@
   jobtitle: expert technique
   employer: be-ys group
   committee:
+  photo: sco.jpg
 - oco:
   name: Olivier Coupelon
   twitter: coupelon
@@ -104,6 +109,7 @@
   jobtitle: Responsable SRE
   employer: coffreo
   committee: cfp
+  photo: oco.jpg
 - vse:
   name: Valérie Servaire
   twitter: vservaire
@@ -111,6 +117,7 @@
   jobtitle: Architecte IT
   employer: Michelin
   committee: cfp
+  photo: vse.jpg
 - abl:
   name: Arnaud Blandamour
   twitter: nonowheels
@@ -118,12 +125,14 @@
   jobtitle: Expert Technique
   employer: be-ys group
   commitee: cfp
+  photo: abl.jpg
 - bey:
   name: Benoit Eymard
   linkedin: benoit-eymard-b3135157
   jobtitle: Architecte IT
   employer: Agaetis
   commitee: sponsors
+  photo: bey.jpg
 - ppl:
   name: Pierre Plagnes
   twitter: doguei
@@ -131,3 +140,4 @@
   jobtitle: Architecte IT
   employer: CGI
   commitee: sponsors
+  photo: ppl.jpg

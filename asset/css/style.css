@@ -1168,6 +1168,7 @@ h4.style-3 {
 img.orga{
     border-radius: 90%;
     max-width: 150px; 
+    margin-bottom: 30px;
 }
 @media(max-width:991px) {
     .main-nav .nav-link {
