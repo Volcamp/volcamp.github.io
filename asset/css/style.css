@@ -1169,6 +1169,14 @@ img.orga{
     border-radius: 90%;
     max-width: 150px; 
     margin-bottom: 30px;
+    margin-top: -10px;
+}
+.mt30{
+    margin-top: 30px;
+}
+p.orgasocial{
+    font-size: 0.8em;
+    margin-top: 10px;
 }
 @media(max-width:991px) {
     .main-nav .nav-link {
