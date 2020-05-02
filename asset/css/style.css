@@ -1165,7 +1165,10 @@ h4.style-3 {
 .copy.border-top {
     border-top: 1px solid rgba(255, 255, 255, .04)!important
 }
-
+img.orga{
+    border-radius: 90%;
+    max-width: 150px; 
+}
 @media(max-width:991px) {
     .main-nav .nav-link {
         padding: 10px 18px!important

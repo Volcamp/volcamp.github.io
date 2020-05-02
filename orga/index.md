@@ -35,8 +35,8 @@ title: Volcamp - Sponsors
         <div class="row">
         {% for member in site.data.crew %}
             <div class="col-lg-4">
-                <img src="{{ site.baseurl }}/asset/images/orga/{{ member.photo }}.jpg" alt="{{ member.name }}" class="float-right">{{ member.name }}
-                <a href="https://twitter.com/{{ member.twitter }}" class="tw"><i class="icon-twitter"></i>{{ member.twitter }}</a>
+                <img src="{{ site.baseurl }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="float-left orga">{{ member.name }}<br><br>
+                <a href="https://twitter.com/{{ member.twitter }}" class="tw"><i class="icon-twitter"></i>{{ member.twitter }}</a><br>
                 <a href="https://www.linkedin.com/in/{{ member.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i>{{ member.linkedin }}</a>
             </div>
         {% endfor %}
