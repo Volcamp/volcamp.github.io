@@ -38,11 +38,7 @@
                 </p>
                 <hr>
                 <p>
-                    <i class="icon-mic"></i>
-                    {% assign talks = site.talks | where: "speakers", speaker.name | sort_natural: 'name' %}
-                    {% for talk in talks %}
-                        <a href="{{ talk.url }}">{{ talk.title }}</a>
-                    {% endfor %}
+                    <i class="icon-mic"></i>{% assign counter = 0 %}{% assign talks = site.talks | where: "speakers", speaker.name | sort_natural: 'name' %}{% for talk in talks %}{% if counter != 0 %}, {% endif %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% assign counter = counter | plus: 1 %}{% endfor %}
                 </p>
             </div>
             {% endif %}
