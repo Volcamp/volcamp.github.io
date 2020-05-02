@@ -29,17 +29,27 @@ title: Volcamp - Comment venir ?
             <div class="col-lg-12">
                 <h3>Votre lieu de conférence :</h3>
                 <p class="lead">Hall 32 - Clermont-fd<br>FRANCE</p><br>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.0288481410394!2d3.1033946159694747!3d45.79064977910623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f7192e32f7de63%3A0xfba5b42e42a6b1c6!2sHall32!5e0!3m2!1sfr!2sfr!4v1584201754205!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;border: none;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.0288481410394!2d3.1033946159694747!3d45.79064977910623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f7192e32f7de63%3A0xfba5b42e42a6b1c6!2sHall32!5e0!3m2!1sfr!2sfr!4v1584201754205!5m2!1sfr!2sfr" width="100%" height="450" class="maps" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <h3>En voiture</h3>
-                <p>Venir en voiture ...</p>
+                <p>Depuis Paris via l’autoroute A71 (4h).<br>
+                La Méridienne A75 relie gratuitement Clermont-Ferrand depuis Montpellier en 3h.<br>
+                L’A72 permet de rallier Lyon en 2h et l’A89, Bordeaux en 3h45.
+                </p>
                 <h3>En train</h3>
-                <p>Venir en train ...</p>
+                <p>La SNCF assure des liaisons quotidiennes avec Paris (gare Paris Bercy Bourgogne – Pays d’Auvergne), dont un train quotidien sans arrêt en 3h, du lundi au dimanche.<br>
+                Liaisons pour Béziers, Lyon, Nîmes, Toulouse.
+                </p>
                 <h3>En avion</h3>
-                <p>Venir en avion ...</p>
+                <p>À seulement 7 km du centre-ville de Clermont-Ferrand, l’aéroport Clermont-Ferrand Auvergne est facilement accessible par les axes autoroutiers. Il est relié quotidiennement à plusieurs destinations françaises et européennes.<br>
+                Liaisons quotidiennes avec Paris : plusieurs allers et retours quotidiens vers les aéroports de Paris Orly et Paris Charles de Gaulle.
+                </p>
+                <h3>En bus</h3>
+                <p>Liaisons nationales et européennes à prix bas à destination de la gare routière de Clermont-Ferrand.
+                </p>
             </div>
         </div>
     </div>

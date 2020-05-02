@@ -1178,6 +1178,11 @@ p.orgasocial{
     font-size: 0.8em;
     margin-top: 10px;
 }
+iframe.maps{
+    margin-bottom:20px;
+    border:0;
+    border: none;
+}
 @media(max-width:991px) {
     .main-nav .nav-link {
         padding: 10px 18px!important
