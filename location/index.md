@@ -34,14 +34,6 @@ title: Volcamp - Comment venir ?
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <h3>
-                Accès et stationnement à proximité</h3>
-                Tramway et Bus : lignes A et B (arrêt Stade Marcel Michelin)<br>
-                Espace pour 2 roues<br>
-                Parcs relais et de proximité (pour trajet en tramway ou bus)<br>
-                Parking place du 1er mai et espaces pour se garer à proximité<br>
-                <img src="{{ site.baseurl }}/asset/plan-h32.jpg" alt="Accès Hall32" class="text-center">
-                </p>
                 <h3>Venir en voiture</h3>
                 <p>
                 Depuis Paris via l’autoroute A71 (4h).<br>
@@ -61,6 +53,14 @@ title: Volcamp - Comment venir ?
                 <h3>Venir en bus</h3>
                 <p>
                 Liaisons nationales et européennes à prix bas à destination de la gare routière de Clermont-Ferrand.
+                </p>
+                <h3>Accès et stationnement à proximité</h3>
+                <p>
+                Tramway et Bus : lignes A et B (arrêt Stade Marcel Michelin)<br>
+                Espace pour 2 roues<br>
+                Parcs relais et de proximité (pour trajet en tramway ou bus)<br>
+                Parking place du 1er mai et espaces pour se garer à proximité<br>
+                <img src="{{ site.baseurl }}/asset/images/plan-h32.jpg" alt="Accès Hall32" class="localmap">
                 </p>
             </div>
         </div>
