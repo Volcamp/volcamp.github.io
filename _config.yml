@@ -15,12 +15,14 @@ exclude:
   - CNAME
 
 navigation:
- - title: Programme
+ - title: programme
    url: /talks/
- - title: Intervenants
+ - title: intervenants
    url: /speakers/
- - title: Sponsors
+ - title: sponsors
    url: /sponsors/
+ - title: équipe
+   url: /orga/
 
 collections:
   talks:
