@@ -23,7 +23,7 @@
   committee: cfp
   photo: dpe.jpg
 - mvi:
-  name: Matthieu VINCENT
+  name: Matthieu Vincent
   twitter: yodamad03
   linkedin: matthieu-vincent-ab25064
   jobtitle: Architecte 
@@ -79,7 +79,7 @@
   committee: cfp
   photo: vha.jpg
 - mch :
-  name: Mathieu CHAUSSE
+  name: Mathieu Chausse
   twitter: ChausseMathieu
   linkedin: mathieu-chausse-26308850
   jobtitle: Delivery Lead
@@ -87,7 +87,7 @@
   committee: sponsors
   photo: mch.jpg
 - scp:
-  name: Stephanie Cluzel-Poughet
+  name: Stéphanie Cluzel-Poughet
   twitter: 
   linkedin: stéphanie-cluzel-poughet-b2338817
   jobtitle: Architecte IT
@@ -128,6 +128,7 @@
   photo: abl.jpg
 - bey:
   name: Benoit Eymard
+  twitter: 
   linkedin: benoit-eymard-b3135157
   jobtitle: Architecte IT
   employer: Agaetis
@@ -141,3 +142,83 @@
   employer: CGI
   commitee: sponsors
   photo: ppl.jpg
+-ppi:
+  name: Paul Pinault
+  twitter: paulp_si
+  linkedin: paulpinault
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: ppi.jpg
+-jbo:
+  name: Jerome Bolot
+  twitter: M3gur0
+  linkedin: jbolot
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: jbo.jpg
+-sde:
+  name: Sylvain Desgrais
+  twitter: artpej
+  linkedin: sylvain-desgrais-923a5937
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: sde.jpg
+-tba:
+  name: Thomas Bailly
+  twitter: authfix
+  linkedin: thomas-bailly-b828a338
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: tba.jpg
+-vje:
+  name: Vincent Jestin
+  twitter: 
+  linkedin: vincentjestin
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: vje.jpg
+-nro:
+  name: Nicolas Roux
+  twitter: 
+  linkedin: nicolasbroux
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: nro.jpg
+-mge:
+  name: Mickael Gervais
+  twitter: mickaelgervais
+  linkedin: mickaelgervais
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: mge.jpg
+-gse:
+  name: Guillaume Serre
+  twitter: gserre
+  linkedin: guillaumeserre
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: gse.jpg
+-rci:
+  name: Rokhaya Cisse
+  twitter: 
+  linkedin: rokhaya-cisse-67038990
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: rci.jpg
+-tjo:
+  name: Thomas Jouve
+  twitter: 
+  linkedin: thomas-jouve-723ba394
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: tjo.jpg
