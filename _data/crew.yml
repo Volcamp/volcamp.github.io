@@ -142,7 +142,7 @@
   employer: CGI
   commitee: sponsors
   photo: ppl.jpg
--ppi:
+- ppi:
   name: Paul Pinault
   twitter: paulp_si
   linkedin: paulpinault
@@ -150,7 +150,7 @@
   employer: 
   commitee: 
   photo: ppi.jpg
--jbo:
+- jbo:
   name: Jerome Bolot
   twitter: M3gur0
   linkedin: jbolot
@@ -158,7 +158,7 @@
   employer: 
   commitee: 
   photo: jbo.jpg
--sde:
+- sde:
   name: Sylvain Desgrais
   twitter: artpej
   linkedin: sylvain-desgrais-923a5937
@@ -166,7 +166,7 @@
   employer: 
   commitee: 
   photo: sde.jpg
--tba:
+- tba:
   name: Thomas Bailly
   twitter: authfix
   linkedin: thomas-bailly-b828a338
@@ -174,7 +174,7 @@
   employer: 
   commitee: 
   photo: tba.jpg
--vje:
+- vje:
   name: Vincent Jestin
   twitter: 
   linkedin: vincentjestin
@@ -182,7 +182,7 @@
   employer: 
   commitee: 
   photo: vje.jpg
--nro:
+- nro:
   name: Nicolas Roux
   twitter: 
   linkedin: nicolasbroux
@@ -190,7 +190,7 @@
   employer: 
   commitee: 
   photo: nro.jpg
--mge:
+- mge:
   name: Mickael Gervais
   twitter: mickaelgervais
   linkedin: mickaelgervais
@@ -198,7 +198,7 @@
   employer: 
   commitee: 
   photo: mge.jpg
--gse:
+- gse:
   name: Guillaume Serre
   twitter: gserre
   linkedin: guillaumeserre
@@ -206,7 +206,7 @@
   employer: 
   commitee: 
   photo: gse.jpg
--rci:
+- rci:
   name: Rokhaya Cisse
   twitter: 
   linkedin: rokhaya-cisse-67038990
@@ -214,7 +214,7 @@
   employer: 
   commitee: 
   photo: rci.jpg
--tjo:
+- tjo:
   name: Thomas Jouve
   twitter: 
   linkedin: thomas-jouve-723ba394
