@@ -7,6 +7,10 @@ gold:
     url: https://www.accenture.com/fr-fr
     logo: accenture
     level : gold
+  - name : MICHELIN
+    url: https://www.michelin.fr/
+    logo: michelin
+    level : gold
 
 silver:
   - name: oracle
