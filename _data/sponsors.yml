@@ -3,6 +3,10 @@ gold:
     url: http://www.be-ys.com
     logo: beys
     level : gold
+  - name : accenture
+    url: https://www.accenture.com/fr-fr
+    logo: accenture
+    level : gold
 
 silver:
   - name: oracle
