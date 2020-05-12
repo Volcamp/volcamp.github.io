@@ -68,7 +68,7 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    Le programme est en cours de construction. Nous lancerons très bientôt un "Call For Paper", en attendant voici quelques informations sur le déroulé de l'évènement.
+                    Le programme est en cours de construction. Le "Call For Paper" est ouvert du 13 mai 2020 jusqu'au 21 juin 2020 sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. On attend vos talks.
                 </p>
             </div>
         </div>
