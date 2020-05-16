@@ -51,10 +51,10 @@ title: Volcamp - A Propos
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Aristide Briand 63000 Clermont-Ferrand.
+                Geek&Terroir est une association loi 1901 créée en Janvier 2020 à Clermont-Ferrand. Le siège social de l’association est situé 4 rue Jean Deschamps 63000 Clermont-Ferrand.
                 </p>    
                 <p>
-                L'association est organisée autour d'une collégiale formée de 12 membres représentant diverses entreprises, universités et associations du bassin clermontois. 
+                L'association est organisée autour d'une direction collégiale formée de 12 membres issus de diverses entreprises, universités et associations du bassin clermontois.
                 </p>
                 <p>
                 Autour de cette collégiale, une vingtaine de bénévoles, membres de l'association, participent à l'organisation de l'évènement via des commissions thématiques (communication, call for paper, sponsors, logistique...)
