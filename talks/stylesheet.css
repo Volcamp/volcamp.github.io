@@ -23,6 +23,20 @@ th, td {
   color: #757575;
 }
 
+.ptidej{
+  background-image: url(/asset/images/ptidej.jpg);
+  height: 180px;
+  color: #fff;
+}
+.dej{
+  background-image: url(/asset/images/dej.jpg);
+  height: 180px;
+  color: #fff;
+}
+.pause{
+  background-image: url(/asset/images/pause.jpg);
+}
+
 .slot_info{
   border-radius: 0 0 10px 10px;
   text-align: left;
