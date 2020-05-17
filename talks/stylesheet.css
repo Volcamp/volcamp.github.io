@@ -65,8 +65,11 @@ a.talk:hover{
   text-decoration: none;
   color: #9a9a93;
 }
-a.ws{
+a.ws_am{
   min-height: 472px;
+}
+a.ws_pm{
+  min-height: 384px;
 }
 .legende{
   display: flex;

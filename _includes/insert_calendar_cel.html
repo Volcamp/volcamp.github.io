@@ -1,4 +1,4 @@
-<a href="/talks/{{ talk.name }}" class="talk {% if(talk.format == "Workshop" %}ws{% endif %}">
+<a href="/talks/{{ talk.name }}" class="talk {% if(talk.format == "Workshop" %}ws_{{ talk.slot }}{% endif %}">
     <div class="all_theme {% if talk.category == "Keynote" %}theme_key{% elsif(talk.category == "Langage & Frameworks" %}theme_lang{% elsif(talk.category == "BigData & AI" %}theme_big{% elsif(talk.category == "Web & Mobile" %}theme_web{% elsif(talk.category == "Architecture, Performance et Sécurité" %}theme_archi{% elsif(talk.category == "DevOps" %}theme_devops{% elsif(talk.category == "Cloud" %}theme_cloud{% elsif(talk.category == "UX/UI" %}theme_ux{% elsif(talk.category == "Découverte & Nouveauté" %}theme_decouv{% endif %}">{{ talk.title }}</div>
     <div class="slot_info">
         <ul>
