@@ -184,7 +184,7 @@
   photo: vje.jpg
 - nro:
   name: Nicolas Roux
-  twitter: 
+  twitter: rouxn
   linkedin: nicolasbroux
   jobtitle: 
   employer: 
@@ -208,11 +208,11 @@
   photo: gse.jpg
 - rci:
   name: Rokhaya Cisse
-  twitter: 
-  linkedin: rokhaya-cisse-67038990
-  jobtitle: 
-  employer: 
-  commitee: 
+  twitter: rok6c
+  linkedin: rokhaya-cisse
+  jobtitle: Ingénieur IT
+  employer: Michelin
+  commitee: logistique
   photo: rci.jpg
 - tjo:
   name: Thomas Jouve
@@ -222,3 +222,27 @@
   employer: 
   commitee: 
   photo: tjo.jpg
+- cpe:
+  name: Camille Petitalot
+  twitter: 
+  linkedin: camille-petitalot-7777a9a3
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: cpe.png
+- acr:
+  name: Adelaïde Croc
+  twitter: CrocAdelaide
+  linkedin: adélaïde-croc-b36929180/
+  jobtitle: 
+  employer: 
+  commitee: 
+  photo: acr.jpg
+- jri:
+  name: Julien Ribeyre
+  twitter: JR6315
+  linkedin: julien-ribeyre-58512a31
+  jobtitle: Expert technique
+  employer: Capgemini
+  commitee: 
+  photo: jri.jpg
