@@ -20,7 +20,7 @@ title: Volcamp - Code de conduite
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>version rapide</h2>
+                        <h2>Version rapide</h2>
                     </div>
                 </div>
             </div>
