@@ -2,32 +2,27 @@ gold:
   - name: be-ys group
     url: http://www.be-ys.com
     logo: beys
-    level: gold
   - name: accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
-    level: gold
   - name: MICHELIN
     url: https://www.michelin.com/
     logo: michelin
-    level: gold
   - name: CGI
     url: https://www.cgi.fr/fr-fr
     logo: cgi
-    level: gold
-
 silver:
   - name: oracle
     url: http://www.oracle.com/
     logo: oracle
-    level: silver
-
+  - name: capgemini
+    url: https://www.capgemini.com/fr-fr/
+    logo: capgemini
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
     logo: clever_cloud
-    level: bronze
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
     logo: labo_thea
-    level: bronze
+
