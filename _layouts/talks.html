@@ -32,7 +32,7 @@
                 </p>
                 <p>{{ content | markdownify }}</p>
                 <p>{% if talk.category != "Keynote" %}
-                    {% if(talk.format == "Quicky" %}<i class="icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}
+                    {% if(talk.format == "Lightning" %}<i class="icon-gauge"></i>{% elsif(talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif(talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif(talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}
                     <br> 
                     <i class="icon-tag"></i> {{ talk.category }}
                    {% endif %}
