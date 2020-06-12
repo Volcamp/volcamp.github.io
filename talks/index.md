@@ -48,7 +48,7 @@ custom_css: talks/stylesheet.css
                 <p>Un Retour d'Expérience d'une situation concrète vécue où la mise en place d'un changement technique ou méthologique a été un franc succès ou un lamentable échec.</p>
                 <h4><i class="icon-beaker"></i> Workshop</h4>
                 <p>Un ateliers pour apprendre par la pratique au travers d'un sujet concret.</p>
-                <h4><i class="icon-gauge"></i> Quicky</h4>
+                <h4><i class="icon-gauge"></i> Lightning</h4>
                 <p>Un format court et efficace pour partager de manière claire et rapide une découverte ou faire passer un message.</p>
             </div>
         </div>
