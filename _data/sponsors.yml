@@ -21,6 +21,9 @@ silver:
   - name: capgemini
     url: https://www.capgemini.com/fr-fr/
     logo: capgemini
+  - name: snowflake
+    url: https://www.snowflake.com/
+    logo: snowflake
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
