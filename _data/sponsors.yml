@@ -27,6 +27,9 @@ silver:
   - name: kbrw
     url: https://www.kbrw.fr/
     logo: kbrw
+  - name: axway
+    url: https://www.axway.com/fr
+    logo: axway
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
