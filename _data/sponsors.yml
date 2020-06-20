@@ -24,6 +24,9 @@ silver:
   - name: snowflake
     url: https://www.snowflake.com/
     logo: snowflake
+  - name: kbrw
+    url: https://www.kbrw.fr/
+    logo: kbrw
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
