@@ -31,12 +31,12 @@ title: Volcamp - Contactez-nous
                 Notre équipe est à votre disposition pour toute question/commentaires ou suggestion par email, vous pouvez nous contacter via : "contact at volcamp.io".
                 </p>
                 <p>
-                Vous pouvez ausi contacter directement nos commissions : 
+                Vous pouvez aussi contacter directement nos commissions : 
                 </p>
                 <ul>
                     <li>Devenir sponsor : "sponsor at volcamp.io".</li>
                     <li>Logistique avant et pendant l'évènement : "event at volcamp.io".</li>
-                    <li>Billeterie : "billeterie at volcamp.io".</li>
+                    <li>Billetterie : "billeterie at volcamp.io".</li>
                     <li>Devenir intervenant : "cfp at volcamp.io". ou sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>.</li>
                 </ul>
                 <p>

@@ -31,7 +31,7 @@ title: Volcamp - Sponsors et partenaires
                 Votre organisation est un acteur de lʼécosystème auvergnat ou du monde des nouvelles technologies et souhaite sʼassocier à Volcamp  en sponsorisant un événement : contactez notre équipe dédiée au sujet via "sponsor at volcamp.io".
                 </p>
                 <p>
-                En contre partie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquette, réseaux sociaux, etc.) et présenté comme sponsor ofﬁciel lors de l'événement.
+                En contrepartie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquettes, réseaux sociaux, etc.) et présenté comme sponsor officiel lors de l'événement.
                 </p>
             </div>
         </div>
@@ -44,7 +44,7 @@ title: Volcamp - Sponsors et partenaires
                     <h6 class="pname">Gold</h6>
                     <ul class="list-unstyled">
                     <li>Stand 8m²</li>
-                    <li>3 badges Exposants</li>
+                    <li>3 badges Exposant</li>
                     <li>3 badges Conférencier</li>
                     <li>Votre logo sur le site</li>
                     <li>Votre logo sur le sweat-shirt de l'orga</li>
@@ -61,8 +61,8 @@ title: Volcamp - Sponsors et partenaires
                     <h6 class="pname">Silver</h6>
                     <ul class="list-unstyled">
                     <li>Stand 6m²</li>
-                    <li>2 badges Exposants</li>
-                    <li>2 badges conférencier</li>
+                    <li>2 badges Exposant</li>
+                    <li>2 badges Conférencier</li>
                     <li>Votre logo sur le site</li>
                     <li>Votre nom cité sur supports de communication</li>
                     </ul>

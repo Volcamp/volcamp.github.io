@@ -57,7 +57,7 @@ title: Volcamp - A Propos
                 L'association est organisée autour d'une direction collégiale formée de 12 membres issus de diverses entreprises, universités et associations du bassin clermontois.
                 </p>
                 <p>
-                Autour de cette collégiale, une vingtaine de bénévoles, membres de l'association, participent à l'organisation de l'évènement via des commissions thématiques (communication, call for paper, sponsors, logistique...)
+                Autour de cette collégiale, une vingtaine de bénévoles, membres de l'association, participent à l'organisation de l'évènement via des commissions thématiques (communication, call for paper, sponsors, logistique...).
                 </p>
                 <p>
                 Geek&Terroir est animé par une équipe de bénévoles, avec lʼaide de sponsors qui proposent leur soutien ﬁnancier. En retour, nous offrons à ces sponsors divers vecteurs de communication privilégiés qui touchent les personnes les plus impliquées localement dans lʼutilisation des nouvelles technologies : réseaux sociaux, site web, stand lors de l'évènement.
