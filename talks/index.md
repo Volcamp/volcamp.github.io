@@ -45,9 +45,9 @@ custom_css: talks/stylesheet.css
                 <h4><i class="icon-graduation-cap"></i> Conférence</h4>
                 <p>Un sujet qui reflète l'univers des métiers de l'informatique au sens large.</p>
                 <h4><i class="icon-arrows-cw"></i> REX</h4>
-                <p>Un Retour d'Expérience d'une situation concrète vécue où la mise en place d'un changement technique ou méthologique a été un franc succès ou un lamentable échec.</p>
+                <p>Un Retour d'Expérience d'une situation concrète vécue où la mise en place d'un changement technique ou méthodologique a été un franc succès ou un lamentable échec.</p>
                 <h4><i class="icon-beaker"></i> Workshop</h4>
-                <p>Un ateliers pour apprendre par la pratique au travers d'un sujet concret.</p>
+                <p>Un atelier pour apprendre par la pratique au travers d'un sujet concret.</p>
                 <h4><i class="icon-gauge"></i> Lightning</h4>
                 <p>Un format court et efficace pour partager de manière claire et rapide une découverte ou faire passer un message.</p>
             </div>
