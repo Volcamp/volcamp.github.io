@@ -30,6 +30,9 @@ silver:
   - name: axway
     url: https://www.axway.com/fr
     logo: axway
+  - name: Agaetis
+    url: https://www.agaetis.fr/
+    logo: agaetis
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
