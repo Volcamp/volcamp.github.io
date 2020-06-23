@@ -33,6 +33,9 @@ silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
     logo: agaetis
+  - name: vmware
+    url: https://www.vmware.com/fr.html
+    logo: vmware
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
