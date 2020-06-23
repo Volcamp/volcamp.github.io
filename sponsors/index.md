@@ -152,3 +152,24 @@ title: Volcamp - Sponsors et partenaires
         </div>
     </div>
 </section>
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les partenaires</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 text-center">
+                <a href="https://leconnecteur.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/connecteur_logo.png" alt="LeConnecteur" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://www.programmez.com/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/programmez_logo.png" alt="Programmez" class="img-partenaire"></a>
+            </div>
+        </div>
+    </div>
+</section>
