@@ -33,6 +33,9 @@ title: Volcamp - Code de conduite
                 <p>
                 Nous ne tolérons pas de harcèlement de nos participants, quelqu’en soit la forme. Un langage explicite ou des images non appropriées ne sont pas tolérés lors de l'événement Volcamp, ceci incluant les présentations des intervenants, ainsi que Twitter, ou tout autre média. Les participants et les intervenants qui ne respectent pas ces règles pourront être sanctionnés ou exclus de l'événement, sans que cela ne donne droit à un quelconque remboursement de la part des organisateurs.
                 </p>
+                <p>
+                Les participants à l'événement s'engagent à respecter les lieux ainsi que les éventuelles directives des organisateurs si nous étions amenés à définir un protocole sanitaire lié à la pandémie de Covid-19.
+                </p>
             </div>
         </div>
     </div>
@@ -70,6 +73,12 @@ title: Volcamp - Code de conduite
                 </p>
                 <p>
                 Nous attendons de chacun‧e le respect de ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence. 
+                </p>
+                <p>
+                Nous comptons également sur vous pour respecter le lieu qui accueille l'événement. Le règlement intérieur de celui-ci s'applique sans réserve à l'ensemble des participants.
+                </p>
+                <p>
+                Le contexte actuel avec la pandémie de Covid-19 nous oblige à envisager la mise en place d'un éventuel protocole sanitaire afin de favoriser les gestes barrières et la distanciation physique. Le cas échéant nous attendons de tous le respect des règles qui seront soit communiquées par email avant l’événement, soit affichées sur le lieu de l’événement.
                 </p>
             </div>
         </div>
