@@ -11,6 +11,7 @@ or
 ```quick start
   sudo gem install bundler jekyll
   sudo gem install github-pages
+  bundle install
   bundle exec jekyll serve
 ```
 

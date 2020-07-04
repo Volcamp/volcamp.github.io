@@ -220,6 +220,18 @@ p {
     border-color: #4F993F
 }
 
+.btn-subscribe {
+    background: #FF4800;
+    border-color: #FF4800;
+    color: #fff
+}
+
+.btn-subscribe:hover {
+    background: 0 0;
+    color: #111;
+    border-color: #FF4800
+}
+
 .btn-sponsor {
     background: #4F993F;
     border-color: #4F993F;

@@ -124,7 +124,7 @@ title: Volcamp - Mentions legales
                 Ce site n’utilise pas de cookie.
                 </p>
                 <p>
-                Conformément à la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés modifiée, et au Règlement Général pour la Protection des Données (UE) 2016/679 – le « RGPD », vous pouvez à tout moment modifier ou supprimer les renseignements vous concernant et stockés dans nos bases de données.
+                Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée, et au Règlement Général pour la Protection des Données (UE) 2016/679 – le « RGPD », vous pouvez à tout moment modifier ou supprimer les renseignements vous concernant et stockés dans nos bases de données.
                 </p>
                 <p>
                 Selon ces mêmes articles, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données qui vous concernent. Pour exercer ce droit, merci de nous contacter directement à l’adresse "contact at volcamp.io".
