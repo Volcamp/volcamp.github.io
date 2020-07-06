@@ -36,6 +36,9 @@ silver:
   - name: vmware
     url: https://www.vmware.com/fr.html
     logo: vmware
+  - name: braincube
+    url: https://fr.braincube.com/
+    logo: braincube
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
