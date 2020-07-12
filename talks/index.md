@@ -35,8 +35,7 @@ custom_css: talks/stylesheet.css
                 <div class="legend_item"><span class="theme_big bullet"></span><span>BigData & AI</span></div>
                 <div class="legend_item"><span class="theme_web bullet"></span><span>Web & Mobile</span></div>
                 <div class="legend_item"><span class="theme_archi bullet"></span><span>Archi, Perf et Sécu</span></div>
-                <div class="legend_item"><span class="theme_devops bullet"></span><span>DevOps</span></div>
-                <div class="legend_item"><span class="theme_cloud bullet"></span><span>Cloud</span></div>
+                <div class="legend_item"><span class="theme_devops bullet"></span><span>DevOps & Cloud</span></div>
                 <div class="legend_item"><span class="theme_ux bullet"></span><span>UX/UI</span></div>
                 <div class="legend_item"><span class="theme_decouv bullet"></span><span>Découverte</span></div>
             </div>
