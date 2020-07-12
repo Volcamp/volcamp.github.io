@@ -31,14 +31,14 @@ custom_css: talks/stylesheet.css
             <div class="col-lg-6">
                 <h3>Les thèmes</h3>
                 <div class="legend_item"><span class="theme_key bullet"></span><span>Plénière</span></div>
-                <div class="legend_item"><span class="theme_lang bullet"></span><span>Langage & Frameworks</span></div>
+                <div class="legend_item"><span class="theme_lang bullet"></span><span>Lang. & Frameworks</span></div>
                 <div class="legend_item"><span class="theme_big bullet"></span><span>BigData & AI</span></div>
                 <div class="legend_item"><span class="theme_web bullet"></span><span>Web & Mobile</span></div>
-                <div class="legend_item"><span class="theme_archi bullet"></span><span>Architecture, Performance et Sécurité</span></div>
+                <div class="legend_item"><span class="theme_archi bullet"></span><span>Archi, Perf et Sécu</span></div>
                 <div class="legend_item"><span class="theme_devops bullet"></span><span>DevOps</span></div>
                 <div class="legend_item"><span class="theme_cloud bullet"></span><span>Cloud</span></div>
                 <div class="legend_item"><span class="theme_ux bullet"></span><span>UX/UI</span></div>
-                <div class="legend_item"><span class="theme_decouv bullet"></span><span>Découverte & Nouveauté</span></div>
+                <div class="legend_item"><span class="theme_decouv bullet"></span><span>Découverte</span></div>
             </div>
             <div class="col-lg-6">
                 <h3>Les formats</h3>
