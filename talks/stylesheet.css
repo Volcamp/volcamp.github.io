@@ -89,6 +89,7 @@ a.ws_pm{
   min-height: 90px;
   padding-left: 5px;
   padding-right: 5px;
+  font-size: 0.9em;
 }
 
 .theme_key {
@@ -155,5 +156,8 @@ a.ws_pm{
   }
   .legend_item{
     font-size: 0.7em;
+  }
+  .all_theme {
+    font-size: 0.8em;
   }
 }
