@@ -66,10 +66,10 @@ a.talk:hover{
   color: #9a9a93;
 }
 a.ws_am{
-  min-height: 478px;
+  min-height: 588px;
 }
 a.ws_pm{
-  min-height: 384px;
+  min-height: 495;
 }
 .legende{
   display: flex;
@@ -85,7 +85,7 @@ a.ws_pm{
 .all_theme {
   border-radius: 10px 10px 0 0;
   padding-top: 10px;
-  min-height: 55px;
+  min-height: 90px;
 }
 
 .theme_key {
