@@ -39,6 +39,9 @@ silver:
   - name: braincube
     url: https://fr.braincube.com/
     logo: braincube
+  - name: Sopra Steria
+    url: https://soprasteria.fr/
+    logo: soprasteria
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
