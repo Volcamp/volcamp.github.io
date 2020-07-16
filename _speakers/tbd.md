@@ -2,9 +2,9 @@
   name: TBD
   title: Volcamp - TBD
   abstract: 
-  twitter: 
-  photo: 
-  linkedin: 
+  twitter: none
+  photo: none
+  linkedin: none
   keynotes: false
   sitemap: false
 ---
