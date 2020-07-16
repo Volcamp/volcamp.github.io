@@ -39,6 +39,9 @@ silver:
   - name: braincube
     url: https://fr.braincube.com/
     logo: braincube
+  - name: Centre France
+    url: https://www.centrefrance.com/
+    logo: centrefrance
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
