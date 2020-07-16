@@ -152,12 +152,12 @@ a.ws_pm{
   .schedule, .csched{display: none;}
   .ctrack1, .ctrack2, .ctrack3 {width: 33%;}
   .slot_info{
-    font-size: 0.7em;
+    font-size: 0.6em;
   }
   .legend_item{
     font-size: 0.7em;
   }
   .all_theme {
-    font-size: 0.8em;
+    font-size: 0.7em;
   }
 }
