@@ -67,7 +67,10 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    Le programme est en cours de construction. Le "Call For Paper" est ouvert du 13 mai 2020 jusqu'au 21 juin 2020 sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. On attend vos talks.
+                    Le programme que nous vous proposons est le suivant : 2 keynotes et 44 talks donnés par 57 intervenants.
+                </p>
+                <p>
+                    Cette selection est issue du "Call For Paper" qui s'est tenu du 13 mai 2020 jusqu'au 21 juin 2020 sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
                 </p>
             </div>
         </div>
