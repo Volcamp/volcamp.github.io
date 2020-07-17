@@ -45,7 +45,7 @@ title: Volcamp - Sponsors et partenaires
                     <ul class="list-unstyled">
                     <li>Stand 8m²</li>
                     <li>3 badges Exposant</li>
-                    <li>3 badges Conférencier</li>
+                    <li>3 pass Visiteur</li>
                     <li>Votre logo sur le site</li>
                     <li>Votre logo sur le sweat-shirt de l'orga</li>
                     <li>Votre nom cité sur supports de communication</li>
@@ -62,7 +62,7 @@ title: Volcamp - Sponsors et partenaires
                     <ul class="list-unstyled">
                     <li>Stand 6m²</li>
                     <li>2 badges Exposant</li>
-                    <li>2 badges Conférencier</li>
+                    <li>2 pass Visiteur</li>
                     <li>Votre logo sur le site</li>
                     <li>Votre nom cité sur supports de communication</li>
                     </ul>
