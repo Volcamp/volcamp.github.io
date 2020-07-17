@@ -33,8 +33,8 @@ title: Volcamp - Les intervenants
                     <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
                             <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
-                            <li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>
+                            {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
+                            {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
                         </ul>
                     </div>
                     <div class="speaker-info">
