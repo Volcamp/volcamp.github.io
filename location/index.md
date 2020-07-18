@@ -60,8 +60,12 @@ title: Volcamp - Comment venir ?
                 Espace pour 2 roues<br>
                 Parcs relais et de proximité (pour trajet en tramway ou bus)<br>
                 Parking place du 1er mai et espaces pour se garer à proximité<br>
-                <img src="{{ site.baseurl }}/asset/images/plan-h32.jpg" alt="Accès Hall32" class="localmap">
+                <img src="{{ site.baseurl }}/asset/images/plan-h32.jpg" alt="Accès Hall32">
                 </p>
+                <h3>Le centre de conférence</h3>
+                <p>A votre disposition : 3 salles de conférences (Auditorium, showrrom et mezzanine), 5 stands de sponsors Gold, 16 stands de sponsors Silver.<br>
+                <img src="{{ site.baseurl }}/asset/images/plan-interne.png" alt="Interieur Hall32">
+                </p> 
             </div>
         </div>
     </div>
