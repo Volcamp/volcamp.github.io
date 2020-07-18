@@ -159,5 +159,9 @@ a.ws_pm{
   }
   .all_theme {
     font-size: 0.7em;
+    min-height: 110px;
+  }
+  a.ws_pm {
+    min-height: 539px;
   }
 }
