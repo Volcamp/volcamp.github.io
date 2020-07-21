@@ -67,7 +67,7 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    Le programme que nous vous proposons est le suivant : 2 keynotes et 44 talks donnés par 57 intervenants.
+                    Le programme que nous vous proposons est le suivant : 2 keynotes et 45 talks donnés par 58 intervenants.
                 </p>
                 <p>
                     Cette sélection est issue du "Call For Paper" qui s'est tenu du 13 mai 2020 jusqu'au 21 juin 2020 sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
