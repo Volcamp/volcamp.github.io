@@ -45,6 +45,12 @@ silver:
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
+  - name: Vilmorin
+    url: https://www.vilmorin.fr/
+    logo: vilmorin
+  - name: Microstrategy 
+    url: https://www.microstrategy.com/fr
+    logo: microstrategy
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
@@ -73,3 +79,12 @@ bronze:
   - name: Akka
     url: https://www.akka-technologies.com/
     logo: akka
+  - name: Confluent  
+    url: https://fr.confluent.io/
+    logo: confluent  
+  - name: Treeptik 
+    url: https://www.treeptik.com/
+    logo: treeptik 
+  - name: Synchrone 
+    url: https://www.synchrone.fr/
+    logo: synchrone 
