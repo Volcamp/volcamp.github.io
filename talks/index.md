@@ -67,13 +67,12 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    Le programme que nous vous proposons est le suivant : 2 keynotes et 45 talks donnés par 58 intervenants.
+                    Volcamp 2020 est reportée aux 14 et 15 octobre 2021
                 </p>
                 <p>
-                    Cette sélection est issue du "Call For Paper" qui s'est tenu du 13 mai 2020 jusqu'au 21 juin 2020 sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
+                    Une sélection sera faite à l'issue d'un CFP lancé en début d'année. 
                 </p>
             </div>
         </div>
     </div>
 </section>
-{% include agenda.html %}

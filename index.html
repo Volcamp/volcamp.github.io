@@ -9,7 +9,7 @@ title: Volcamp 2020
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 mr-auto">
-                        <div class="banner-content"><span>jeudi 15 et vendredi 16 octobre 2020</span>
+                        <div class="banner-content"><span>jeudi 14 et vendredi 15 octobre 2021</span>
                             <h1 class="mt-3 mb-5">Volcamp</h1>
                             <span>Première conférence tech<br>au cœur des volcans d'Auvergne</span>
                         </div>
@@ -26,7 +26,7 @@ title: Volcamp 2020
                                 <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
                             </div>
                         </div>
-                        <div id="simple-timer" class="syotimer" data-year="2020" data-month="10" data-day="15" data-hour="09">
+                        <div id="simple-timer" class="syotimer" data-year="2021" data-month="10" data-day="14" data-hour="09">
                             <div class="syotimer__head"></div>
                             <div class="syotimer__body"></div>
                             <div class="syotimer__footer"></div>
@@ -54,124 +54,52 @@ title: Volcamp 2020
                 </div>
             </div>
         </section>
-        <section class="section cta-wrap">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="cta-content">
-                            <h2 class="mt-3 mb-4 text-md title">Venez à la rencontre <br><strong>des intervenants</strong> &amp; des influenceurs tech dans<br>un cadre <strong>volcanique</strong> pendant <strong>2 jours</strong></h2>
-                            </div>
-                    </div>
-                    <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block"><img src="https://www.volcamp.io/asset/images/home/logo_black.png" alt="" class="img-fluid"></div>
-                </div>
-            </div>
-        </section>
-        <section id="section-feature">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 badge">
-                        <img src="https://www.volcamp.io/asset/images/participants.png" alt="250 participants"><br>Participants
-                    </div>
-                    <div class="col-lg-4 col-md-6 badge">
-                        <img src="https://www.volcamp.io/asset/images/speakers.png" alt="46 talks"><br>Talks
-                    </div>
-                    <div class="col-lg-4 col-md-6 badge">
-                        <img src="https://www.volcamp.io/asset/images/terroir.png" alt="100% terroir"><br>Terroir
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="section-speaker section">
+        <section class="section">
             <div class="container">
                 <div class="row section-heading">
                     <div class="col-lg-8">
-                        <div class="heading"><span class="stroke-text">Nos Keynotes</span>
+                        <div class="heading">
                             <div class="pl-90">
-                                <h2>Les intervenants</h2>
+                                <p>C'est avec un immense regret que nous faisons le choix de reporter notre premier événement en 2021.</p>
+                                <p>Nous souhaitons remercier l'ensemble de nos sponsors et de nos partenaires qui ont soutenus dans cette édition 2020 mais également l'ensemble des speakers ayant participés à notre CFP.</p>
+                                <p>Tous ensemble nous remettrons toute cette energie pour l'édition des 14 et 15 octobre 2021.</p>
+                                <p>2020 aurait pu être cela <a href="https://2020.volcamp.io/">https://2020.volcamp.io/</a>.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    {% assign speakers = site.speakers | where: "keynotes", true | sort_natural: 'name' %}
-                    {% for speaker in speakers %}
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="speaker-block mb-5">
-                            <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
-                                <ul class="list-inline speaker-social">
-                                    <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>
-                                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="speaker-info">
-                                <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
-                                <p>{{ speaker.abstract }}</p>
-                            </div>
-                        </div>
-                    </div>
-                    {% else %}
-                        Rien à voir ici.
-                    {% endfor %}
-                </div>
             </div>
         </section>
-        <section class="section sponsors">
+        <section class="section">
             <div class="container">
                 <div class="row section-heading">
                     <div class="col-lg-8">
-                        <div class="heading"><span class="stroke-text">Sponsors</span>
+                        <div class="heading">
                             <div class="pl-90">
-                                <h2 class="text-white">Sans eux, rien ne serait possible !</h2>
+                                <h2 class="text-white">Ils nous on soutenus en 2020 !</h2>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row mb-5">
-                    <div class="col-lg-8">
-                        <h4 class="mb-4 text-white letter-spacing text-sm">Gold</h4>
-                    </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.gold %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
                 <div class="row mb-5">
-                    <div class="col-lg-8">
-                        <h4 class="mb-4 text-white letter-spacing text-sm">Silver</h4>
-                    </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.silver %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
                 <div class="row mb-5">
-                    <div class="col-lg-8">
-                        <h4 class="mb-4 text-white letter-spacing text-sm">Bronze</h4>
-                    </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.bronze %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <a href="{{ site.baseurl }}/sponsors/" class="btn btn-sponsor btn-rounded mt-3 mt-lg-0">Devenir sponsor</a></div>
-                </div>
-            </div>
-        </section>
-        <section class="cta-2 section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="cta-img"><img src="{{ site.baseurl }}/asset/images/hall32.jpg" alt="" class="img-fluid">
-                            <div class="contact-info box-shadow">
-                                <h6 class="text-color mb-3">15, 16 octobre 2020</h6>
-                                <p class="lead">Hall 32 - Clermont-fd<br>FRANCE</p><a href="{{ site.baseurl }}/location/"><i class="icon-location mr-2"></i>Venir sur place</a></div>
-                        </div>
                     </div>
                 </div>
             </div>
