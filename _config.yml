@@ -15,6 +15,10 @@ exclude:
   - CNAME
 
 navigation:
+ - title: programme
+   url: /talks/
+ - title: intervenants
+   url: /speakers/
  - title: sponsors
    url: /sponsors/
  - title: l'équipe
