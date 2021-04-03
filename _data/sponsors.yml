@@ -11,9 +11,6 @@ gold:
   - name: CGI
     url: https://www.cgi.fr/fr-fr
     logo: cgi
-  - name: Lunatech
-    url: https://lunatech.fr/
-    logo: lunatech
 silver:
   - name: oracle
     url: http://www.oracle.com/
