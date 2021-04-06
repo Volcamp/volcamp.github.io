@@ -42,9 +42,6 @@ silver:
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
-  - name: Vilmorin
-    url: https://www.vilmorin.fr/
-    logo: vilmorin
   - name: Microstrategy 
     url: https://www.microstrategy.com/fr
     logo: microstrategy
@@ -58,18 +55,12 @@ bronze:
   - name: Atos
     url: https://atos.net/fr/
     logo: atos
-  - name: Apside
-    url: https://apside.com/
-    logo: apside
   - name: Logelis
     url: https://www.lojelis.com/fr/
     logo: logelis
   - name: Le Bivouac
     url: https://www.lebivouac.com/
     logo: bivouac
-  - name: Datalyo
-    url: http://www.datalyo.com/
-    logo: datalyo
   - name: Coffreo
     url: https://coffreo.biz/
     logo: coffreo
