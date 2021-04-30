@@ -20,7 +20,7 @@ title: Volcamp - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Devenir un sponsor de l'événement</h2>
+                        <h2>Devenir un sponsor de l'événement 2021 & 2022</h2>
                     </div>
                 </div>
             </div>
@@ -33,6 +33,72 @@ title: Volcamp - Sponsors et partenaires
                 <p>
                 En contrepartie, votre partenariat sera référencé (logo, adresse Web…) sur les supports de communication de l'évènement (site Web, plaquettes, réseaux sociaux, etc.) et présenté comme sponsor officiel lors de l'événement.
                 </p>
+            </div>
+        </div>
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Offre 2021</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="package style-1 bg-white mb-5 mb-lg-0">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
+                    <i class="icon-star"></i>
+                    </div>
+                    <h6 class="pname">Gold</h6>
+                    <ul class="list-unstyled">
+                    <li>Communication vidéo (max 30s) diffusée entre les talks</li>
+                    <li>Votre logo et le nom de votre société sur supports de communication</li>
+                    </ul>
+                    <ul class="list-unstyled">
+                    <li>Stand 8m²</li>
+                    <li>3 badges Exposant</li>
+                    <li>3 pass Visiteur</li>
+                    <li>Votre logo sur le site</li>
+                    <li>Votre logo sur le sweat-shirt de l'orga</li>
+                    <li>Votre nom cité sur supports de communication</li>
+                    </ul>
+                    <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package style-2 bg-white mb-5 mb-lg-0">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
+                    <i class="icon-heart"></i>
+                    </div>
+                    <h6 class="pname">Silver</h6>
+                    <ul class="list-unstyled">
+                    <li>Communication vidéo (max 30s) diffusée entre les talks</li>
+                    <li>Votre logo et le nom de votre société sur supports de communication</li>
+                    </ul>
+                    <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="package style-3 bg-white mb-5 mb-lg-0">
+                    <div class="price-header mb-4" style="background-image:url(/asset/images/page-header.jpg)">
+                    <i class="icon-thumbs-up-alt"></i>
+                    </div>
+                    <h6 class="pname">Bronze</h6>
+                    <ul class="list-unstyled">
+                    <li>Votre logo et le nom de votre société sur supports de communication</li>
+                    </ul>
+                    <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
+                </div>
+            </div>
+        </div>
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Offre 2022</h2>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="row justify-content-center align-items-center">
@@ -59,6 +125,10 @@ title: Volcamp - Sponsors et partenaires
                     <i class="icon-heart"></i>
                     </div>
                     <h6 class="pname">Silver</h6>
+                    <ul class="list-unstyled">
+                    <li>Communication vidéo (max 30s) diffusée entre les talks</li>
+                    <li>Votre logo et le nom de votre société sur supports de communication</li>
+                    </ul>
                     <ul class="list-unstyled">
                     <li>Stand 6m²</li>
                     <li>2 badges Exposant</li>
@@ -91,7 +161,7 @@ title: Volcamp - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Les sponsors Volcamp 2020</h2>
+                        <h2>Les sponsors Volcamp 2021</h2>
                     </div>
                 </div>
             </div>
