@@ -55,14 +55,6 @@ title: Volcamp - Sponsors et partenaires
                     <li>Communication vidéo (max 30s) diffusée entre les talks</li>
                     <li>Votre logo et le nom de votre société sur supports de communication</li>
                     </ul>
-                    <ul class="list-unstyled">
-                    <li>Stand 8m²</li>
-                    <li>3 badges Exposant</li>
-                    <li>3 pass Visiteur</li>
-                    <li>Votre logo sur le site</li>
-                    <li>Votre logo sur le sweat-shirt de l'orga</li>
-                    <li>Votre nom cité sur supports de communication</li>
-                    </ul>
                     <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
                 </div>
             </div>
@@ -125,10 +117,6 @@ title: Volcamp - Sponsors et partenaires
                     <i class="icon-heart"></i>
                     </div>
                     <h6 class="pname">Silver</h6>
-                    <ul class="list-unstyled">
-                    <li>Communication vidéo (max 30s) diffusée entre les talks</li>
-                    <li>Votre logo et le nom de votre société sur supports de communication</li>
-                    </ul>
                     <ul class="list-unstyled">
                     <li>Stand 6m²</li>
                     <li>2 badges Exposant</li>
