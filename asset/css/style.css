@@ -1238,7 +1238,21 @@ iframe.maps{
     .syotimer-cell {
         width: 100px
     }
+    .bigmarker-widget-lg {
+        display: none;
+    }
+    .bigmarker-widget-sm {
+        display: block;
+    }
 }
+
+@media(min-width:992px) {
+    .bigmarker-widget-lg {
+        display: block;
+    }
+    .bigmarker-widget-sm {
+        display: none;
+    }
 
 @media(max-width:767px) {
     body {
