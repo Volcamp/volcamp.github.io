@@ -130,7 +130,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.gold %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -140,7 +140,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.silver %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -150,7 +150,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.bronze %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
                         {% endfor %}
                     </div>
                 </div>

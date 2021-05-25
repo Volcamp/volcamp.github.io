@@ -76,3 +76,6 @@ bronze:
   - name: Synchrone 
     url: https://www.synchrone.fr/
     logo: synchrone 
+  - name: Simplon
+    url: https://simplon.co/
+    logo: simplon
