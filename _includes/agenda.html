@@ -274,6 +274,13 @@
                         {% include insert_calendar_cel.html %}
                     </td>
                 </tr>
+                <tr>
+                    <td class="schedule">17h45</td>
+                    <td colspan="3">
+                        {% assign talk = site.talks | where: "name", "21d2t1s9" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
             </table>
         </div>
         <div class="row legende justify-content-center">
