@@ -45,6 +45,9 @@ silver:
   - name: Microstrategy 
     url: https://www.microstrategy.com/fr
     logo: microstrategy
+  - name: Limagrain 
+    url: https://www.limagrain.com/
+    logo: limagrain
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
