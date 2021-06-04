@@ -32,7 +32,7 @@ silver:
     logo: agaetis
   - name: vmware
     url: https://www.vmware.com/fr.html
-    logo: vmware
+    logo: tanzu
   - name: braincube
     url: https://fr.braincube.com/
     logo: braincube
