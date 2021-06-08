@@ -228,8 +228,13 @@ title: Volcamp - Sponsors et partenaires
             <div class="col-lg-4 text-center">
                 <a href="https://www.programmez.com/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/programmez_logo.png" alt="Programmez" class="img-partenaire"></a>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-4 text-center">
                 <a href="https://www.digital-league.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/digitalleague.png" alt="Digital League" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://www.ecole-hexagone.com/fr/accueil" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/hexagone.png" alt="hexafone" class="img-partenaire"></a>
             </div>
         </div>
     </div>
