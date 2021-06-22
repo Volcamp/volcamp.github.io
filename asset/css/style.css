@@ -223,7 +223,8 @@ p {
 .btn-subscribe {
     background: #FF4800;
     border-color: #FF4800;
-    color: #fff
+    color: #fff;
+    display: none;
 }
 
 .btn-subscribe:hover {
@@ -1204,6 +1205,37 @@ iframe.maps{
 
 .img-fluid.Simplon {
   margin-top: 15px;
+}
+
+div.counter-over {
+  display: none;
+}
+
+p#linkConf {
+  align-self: center;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+p#linkConf a{
+  align-self: center;
+  width: 100%;
+  font-size: 30px;
+  color: #6fc660;
+  margin-left: 150px;
+}
+
+.pres_wa {
+  display: none;
+}
+
+.pres_wa p {
+  color: white;
+  width: 150px;
+}
+
+.pres_wa img {
+  margin-top: -100px;
 }
 
 @media(max-width:991px) {
