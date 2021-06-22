@@ -14,13 +14,109 @@ title: Volcamp - Sponsors et partenaires
         </div>
     </div>
 </section>
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les sponsors Volcamp 2021</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-lg-8">
+                <h4 class="mb-4 letter-spacing text-sm style-1">Gold</h4>
+            </div>
+            <div class="col-lg-12">
+                {% for sponsor in site.data.sponsors.gold %}
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-lg-8">
+                <h4 class="mb-4 letter-spacing text-sm style-2">Silver</h4>
+            </div>
+            <div class="col-lg-12">
+                {% for sponsor in site.data.sponsors.silver %}
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-lg-8">
+                <h4 class="mb-4 letter-spacing text-sm style-3">Bronze</h4>
+            </div>
+            <div class="col-lg-12">
+                {% for sponsor in site.data.sponsors.bronze %}
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Le réseau local</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 text-center">
+                <a href="https://www.clermontech.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/clermontech_logo.png" alt="Clermontech" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://www.lavajug.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/lavajug_logo.png" alt="LavaJUG" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://muginclermont.azurewebsites.net/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/muginclermont_logo.jpg" alt="MUGinClermont" class="img-partenaire"></a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>Les partenaires</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 text-center">
+                <a href="https://leconnecteur.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/connecteur_logo.png" alt="LeConnecteur" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://www.programmez.com/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/programmez_logo.png" alt="Programmez" class="img-partenaire"></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 text-center">
+                <a href="https://www.digital-league.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/digitalleague.png" alt="Digital League" class="img-partenaire"></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="https://www.ecole-hexagone.com/fr/accueil" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/hexagone.png" alt="hexafone" class="img-partenaire"></a>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-speaker section">
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Devenir un sponsor de l'événement 2021 & 2022</h2>
+                        <h2>Devenir un sponsor de Volcamp</h2>
                     </div>
                 </div>
             </div>
@@ -139,102 +235,6 @@ title: Volcamp - Sponsors et partenaires
                     </ul>
                     <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section">
-    <div class="container">
-        <div class="row section-heading">
-            <div class="col-lg-8">
-                <div class="heading">
-                    <div class="pl-90">
-                        <h2>Les sponsors Volcamp 2021</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row mb-5">
-            <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-1">Gold</h4>
-            </div>
-            <div class="col-lg-12">
-                {% for sponsor in site.data.sponsors.gold %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="row mb-5">
-            <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-2">Silver</h4>
-            </div>
-            <div class="col-lg-12">
-                {% for sponsor in site.data.sponsors.silver %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
-                {% endfor %}
-            </div>
-        </div>
-        <div class="row mb-5">
-            <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm style-3">Bronze</h4>
-            </div>
-            <div class="col-lg-12">
-                {% for sponsor in site.data.sponsors.bronze %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section">
-    <div class="container">
-        <div class="row section-heading">
-            <div class="col-lg-8">
-                <div class="heading">
-                    <div class="pl-90">
-                        <h2>Le réseau local</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 text-center">
-                <a href="https://www.clermontech.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/clermontech_logo.png" alt="Clermontech" class="img-partenaire"></a>
-            </div>
-            <div class="col-lg-4 text-center">
-                <a href="https://www.lavajug.org" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/lavajug_logo.png" alt="LavaJUG" class="img-partenaire"></a>
-            </div>
-            <div class="col-lg-4 text-center">
-                <a href="https://muginclermont.azurewebsites.net/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/muginclermont_logo.jpg" alt="MUGinClermont" class="img-partenaire"></a>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section">
-    <div class="container">
-        <div class="row section-heading">
-            <div class="col-lg-8">
-                <div class="heading">
-                    <div class="pl-90">
-                        <h2>Les partenaires</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 text-center">
-                <a href="https://leconnecteur.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/connecteur_logo.png" alt="LeConnecteur" class="img-partenaire"></a>
-            </div>
-            <div class="col-lg-4 text-center">
-                <a href="https://www.programmez.com/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/programmez_logo.png" alt="Programmez" class="img-partenaire"></a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 text-center">
-                <a href="https://www.digital-league.org/" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/digitalleague.png" alt="Digital League" class="img-partenaire"></a>
-            </div>
-            <div class="col-lg-4 text-center">
-                <a href="https://www.ecole-hexagone.com/fr/accueil" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/hexagone.png" alt="hexafone" class="img-partenaire"></a>
             </div>
         </div>
     </div>
