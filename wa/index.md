@@ -28,13 +28,13 @@ title: Volcamp - Présentation WorkAdventure
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                Avant toute chose, sachez que toutes nos communications passerons par notre fil Twitter : <a href="https://twitter.com/volcampio">https://twitter.com/volcampio</a>. Si des soucis techniques devaient venir perturber nos sessions, nous vous tiendrions informer via ce compte.
+                Avant toute chose, sachez que toutes nos communications passeront par notre fil Twitter : <a href="https://twitter.com/volcampio">https://twitter.com/volcampio</a>. Si des soucis techniques devaient venir perturber nos sessions, nous vous tiendrons informer via ce compte.
                 </p>
                 <p>
-                Comme vous avez pu le constater à l'inscription nous avons opter pour la plateforme de diffusion BigMarker afin de partager les vidéos et échanger autour d'un tchat.
+                Comme vous avez pu le constater à l'inscription nous avons opté pour la plateforme de diffusion BigMarker afin de partager les vidéos et échanger autour d'un tchat.
                 </p>
                 <p>
-                Nous avons une solution de secours au cas ou des problèmes surviendraient avec la plateforme principale, basée sur Big Blue Button. 
+                Nous avons une solution de secours au cas où des problèmes surviendraient avec la plateforme principale, basée sur Big Blue Button. 
                 </p>
                 <p>
                 Enfin, nous avons mis en place un work adventure pour que vous puissiez communiquer, entre autre, hors des diffusions.
