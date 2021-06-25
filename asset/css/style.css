@@ -1207,10 +1207,6 @@ iframe.maps{
   margin-top: 15px;
 }
 
-div.counter-over {
-  display: none;
-}
-
 p#linkConf {
   align-self: center;
   width: 100%;
@@ -1223,10 +1219,6 @@ p#linkConf a{
   font-size: 30px;
   color: #6fc660;
   margin-left: 150px;
-}
-
-.pres_wa {
-  display: none;
 }
 
 .pres_wa p {
