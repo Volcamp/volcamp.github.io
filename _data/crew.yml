@@ -3,23 +3,23 @@
   twitter: khrys63
   linkedin: christophe-prugnaud
   jobtitle: architecte entreprise
-  employer: be-ys group
+  employer: be ys Cloud
   committee: cfp, communication
   photo: cpr.jpg
 - cdi:
   name: Claude Dioudonnat
   twitter: claudusd
   linkedin: claude-dioudonnat-89a405a9
-  jobtitle: Administrateur système
-  employer: Université d'Auvergne
+  jobtitle: Expert technique
+  employer: be ys Cloud
   committee: finances, logistique
   photo: cdi.jpg
 - dpe:
   name: Daniel Petisme
   twitter: danielpetisme
   linkedin: danielpetisme
-  jobtitle: Expert Technique
-  employer: Michelin
+  jobtitle: 
+  employer: Confluent
   committee: cfp
   photo: dpe.jpg
 - mvi:
@@ -147,17 +147,9 @@
   twitter: disk_91
   linkedin: paulpinault
   jobtitle: 
-  employer: 
+  employer: Braincube
   commitee: 
   photo: ppi.jpg
-- jbo:
-  name: Jerome Bolot
-  twitter: M3gur0
-  linkedin: jbolot
-  jobtitle: 
-  employer: 
-  commitee: 
-  photo: jbo.jpg
 - sde:
   name: Sylvain Desgrais
   twitter: artpej
@@ -182,14 +174,6 @@
   employer: 
   commitee: 
   photo: vje.jpg
-- nro:
-  name: Nicolas Roux
-  twitter: rouxn
-  linkedin: nicolasbroux
-  jobtitle: 
-  employer: 
-  commitee: 
-  photo: nro.jpg
 - mge:
   name: Mickael Gervais
   twitter: mickaelgervais
@@ -198,14 +182,6 @@
   employer: 
   commitee: 
   photo: mge.jpg
-- gse:
-  name: Guillaume Serre
-  twitter: gserre
-  linkedin: guillaumeserre
-  jobtitle: 
-  employer: 
-  commitee: 
-  photo: gse.jpg
 - rci:
   name: Rokhaya Cisse
   twitter: rok6c
@@ -214,14 +190,6 @@
   employer: Michelin
   commitee: logistique
   photo: rci.jpg
-- tjo:
-  name: Thomas Jouve
-  twitter: 
-  linkedin: thomas-jouve-723ba394
-  jobtitle: 
-  employer: 
-  commitee: 
-  photo: tjo.jpg
 - cpe:
   name: Camille Petitalot
   twitter: 
@@ -230,14 +198,6 @@
   employer: CGI
   commitee: logistique
   photo: cpe.jpg
-- acr:
-  name: Adelaïde Croc
-  twitter: CrocAdelaide
-  linkedin: adélaïde-croc-b36929180
-  jobtitle: 
-  employer: 
-  commitee: 
-  photo: acr.jpg
 - jri:
   name: Julien Ribeyre
   twitter: JR6315

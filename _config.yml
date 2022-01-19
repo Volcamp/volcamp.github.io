@@ -1,9 +1,17 @@
-name: Volcamp 2020
+name: Volcamp
 description: La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
 author: Geek&Terroir
 keywords: Volcamp, tech conference, conference, auvergne, clermont-fd, Geek&Terroir
 
 url: https://www.volcamp.io
+
+day1: jeudi 13 
+day2: vendredi 14
+month: octobre 2022
+data-year: 2022
+data-month: 10
+data-day: 13
+data-hour: 09
 
 exclude:
   - README.md
@@ -23,6 +31,7 @@ navigation:
    url: /sponsors/
  - title: l'équipe
    url: /orga/
+
 
 collections:
   talks:
@@ -56,6 +65,7 @@ syndication:
   twitter: http://www.twitter.com/volcampio
   github: https://github.com/Volcamp
   linkedin: https://www.linkedin.com/company/volcampio
+  youtube: https://www.youtube.com/channel/UC5iGUFHEJbSTU5wpbT6KIcw/featured
 
 gems:
   - jekyll-redirect-from

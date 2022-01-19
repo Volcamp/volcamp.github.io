@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Volcamp
+title: Volcamp 2022
 ---
     
 <section class="block">
     <div class="content">
         <section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/asset/images/bg-banner.png) no-repeat center top #6fc660">
             <div class="container">
-                <div class="row align-items-center">
+                <div class="row">
                     <div class="col-lg-7 mr-auto">
-                        <div class="banner-content"><span>mercredi 23 et jeudi 24 juin 2021</span>
+                        <div class="banner-content"><span>{{ site.day1 }} et {{ site.day2 }} {{ site.month }}</span>
                             <h1 class="mt-3 mb-5">Volcamp</h1>
                             <span>Première conférence tech<br>au cœur des volcans d'Auvergne</span>
                         </div>
                     </div>
                     <div class="col-4 pres_wa counter-over">
-                      <img src="{{ site.baseurl }}/asset/images/photogroupe.jpg" alt="" class="img-fluid">
-                    </div>
+                        <img src="{{ site.baseurl }}/asset/images/photogroupe.jpg" alt="" class="img-fluid">
+                      </div>
                 </div>
             </div>
         </section>
@@ -25,14 +25,14 @@ title: Volcamp
                 <div class="counter-inner">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
-                            <div class="counter-over">
-                              <h2 class="font-weight-light">La conférence est finie :</h2>
+                            <div class="counter-stat">
+                                <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
                             </div>
                         </div>
-                        <div class="col-lg-6">
-                            <div class="counter-over">
-                              <h2 class="font-weight-light">Mais les vidéos seront bientôt disponibles !!!</h2>
-                            </div>
+                        <div id="simple-timer" class="syotimer" data-year="{{ site.data-year }}" data-month="{{ site.data-month }}" data-day="{{ site.data-day }}" data-hour="{{ site.data-hour }}">
+                            <div class="syotimer__head"></div>
+                            <div class="syotimer__body"></div>
+                            <div class="syotimer__footer"></div>
                         </div>
                     </div>
                 </div>
@@ -69,6 +69,21 @@ title: Volcamp
                 </div>
             </div>
         </section>
+        <section id="section-feature">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 badge">
+                        <img src="https://www.volcamp.io/asset/images/participants.png" alt="250 participants"><br>Participants
+                    </div>
+                    <div class="col-lg-4 col-md-6 badge">
+                        <img src="https://www.volcamp.io/asset/images/speakers.png" alt="46 talks"><br>Talks
+                    </div>
+                    <div class="col-lg-4 col-md-6 badge">
+                        <img src="https://www.volcamp.io/asset/images/terroir.png" alt="100% terroir"><br>Terroir
+                    </div>
+                </div>
+            </div>
+        </section>
         <section class="section-speaker section">
             <div class="container">
                 <div class="row section-heading">
@@ -99,7 +114,7 @@ title: Volcamp
                         </div>
                     </div>
                     {% else %}
-                        Rien à voir ici.
+                        Comming soon.
                     {% endfor %}
                 </div>
             </div>
@@ -121,7 +136,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.gold %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -131,7 +146,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.silver %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -141,7 +156,7 @@ title: Volcamp
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.bronze %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.name }}"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -155,11 +170,10 @@ title: Volcamp
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="cta-img"><img src="{{ site.baseurl }}/asset/images/online.png" alt="" class="img-fluid">
+                        <div class="cta-img"><img src="{{ site.baseurl }}/asset/images/hall32.jpg" alt="" class="img-fluid">
                             <div class="contact-info box-shadow">
-                                <h6 class="text-color mb-3">23, 24 juin 2021</h6>
-                                <p class="lead">Online</p>
-                            </div>
+                                <h6 class="text-color mb-3">{{ site.day1 }}, {{ site.day2 }} {{ site.month }}</h6>
+                                <p class="lead">Hall 32 - Clermont-fd<br>FRANCE</p><a href="{{ site.baseurl }}/location/"><i class="icon-location mr-2"></i>Venir sur place</a></div>
                         </div>
                     </div>
                 </div>

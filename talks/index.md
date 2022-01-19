@@ -45,6 +45,8 @@ custom_css: talks/stylesheet.css
                 <p>Un sujet qui reflète l'univers des métiers de l'informatique au sens large.</p>
                 <h4><i class="icon-arrows-cw"></i> REX</h4>
                 <p>Un Retour d'Expérience d'une situation concrète vécue où la mise en place d'un changement technique ou méthodologique a été un franc succès ou un lamentable échec.</p>
+                <h4><i class="icon-beaker"></i> Workshop</h4>
+                <p>Un atelier pour apprendre par la pratique au travers d'un sujet concret.</p>
                 <h4><i class="icon-gauge"></i> Lightning</h4>
                 <p>Un format court et efficace pour partager de manière claire et rapide une découverte ou faire passer un message.</p>
             </div>
@@ -57,18 +59,21 @@ custom_css: talks/stylesheet.css
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Volcamp 2021</h2>
+                        <h2>{{ site.name }} {{ site.data-year }}</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                 <p>
-                    Le programme que nous vous proposons est le suivant : 2 keynotes et 11 talks donnés par 16 intervenants.
+                <p>
+                    Le programme est à définir.
+                </p>
+                <p>
+                    La sélection sera issue du "Call For Paper" qui se tiendra en avril et mai sur {{ site.data-year }} <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
                 </p>
             </div>
         </div>
     </div>
 </section>
-{% include agenda.html %}
+
