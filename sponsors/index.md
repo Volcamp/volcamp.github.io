@@ -102,7 +102,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.gold %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.logo }}"></a></div>
                 {% endfor %}
             </div>
         </div>
@@ -112,7 +112,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.silver %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.logo }}"></a></div>
                 {% endfor %}
             </div>
         </div>
@@ -122,7 +122,7 @@ title: Volcamp - Sponsors et partenaires
             </div>
             <div class="col-lg-12">
                 {% for sponsor in site.data.sponsors.bronze %}
-                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                <div class="client-item-color"><a href="{{ sponsor.url }}" target="_blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}.png" alt="{{ sponsor.name }}" class="img-fluid {{ sponsor.logo }}"></a></div>
                 {% endfor %}
             </div>
         </div>

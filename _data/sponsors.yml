@@ -48,6 +48,9 @@ silver:
   - name: Limagrain 
     url: https://www.limagrain.com/
     logo: limagrain
+  - name: Zenika 
+    url: https://www.zenika.com/
+    logo: zenika
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
