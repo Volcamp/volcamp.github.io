@@ -51,6 +51,9 @@ silver:
   - name: Zenika 
     url: https://www.zenika.com/
     logo: zenika
+  - name: malt 
+    url: https://www.malt.fr/
+    logo: malt
 bronze:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
