@@ -1,0 +1,416 @@
+<section class="section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-12">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>{{ site.day1 }} {{ site.month }}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <table style="width:100%">
+                <colgroup>
+                    <col class="csched">
+                    <col class="ct2track1">
+                    <col class="ct2track2">
+                    <col class="ct2track3">
+                </colgroup>
+                <tr>
+                    <td class="schedule">08h00</td>
+                    <td class="break ptidej" colspan="3"><h3>Accueil Caf&eacute;</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 08:00 - 09:00</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">09h00</td>
+                    <td colspan="3">
+                        {% assign talk = site.talks | where: "name", "22d1t1k1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">09h15</td>
+                    <td colspan="3">
+                        {% assign talk = site.talks | where: "name", "22d1t1k2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">10h15</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="3">
+                        {% assign talk = site.talks | where: "name", "22d1t3s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">11h00</td>
+                    <td class="break pause" colspan="2"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 11:00 - 11:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">11h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">12h15</td>
+                    <td class="break dej" colspan="3"><h3>Pause déjeuner & Lightning</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 12:15 - 13:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">12h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t3s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h00</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t3s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h15</td>
+                    <td class="break pause" colspan="3"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 13:15 - 13:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="2">
+                        {% assign talk = site.talks | where: "name", "22d1t3s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">14h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s6" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s6" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">15h15</td>
+                    <td class="break pause" colspan="3"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 15:15 - 15:45</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">15h45</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s7" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s7" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="2">
+                        {% assign talk = site.talks | where: "name", "22d1t3s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">16h45</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s8" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s8" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">17h45</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t1s9" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t2s9" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d1t3s6" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="row legende justify-content-center">
+            <div class="legend_item"><span class="theme_key bullet"></span><span>Plénière</span></div>
+            <div class="legend_item"><span class="theme_lang bullet"></span><span>Lang. & Frameworks</span></div>
+            <div class="legend_item"><span class="theme_big bullet"></span><span>BigData & AI</span></div>
+            <div class="legend_item"><span class="theme_web bullet"></span><span>Web & Mobile</span></div>
+            <div class="legend_item"><span class="theme_archi bullet"></span><span>Archi, Perf et Sécu</span></div>
+            <div class="legend_item"><span class="theme_devops bullet"></span><span>DevOps & Cloud</span></div>
+            <div class="legend_item"><span class="theme_ux bullet"></span><span>UX/UI</span></div>
+            <div class="legend_item"><span class="theme_decouv bullet"></span><span>Découverte</span></div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-12">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>{{ site.day2 }} {{ site.month }}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <table style="width:100%">
+                <colgroup>
+                    <col class="csched">
+                    <col class="ctrack1">
+                    <col class="ctrack2">
+                    <col class="ctrack3">
+                </colgroup>
+                <tr>
+                    <td class="schedule">08h30</td>
+                    <td class="break ptidej" colspan="3"><h3>Accueil Caf&eacute;</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 08:30 - 09:00</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">09h00</td>
+                    <td colspan="3">
+                        {% assign talk = site.talks | where: "name", "22d2t1k1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">10h15</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="3">
+                        {% assign talk = site.talks | where: "name", "22d2t3s1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">11h00</td>
+                    <td class="break pause" colspan="2"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 11:00 - 11:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">11h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">12h15</td>
+                    <td class="break dej" colspan="3"><h3>Pause déjeuner & Lightning</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 12:15 - 13:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">12h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t3s2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h00</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t3s3" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h15</td>
+                    <td class="break pause" colspan="3"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 13:15 - 13:30</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">13h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="2">
+                        {% assign talk = site.talks | where: "name", "22d2t3s4" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">14h30</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s6" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s6" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">15h15</td>
+                    <td class="break pause" colspan="3"><h3>Pause</h3>
+                        <div class="slot_info">
+                            <ul>
+                                <li><i class="icon-clock"></i> 15:15 - 15:45</li>
+                            </ul>
+                        </div></td>
+                </tr>
+                <tr>
+                    <td class="schedule">15h45</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s7" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s7" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td rowspan="2">
+                        {% assign talk = site.talks | where: "name", "22d2t3s5" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">16h45</td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t1s8" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                    <td>
+                        {% assign talk = site.talks | where: "name", "22d2t2s8" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
+                    <td class="schedule">17h45</td>
+                    <td colspan="3">
+                        {% assign talk = site.talks | where: "name", "22d2t1k2" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="row legende justify-content-center">
+            <div class="legend_item"><span class="theme_key bullet"></span><span>Plénière</span></div>
+            <div class="legend_item"><span class="theme_lang bullet"></span><span>Lang. & Frameworks</span></div>
+            <div class="legend_item"><span class="theme_big bullet"></span><span>BigData & AI</span></div>
+            <div class="legend_item"><span class="theme_web bullet"></span><span>Web & Mobile</span></div>
+            <div class="legend_item"><span class="theme_archi bullet"></span><span>Archi, Perf et Sécu</span></div>
+            <div class="legend_item"><span class="theme_devops bullet"></span><span>DevOps & Cloud</span></div>
+            <div class="legend_item"><span class="theme_ux bullet"></span><span>UX/UI</span></div>
+            <div class="legend_item"><span class="theme_decouv bullet"></span><span>Découverte</span></div>
+        </div>
+    </div>
+</section>

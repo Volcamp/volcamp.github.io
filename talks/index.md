@@ -67,13 +67,10 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    Le programme est à définir.
-                </p>
-                <p>
-                    La sélection sera issue du "Call For Paper" qui se tiendra en avril et mai sur {{ site.data-year }} <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
+                    La sélection est issue du "Call For Paper" qui s'est tenu en avril et mai {{ site.data-year }} sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
                 </p>
             </div>
         </div>
     </div>
 </section>
-
+{% include agenda3track.html %} 

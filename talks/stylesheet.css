@@ -50,7 +50,7 @@ th, td {
   padding-left: 4px;
 }
 .csched{width: 4%;}
-.ctrack1, .ctrack2, .ctrack3 {width: 32%;}
+.ctrack1, .ctrack2, .ctrack3, .ctrack3 {width: 24%;}
 
 a.talk{
   display: flex;
@@ -59,17 +59,17 @@ a.talk{
   box-shadow: 0 2px 4px rgba(0,0,0,0.2);
   text-decoration: none;
   color: #9a9a93;
-  min-height: 180px;
+  min-height: 270px;
 }
 a.talk:hover{
   text-decoration: none;
   color: #9a9a93;
 }
 a.ws_am{
-  min-height: 588px;
+  min-height: 645px;
 }
 a.ws_pm{
-  min-height: 495px;
+  min-height: 550px;
 }
 .legende{
   display: flex;

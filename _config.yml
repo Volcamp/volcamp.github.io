@@ -1,4 +1,3 @@
-name: Volcamp
 description: La première conférence au cœur des volcans d'Auvergne faite pour les passionnés de technologie, de développement et de terroir.
 author: Geek&Terroir
 keywords: Volcamp, tech conference, conference, auvergne, clermont-fd, Geek&Terroir
@@ -32,12 +31,11 @@ navigation:
  - title: l'équipe
    url: /orga/
 
-
 collections:
-  talks:
+  speakers:
     output: true
     permalink: /:collection/:name
-  speakers:
+  talks:
     output: true
     permalink: /:collection/:name
 
@@ -67,9 +65,11 @@ syndication:
   linkedin: https://www.linkedin.com/company/volcampio
   youtube: https://www.youtube.com/channel/UC5iGUFHEJbSTU5wpbT6KIcw/featured
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gzip
   - jekyll-minifier
+  - kramdown-parser-gfm
+
