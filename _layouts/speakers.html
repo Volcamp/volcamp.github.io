@@ -31,7 +31,7 @@
                 <img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid rounded" width="350" height="350">
             </div>
             <div class="col-lg-8">
-                <p>{{ content | markdownify }}</p>
+                <p>{{ markdownify }}</p>
                 <p>
                 {% if speaker.twitter != 'none' %}<i class="icon-twitter"></i><a href="https://twitter.com/{{ speaker.twitter }}">{{ speaker.twitter }}</a> {% endif %}
                 {% if speaker.linkedin != 'none' %}<i class="icon-linkedin-squared"></i><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}">{{ speaker.linkedin }}</a> {% endif %}
