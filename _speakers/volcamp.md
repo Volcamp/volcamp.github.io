@@ -1,5 +1,5 @@
 ---
-  name: Volcamp team
+  title: Volcamp team
   title: Volcamp - Volcamp team
   twitter: volcampio
   photo: volcamp.jpg

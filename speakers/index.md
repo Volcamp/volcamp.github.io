@@ -26,11 +26,11 @@ title: Volcamp - Les intervenants
             </div>
         </div>
         <div class="row">
-            {% assign speakers = site.speakers | sort_natural: 'name' %}
-            {% for speaker in speakers %}{% if speaker.name != 'TBD' and speaker.name != 'Volcamp team' and speaker.photo != 'none' %}
+            {% assign speakers = site.speakers | sort_natural: 'title' %}
+            {% for speaker in speakers %}{% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
             <div class="col-lg-4 col-sm-6">
                 <div class="speaker-block mb-5">
-                    <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                    <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
                             <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
@@ -38,7 +38,7 @@ title: Volcamp - Les intervenants
                         </ul>
                     </div>
                     <div class="speaker-info">
-                        <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
+                        <h4 class="mb-0 mt-3">{{ speaker.title }}</h4>
                         <p>{{ speaker.abstract }}</p>
                     </div>
                 </div>

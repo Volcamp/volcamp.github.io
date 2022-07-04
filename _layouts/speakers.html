@@ -1,6 +1,6 @@
 {% assign speaker = page %}
+{% assign page.title = speaker.title %}
 {% include head.html %}
-{% assign page.title = speaker.name %}
 <div class="main">
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
@@ -20,15 +20,15 @@
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>{{ speaker.name }}</h2>
+                        <h2>{{ speaker.title }}</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
-            {% if speaker.name != 'TBD' and speaker.name != 'Volcamp team' %}
+            {% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' %}
             <div class="col-lg-4">
-                <img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid rounded" width="350" height="350">
+                <img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">
             </div>
             <div class="col-lg-8">
                 <p>{{ content | markdownify }}</p>
@@ -38,7 +38,7 @@
                 </p>
                 <hr>
                 <p>
-                    <i class="icon-mic"></i>{% assign counter = 0 %}{% assign talks = site.talks | where: "speakers", speaker.name | sort_natural: 'name' %}{% for talk in talks %}{% if counter != 0 %}, {% endif %}{{ talk.date | date: "%d/%m/%Y" }} : <a href="{{ talk.url }}">{{ talk.title }}</a>{% assign counter = counter | plus: 1 %}{% endfor %}
+                    <i class="icon-mic"></i>{% assign counter = 0 %}{% assign talks = site.talks | where: "speakers", speaker.title | sort_natural: 'title' %}{% for talk in talks %}{% if counter != 0 %}, {% endif %}{{ talk.date | date: "%d/%m/%Y" }} : <a href="{{ talk.url }}">{{ talk.title }}</a>{% assign counter = counter | plus: 1 %}{% endfor %}
                 </p>
             </div>
             {% endif %}
