@@ -31,7 +31,7 @@
                     <i class="icon-clock"></i>{{ talk.slot | slot: "%d/%m/%Y" }} : {{ talk.time_start }} - {{ talk.time_end}} | <i class="icon-location"></i> {{ talk.room }} | 
                     <i class="icon-mic"></i> {% assign counter = 0 %}{% for speaker in talk.speakers %}{% if counter != 0 %}, {% endif %}{% assign s = site.speakers | where: "name", speaker | first %}{% if s.name == 'TBD' or s.name == 'Volcamp team' %}{{ s.name }}{% else %}<a href="{{ site.baseurl }}{{ s.url }}">{{ s.name }}</a>{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
                 </p>
-                <p>{{ markdownify }}</p>
+                <p>{{ content | markdownify }}</p>
                 <p>{% if(talk.category != "Keynote") %}
                     {% if(talk.format == "Lightning") %}<i class="icon-gauge"></i>
                     {% elsif(talk.format == "Conférence") %}<i class="icon-graduation-cap"></i>
