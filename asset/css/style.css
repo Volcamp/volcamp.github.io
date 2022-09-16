@@ -232,6 +232,18 @@ p {
     border-color: #FF4800
 }
 
+.btn-soldout {
+    background: #FF4800;
+    border-color: #FF4800;
+    color: #fff
+}
+
+.btn-soldout:hover {
+    background: #FF4800;
+    border-color: #FF4800;
+    color: #fff
+}
+
 .btn-sponsor {
     background: #4F993F;
     border-color: #4F993F;
