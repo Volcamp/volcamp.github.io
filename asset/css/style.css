@@ -232,18 +232,6 @@ p {
     border-color: #FF4800
 }
 
-.btn-soldout {
-    background: #FF4800;
-    border-color: #FF4800;
-    color: #fff
-}
-
-.btn-soldout:hover {
-    background: #FF4800;
-    border-color: #FF4800;
-    color: #fff
-}
-
 .btn-sponsor {
     background: #4F993F;
     border-color: #4F993F;
@@ -1213,14 +1201,6 @@ iframe.maps{
 }
 .img-partenaire{
     max-width: 180px;
-}
-
-.img-fluid.zenika {
-  padding-top: 1em;
-}
-
-.img-fluid.simplon {
-  padding-top: 1em;
 }
 @media(max-width:991px) {
     .main-nav .nav-link {

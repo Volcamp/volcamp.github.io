@@ -1,5 +1,6 @@
 ---
   title: TBD
+  abstract: 
   twitter: none
   photo: none
   linkedin: none

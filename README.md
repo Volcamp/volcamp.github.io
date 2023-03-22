@@ -14,9 +14,6 @@ or
   bundle install
   bundle exec jekyll serve
 ```
-or (easier)
-
-> ./dev.sh
 
 # Rules
 

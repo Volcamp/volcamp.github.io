@@ -78,7 +78,7 @@ title: Volcamp - Code de conduite
                 Nous comptons également sur vous pour respecter le lieu qui accueille l'événement. Le règlement intérieur de celui-ci s'applique sans réserve à l'ensemble des participants.
                 </p>
                 <p>
-                Si la situation sanitaire liée à la pandémie de Covid-19 s'aggravait durant la période de l'évènement, nous serons amenés à envisager la mise en place d'un éventuel protocole sanitaire afin de favoriser les gestes barrières et la distanciation physique. Le cas échéant nous attendons de tous le respect des règles qui seront soit communiquées par email avant l’événement, soit affichées sur le lieu de l’événement.
+                Le contexte actuel avec la pandémie de Covid-19 nous oblige à envisager la mise en place d'un éventuel protocole sanitaire afin de favoriser les gestes barrières et la distanciation physique. Le cas échéant nous attendons de tous le respect des règles qui seront soit communiquées par email avant l’événement, soit affichées sur le lieu de l’événement.
                 </p>
             </div>
         </div>
