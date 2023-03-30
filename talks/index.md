@@ -67,7 +67,7 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    La sélection est issue du "Call For Paper" qui s'est tenu en avril et mai {{ site.data-year }} sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>. 
+                    La sélection est issue du "Call For Paper" qui s'est tenu en avril et mai {{ site.data-year }} sur <a href="{{ site.data-year }}" target="_blank">{{ site.data-year }}</a>. 
                 </p>
             </div>
         </div>
