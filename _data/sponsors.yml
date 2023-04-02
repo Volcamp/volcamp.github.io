@@ -2,26 +2,29 @@ gold:
   - name: be-ys group
     url: http://www.be-ys.com
     logo: beys
-  - name: accenture
-    url: https://www.accenture.com/fr-fr
-    logo: accenture
-  - name: CGI
-    url: https://www.cgi.fr/fr-fr
-    logo: cgi
+  - name: michelin
+    url: https://www.michelin.fr/
+    logo: michelin
+  - name: zenika
+    url: https://www.zenika.com/
+    logo: zenika
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
     logo: agaetis
-  - name: Centre France
-    url: https://www.centrefrance.com/
-    logo: centrefrance
-  - name: Sopra Steria
-    url: https://www.soprasteria.fr/
-    logo: soprasteria
   - name: Limagrain 
     url: https://www.limagrain.com/
     logo: limagrain
+  - name: Apside 
+    url: https://www.apside.com/
+    logo: apside
+  - name: Atos 
+    url: https://atos.net/fr/
+    logo: atos
 bronze:
-  - name: capgemini
-    url: https://www.capgemini.com/fr-fr/
-    logo: capgemini
+  - name: becoms
+    url: https://becoms.tech/
+    logo: becoms
+  - name: NSE Groupe
+    url: https://www.nse-groupe.com/
+    logo: nse
