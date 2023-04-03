@@ -30,9 +30,6 @@ title: Volcamp - A Propos
                 <p>
                 Volcamp est une conférence IT organisée à Clermont-Fd, FR, organisée par l'association Geek&Terroir (association à but non-lucratif). L'association rassemble les acteurs régionaux (industriels, universitaires, étudiants, associations…) qui partagent un intérêt pour lʼinformatique et les nouvelles technologies.
                 </p>
-                <p>
-                2020 est la première édition avec comme objectif de rassembler plus de 250 participants autour de 30 intervenants pour 2 jours de conférences.
-                </p>
             </div>
         </div>
     </div>
