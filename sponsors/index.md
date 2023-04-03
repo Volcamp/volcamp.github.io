@@ -91,7 +91,7 @@ title: Volcamp - Sponsors et partenaires
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Les sponsors Volcamp 2020</h2>
+                        <h2>Les sponsors Volcamp {{ site.data-year }}</h2>
                     </div>
                 </div>
             </div>
