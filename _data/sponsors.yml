@@ -21,6 +21,9 @@ silver:
   - name: Atos 
     url: https://atos.net/fr/
     logo: atos
+  - name: KBRW 
+    url: https://www.kbrw.com/
+    logo: krbw
 bronze:
   - name: becoms
     url: https://becoms.tech/
@@ -28,3 +31,6 @@ bronze:
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
+  - name: Datalyo
+    url: http://www.datalyo.com/
+    logo: datalyo
