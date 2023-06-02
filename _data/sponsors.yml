@@ -24,6 +24,12 @@ silver:
   - name: KBRW 
     url: https://www.kbrw.com/
     logo: kbrw
+  - name: malt 
+    url: https://www.malt.fr/
+    logo: malt
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
 bronze:
   - name: becoms
     url: https://becoms.tech/
@@ -34,3 +40,6 @@ bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
     logo: datalyo
+  - name: Synchrone 
+    url: https://www.synchrone.fr/
+    logo: synchrone 
