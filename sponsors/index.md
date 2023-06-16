@@ -47,7 +47,6 @@ title: Volcamp - Sponsors et partenaires
                     <li>3 badges Exposant</li>
                     <li>3 pass Visiteur</li>
                     <li>Votre logo sur le site</li>
-                    <li>Votre logo sur le sweat-shirt de l'orga</li>
                     <li>Votre nom cité sur supports de communication</li>
                     </ul>
                     <a href="/contacts/" class="btn btn-secondary btn-rounded mt-3 mb-5">Obtenir</a>
