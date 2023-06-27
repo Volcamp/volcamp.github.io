@@ -11,6 +11,9 @@ gold:
   - name: CGI
     url: https://www.cgi.fr/fr-fr
     logo: cgi
+  - name: Accenture
+    url: https://www.accenture.com/fr-fr
+    logo: accenture
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
@@ -52,3 +55,9 @@ bronze:
   - name: Synchrone 
     url: https://www.synchrone.fr/
     logo: synchrone 
+  - name: Lojelis 
+    url: https://lojelis.com/
+    logo: lojelis 
+  - name: Cap Gemini 
+    url: https://www.capgemini.com/fr-fr/
+    logo: capgemini 
