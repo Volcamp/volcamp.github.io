@@ -28,7 +28,7 @@ title: Volcamp - Les intervenants
         <div class="row">
             {% assign speakers = site.speakers | sort_natural: 'title' %}
             {% for speaker in speakers %}{% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-sm-4">
                 <div class="speaker-block mb-5">
                     <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
