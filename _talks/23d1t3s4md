@@ -10,8 +10,8 @@
   time_start: '13h00'
   time_end: '13h15'
 ---
-Affordance : un mot qui signifie potentialité, la capacité d'un système à suggérer son utilisation. Un domaine important de l'UX, mais pas si connu.
+L'affordance : la capacité d'un système à suggérer son utilisation. C'est un domaine important de l'UX et du design, mais qui a des implications partout.
 
-Dans nos métiers tech, nous avons une grande responsabilité : faciliter la vie à nos utilisateurs, mais également à nos homologues.
+Dans nos métiers, nous avons la responsabilité de faciliter la vie à nos utilisateurs, mais également à nos homologues, ceux qui utiliseront des API fraîchement créées ou qui liront notre documentation technique.
 
-Fort des expériences que j'ai pu avoir en tant que concepteur sur l'UI, le level design, mais également en tant qu'utilisateur, je vous partage des pistes qui seront aussi utiles dans le développement d'une API que dans la réalisation d'une documentation.
+Dans ce talk, on parle d'affiches pour chat perdu, de portes à pousser ou à tirer, mais surtout de comment apprivoiser l'affordance pour en faire une alliée dans la tech.
