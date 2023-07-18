@@ -75,6 +75,7 @@ title: Volcamp - Sponsors et partenaires
                     </div>
                     <h6 class="pname">Bronze</h6>
                     <ul class="list-unstyled">
+                        <li>2 pass Visiteur</li>
                         <li>Votre logo sur le site</li>
                         <li>Votre nom cité sur supports de communication</li>
                     </ul>
