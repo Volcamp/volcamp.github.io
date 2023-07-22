@@ -271,6 +271,13 @@
                         </div></td>
                 </tr>
                 <tr>
+                    <td class="schedule">09h00</td>
+                    <td colspan="4">
+                        {% assign talk = site.talks | where: "name", "23d2t1k1" | first %}
+                        {% include insert_calendar_cel.html %}
+                    </td>
+                </tr>
+                <tr>
                     <td class="schedule">09h15</td>
                     <td colspan="4">
                         {% assign talk = site.talks | where: "name", "23d2t1k1" | first %}
