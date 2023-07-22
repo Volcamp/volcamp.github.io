@@ -42,6 +42,9 @@ silver:
   - name: R2Sevops
     url: https://r2devops.io/
     logo: r2devops
+  - name: Eramet
+    url: https://www.eramet.com/fr
+    logo: eramet
 bronze:
   - name: becoms
     url: https://becoms.tech/
