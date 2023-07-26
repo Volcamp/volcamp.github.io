@@ -45,6 +45,9 @@ silver:
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 bronze:
   - name: becoms
     url: https://becoms.tech/
