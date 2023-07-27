@@ -45,6 +45,12 @@ silver:
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
+  - name: Clever Cloud
+    url: https://www.clever-cloud.com/fr/
+    logo: clever_cloud
 bronze:
   - name: becoms
     url: https://becoms.tech/
