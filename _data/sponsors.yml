@@ -54,6 +54,9 @@ silver:
   - name: braincube
     url: https://fr.braincube.com/
     logo: braincube
+  - name: akkodis
+    url: https://www.akkodis.com/fr/france
+    logo: akkodis
 bronze:
   - name: becoms
     url: https://becoms.tech/
