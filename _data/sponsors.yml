@@ -51,6 +51,9 @@ silver:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/fr/
     logo: clever_cloud
+  - name: braincube
+    url: https://fr.braincube.com/
+    logo: braincube
 bronze:
   - name: becoms
     url: https://becoms.tech/
