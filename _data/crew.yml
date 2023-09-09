@@ -1,3 +1,11 @@
+- cdi:
+  name: Claude Dioudonnat
+  twitter: claudusd
+  linkedin: claude-dioudonnat-89a405a9
+  jobtitle: Expert technique
+  employer: France Université Numérique
+  committee: finances, logistique
+  photo: cdi.jpg
 - cpr:
   name: Christophe Prugnaud
   twitter: khrys63
@@ -75,7 +83,7 @@
   twitter: styef4
   linkedin: stephane-coussy
   jobtitle: expert technique
-  employer: be-ys group
+  employer: be ys Cloud
   committee:
   photo: sco.jpg
 - oco:
@@ -83,7 +91,7 @@
   twitter: coupelon
   linkedin: coupelon
   jobtitle: Responsable SRE
-  employer: coffreo
+  employer: Zenika
   committee: cfp
   photo: oco.jpg
 - vse:
@@ -99,8 +107,8 @@
   twitter: nonowheels
   linkedin: arnaudblandamour
   jobtitle: Expert Technique
-  employer: be-ys group
-  commitee: cfp
+  employer: be ys Cloud
+  commitee: cfp, finance
   photo: abl.jpg
 - bey:
   name: Benoit Eymard
@@ -131,7 +139,7 @@
   twitter: artpej
   linkedin: sylvain-desgrais-923a5937
   jobtitle: 
-  employer: 
+  employer: be ys Cloud
   commitee: 
   photo: sde.jpg
 - tba:
@@ -155,7 +163,7 @@
   twitter: mickaelgervais
   linkedin: mickaelgervais
   jobtitle: 
-  employer: 
+  employer: Agaetis
   commitee: 
   photo: mge.jpg
 - rci:
@@ -171,7 +179,7 @@
   twitter: 
   linkedin: camille-petitalot-7777a9a3
   jobtitle: Developpeur
-  employer: CGI
+  employer: Agaetis
   commitee: logistique
   photo: cpe.jpg
 - jri:
