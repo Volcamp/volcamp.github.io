@@ -1,19 +1,19 @@
 gold:
-  - name: be-ys group
-    url: http://www.be-ys.com
-    logo: beys
-  - name: michelin
-    url: https://www.michelin.fr/
-    logo: michelin
   - name: zenika
     url: https://www.zenika.com/
     logo: zenika
-  - name: CGI
-    url: https://www.cgi.fr/fr-fr
-    logo: cgi
+  - name: be-ys group
+    url: http://www.be-ys.com
+    logo: beys
   - name: Accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
+  - name: michelin
+    url: https://www.michelin.fr/
+    logo: michelin
+  - name: CGI
+    url: https://www.cgi.fr/fr-fr
+    logo: cgi
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
@@ -24,43 +24,40 @@ silver:
   - name: Apside 
     url: https://www.apside.com/
     logo: apside
-  - name: Atos 
-    url: https://atos.net/fr/
-    logo: atos
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
   - name: KBRW 
     url: https://www.kbrw.com/
     logo: kbrw
   - name: malt 
     url: https://www.malt.fr/
     logo: malt
-  - name: Laboratoires Théa
-    url: https://www.laboratoires-thea.com/
-    logo: labo_thea
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
-  - name: R2Sevops
+  - name: R2Devops
     url: https://r2devops.io/
     logo: r2devops
+  - name: braincube
+    url: https://fr.braincube.com/
+    logo: braincube
+  - name: Atos 
+    url: https://atos.net/fr/
+    logo: atos
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: akkodis
+    url: https://www.akkodis.com/fr/france
+    logo: akkodis
   - name: MongoDB
     url: https://www.mongodb.com/fr-fr
     logo: mongodb
   - name: Clever Cloud
     url: https://www.clever-cloud.com/fr/
     logo: clever_cloud
-  - name: braincube
-    url: https://fr.braincube.com/
-    logo: braincube
-  - name: akkodis
-    url: https://www.akkodis.com/fr/france
-    logo: akkodis
 bronze:
-  - name: becoms
-    url: https://becoms.tech/
-    logo: becoms
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
@@ -69,7 +66,10 @@ bronze:
     logo: datalyo
   - name: Lojelis 
     url: https://lojelis.com/
-    logo: lojelis 
-  - name: Cap Gemini 
+    logo: lojelis
+  - name: Cap Gemini
     url: https://www.capgemini.com/fr-fr/
-    logo: capgemini 
+    logo: capgemini
+  - name: becoms
+    url: https://becoms.tech/
+    logo: becoms
