@@ -73,3 +73,6 @@ bronze:
   - name: becoms
     url: https://becoms.tech/
     logo: becoms
+  - name: Crédit Agricole
+    url: https://www.credit-agricole.fr/ca-centrefrance/
+    logo: ca
