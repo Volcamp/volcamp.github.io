@@ -63,7 +63,7 @@ title: Volcamp - Comment venir ?
                 <img src="{{ site.baseurl }}/asset/images/plan-h32.jpg" alt="Accès Hall32">
                 </p>
                 <h3>Le centre de conférence</h3>
-                <p>A votre disposition : 3 salles de conférences et une pour le workshop (Auditorium, Showroom, Industrie et Box), 5 stands de sponsors Gold, 15 stands de sponsors Silver.<br>
+                <p>A votre disposition : 3 salles de conférences et une pour le workshop (Auditorium, Showroom, Créativité et Workshop), 5 stands de sponsors Gold, 15 stands de sponsors Silver.<br>
                 <img src="{{ site.baseurl }}/asset/images/volcampplan23.png" alt="Interieur Hall32">
                 </p> 
             </div>

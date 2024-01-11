@@ -27,3 +27,24 @@ fontello : just the necessaries pictures in font with http://fontello.com/
 - Font awesome : heart, star, tag, thumbs-up-alt, menu, mic, arrows-cw, beaker, graduation-cap, facebook, github-squared, linkedin-squared, twitter, youtube
 - Entypo : clock, megaphone, gauge
 - MFG Labs : location
+
+# Data
+
+## Sponsors 
+gold:
+silver:
+bronze:
+  - name: 
+    url: 
+    logo: 
+
+## Crew
+- abc:
+  name: 
+  twitter: 
+  linkedin: 
+  jobtitle:
+  employer: 
+  commitee: 
+  photo: 
+
