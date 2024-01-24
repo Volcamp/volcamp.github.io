@@ -30,9 +30,9 @@ title: Volcamp - Les intervenants
             {% for speaker in speakers %}{% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
             <div class="col-lg-3 col-sm-4">
                 <div class="speaker-block mb-5">
-                    <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid">
+                    <div class="img-block"><img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid">
                         <ul class="list-inline speaker-social">
-                            <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
+                            <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
                             {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
                         </ul>

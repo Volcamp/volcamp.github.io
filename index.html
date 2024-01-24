@@ -15,7 +15,7 @@ title: Volcamp 2024
                         </div>
                     </div>
                     <div class="col-4 pres_wa counter-over">
-                        <img src="{{ site.baseurl }}/asset/images/photogroupe2022.jpg" alt="Team Volcamp {{ site.data-year }}" class="img-fluid">
+                        <img src="{{ site.url }}/asset/images/photogroupe2022.jpg" alt="Team Volcamp {{ site.data-year }}" class="img-fluid">
                       </div>
                 </div>
             </div>
@@ -85,9 +85,9 @@ title: Volcamp 2024
                     {% for speaker in speakers %}
                     <div class="col-lg-4 col-sm-6">
                         <div class="speaker-block mb-5">
-                            <div class="img-block"><img src="{{ site.baseurl }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                            <div class="img-block"><img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
                                 <ul class="list-inline speaker-social">
-                                    <li class="list-inline-item"><a href="{{ site.baseurl }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
+                                    <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                                     {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
                                     {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
                                 </ul>
@@ -120,7 +120,7 @@ title: Volcamp 2024
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.gold %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.url }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -130,7 +130,7 @@ title: Volcamp 2024
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.silver %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.url }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
@@ -140,13 +140,13 @@ title: Volcamp 2024
                     </div>
                     <div class="col-lg-12">
                         {% for sponsor in site.data.sponsors.bronze %}
-                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.baseurl }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
+                        <div class="client-item"><a href="{{ sponsor.url }}" target="blank"><img src="{{ site.url }}/asset/images/logo/{{ sponsor.logo }}_blanc.png" alt="{{ sponsor.name }}" class="img-fluid"></a></div>
                         {% endfor %}
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
-                        <a href="{{ site.baseurl }}/sponsors/" class="btn btn-sponsor btn-rounded mt-3 mt-lg-0">Devenir sponsor</a></div>
+                        <a href="{{ site.url }}/sponsors/" class="btn btn-sponsor btn-rounded mt-3 mt-lg-0">Devenir sponsor</a></div>
                 </div>
             </div>
         </section>
@@ -154,10 +154,10 @@ title: Volcamp 2024
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="cta-img"><img src="{{ site.baseurl }}/asset/images/hall32.jpg" alt="" class="img-fluid">
+                        <div class="cta-img"><img src="{{ site.url }}/asset/images/hall32.jpg" alt="" class="img-fluid">
                             <div class="contact-info box-shadow">
                                 <h6 class="text-color mb-3">{{ site.day1 }}, {{ site.day2 }} {{ site.month }}</h6>
-                                <p class="lead">Hall 32 - Clermont-fd<br>FRANCE</p><a href="{{ site.baseurl }}/location/"><i class="icon-location mr-2"></i>Venir sur place</a></div>
+                                <p class="lead">Hall 32 - Clermont-fd<br>FRANCE</p><a href="{{ site.url }}/location/"><i class="icon-location mr-2"></i>Venir sur place</a></div>
                         </div>
                     </div>
                 </div>
