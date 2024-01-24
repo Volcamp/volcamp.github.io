@@ -37,7 +37,7 @@ title: Volcamp - Contactez-nous
                     <li>Devenir sponsor : "sponsor at volcamp.io".</li>
                     <li>Logistique avant et pendant l'évènement : "event at volcamp.io".</li>
                     <li>Billetterie : "billetterie at volcamp.io".</li>
-                    <li>Devenir intervenant : "cfp at volcamp.io". ou sur <a href="http://cfp.volcamp.io" target="_blank">http://cfp.volcamp.io</a>.</li>
+                    <li>Devenir intervenant : "cfp at volcamp.io". ou sur <a href="{{ site.cfp-url }}" target="_blank">http://cfp.volcamp.io</a>.</li>
                 </ul>
                 <p>
                 (Pensez à remplacer "at" par "@").
