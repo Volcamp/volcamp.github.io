@@ -1,5 +1,5 @@
 <a href="/talks/{{ talk.name }}" class="talk {% if talk.format == "Workshop" %}ws_{{ talk.ampm }}{% endif %}">
-    <div class="all_theme {% if talk.category == "Keynote" %}theme_key{% elsif talk.category == "Langage & Frameworks" %}theme_lang{% elsif talk.category == "BigData & AI" %}theme_big{% elsif talk.category == "Web & Mobile" %}theme_web{% elsif talk.category == "Archi, Perf  & Sécu" %}theme_archi{% elsif talk.category == "DevOps et Cloud" %}theme_devops{% elsif talk.category == "UX/UI" %}theme_ux{% elsif talk.category == "Découverte" %}theme_decouv{% endif %}">{{ talk.title }}</div>
+    <div class="all_theme {% if talk.category == "Keynote" %}theme_key{% elsif talk.category == "Langage & Frameworks" %}theme_lang{% elsif talk.category == "Data & AI" %}theme_big{% elsif talk.category == "Sustainable IT" %}theme_web{% elsif talk.category == "Archi, Perf  & Sécu" %}theme_archi{% elsif talk.category == "DevOps et Cloud" %}theme_devops{% elsif talk.category == "UX/UI" %}theme_ux{% elsif talk.category == "Découverte" %}theme_decouv{% endif %}">{{ talk.title }}</div>
     <div class="slot_info">
         <ul>
             <li><i class="icon-clock"></i> {{ talk.time_start }} - {{ talk.time_end }}</li>
