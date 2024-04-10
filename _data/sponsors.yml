@@ -3,4 +3,16 @@ gold:
     url: https://www.zenika.com/
     logo: zenika
 silver:
+  - name: malt 
+    url: https://www.malt.fr/
+    logo: malt
+  - name: Agaetis
+    url: https://www.agaetis.fr/
+    logo: agaetis
+  - name: NSE Groupe
+    url: https://www.nse-groupe.com/
+    logo: nse
 bronze:
+  - name: Datalyo
+    url: http://www.datalyo.com/
+    logo: datalyo
