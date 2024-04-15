@@ -12,6 +12,9 @@ silver:
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
