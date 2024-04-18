@@ -2,6 +2,9 @@ gold:
   - name: zenika
     url: https://www.zenika.com/
     logo: zenika
+  - name: CGI
+    url: https://www.cgi.fr/fr-fr
+    logo: cgi
 silver:
   - name: malt 
     url: https://www.malt.fr/
@@ -15,6 +18,9 @@ silver:
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
     logo: labo_thea
+  - name: Limagrain 
+    url: https://www.limagrain.com/
+    logo: limagrain
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
