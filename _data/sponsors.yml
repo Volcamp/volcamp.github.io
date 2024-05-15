@@ -24,6 +24,12 @@ silver:
   - name: Limagrain 
     url: https://www.limagrain.com/
     logo: limagrain
+  - name: KBRW 
+    url: https://www.kbrw.com/
+    logo: kbrw
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
