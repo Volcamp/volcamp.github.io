@@ -8,6 +8,9 @@ gold:
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: michelin
+    url: https://www.michelin.fr/
+    logo: michelin
 silver:
   - name: malt 
     url: https://www.malt.fr/
