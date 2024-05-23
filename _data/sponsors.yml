@@ -36,6 +36,9 @@ silver:
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
+  - name: Apside 
+    url: https://www.apside.com/
+    logo: apside
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
