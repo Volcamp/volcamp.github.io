@@ -11,6 +11,9 @@ gold:
   - name: michelin
     url: https://www.michelin.fr/
     logo: michelin
+  - name: Accenture
+    url: https://www.accenture.com/fr-fr
+    logo: accenture
 silver:
   - name: malt 
     url: https://www.malt.fr/
