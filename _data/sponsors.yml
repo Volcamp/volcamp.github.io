@@ -36,6 +36,9 @@ silver:
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
+  - name: R2Devops
+    url: https://r2devops.io/
+    logo: r2devops
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
