@@ -45,6 +45,9 @@ silver:
   - name: R2Devops
     url: https://r2devops.io/
     logo: r2devops
+  - name: braincube
+    url: https://fr.braincube.com/
+    logo: braincube
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
@@ -52,3 +55,6 @@ bronze:
   - name: Human booster
     url: https://humanbooster.com/
     logo: humanbooster
+  - name: oracle
+    url: http://www.oracle.com/
+    logo: oracle
