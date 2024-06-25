@@ -58,3 +58,6 @@ bronze:
   - name: oracle
     url: http://www.oracle.com/
     logo: oracle
+  - name: fortil
+    url: https://fortil.group/fr/fortil/
+    logo: fortil
