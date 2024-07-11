@@ -48,6 +48,9 @@ silver:
   - name: braincube
     url: https://fr.braincube.com/
     logo: braincube
+  - name: Clever Cloud
+    url: https://www.clever-cloud.com/fr/
+    logo: clever_cloud
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
