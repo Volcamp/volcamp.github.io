@@ -51,6 +51,9 @@ silver:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/fr/
     logo: clever_cloud
+  - name: Lojelis 
+    url: https://lojelis.com/
+    logo: lojelis
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
