@@ -57,6 +57,9 @@ silver:
   - name: elastic
     url: https://www.elastic.co/fr/
     logo: elastic
+  - name: snowflake
+    url: https://www.snowflake.com/
+    logo: snowflake
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
