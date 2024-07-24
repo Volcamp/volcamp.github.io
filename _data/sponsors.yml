@@ -54,6 +54,9 @@ silver:
   - name: Lojelis 
     url: https://lojelis.com/
     logo: lojelis
+  - name: elastic
+    url: https://www.elastic.co/fr/
+    logo: elastic
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
