@@ -60,6 +60,9 @@ silver:
   - name: snowflake
     url: https://www.snowflake.com/
     logo: snowflake
+  - name: github
+    url: https://www.github.com/
+    logo: github
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
