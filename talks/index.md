@@ -65,7 +65,7 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    La sélection sera issue du "Call For Paper" qui se tiendra entre le 27 mars {{ site.data-year }} et le 17 mai {{ site.data-year }} sur <a href="{{ site.cfp-url }}" target="_blank">{{ site.cfp-url }}</a>. 
+                    La sélection sera issue du "Call For Paper" qui se tiendra entre le 27 mars {{ site.data-year }} et le 18 mai {{ site.data-year }} sur <a href="{{ site.cfp-url }}" target="_blank">{{ site.cfp-url }}</a>. 
                 </p>
             </div>
         </div>
