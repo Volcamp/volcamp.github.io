@@ -1,3 +1,9 @@
 gold:
+  - name: michelin
+    url: https://www.michelin.fr/
+    logo: michelin
 silver:
+  - name: malt 
+    url: https://www.malt.fr/
+    logo: malt
 bronze:
