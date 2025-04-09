@@ -15,4 +15,10 @@ silver:
   - name: Apside 
     url: https://www.apside.com/
     logo: apside
+  - name: Agaetis
+    url: https://www.agaetis.fr/
+    logo: agaetis
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
 bronze:
