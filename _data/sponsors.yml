@@ -21,4 +21,7 @@ silver:
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
     logo: labo_thea
+  - name: TeamIT
+    url: https://www.team-it.fr/
+    logo: teamit
 bronze:
