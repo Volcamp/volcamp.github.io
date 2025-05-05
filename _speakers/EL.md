@@ -1,5 +1,5 @@
 ---
-  title:  Estelle Landry
+  title: Estelle Landry
   twitter: estelandry
   photo: EL.jpg
   linkedin: estelle-landry-61866b71
