@@ -24,4 +24,13 @@ silver:
   - name: TeamIT
     url: https://www.team-it.fr/
     logo: teamit
+  - name: KBRW 
+    url: https://www.kbrw.com/
+    logo: kbrw
 bronze:
+  - name: Datalyo
+    url: http://www.datalyo.com/
+    logo: datalyo
+  - name: oracle
+    url: http://www.oracle.com/
+    logo: oracle
