@@ -27,6 +27,9 @@ silver:
   - name: KBRW 
     url: https://www.kbrw.com/
     logo: kbrw
+  - name: NSE Groupe
+    url: https://www.nse-groupe.com/
+    logo: nse
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
