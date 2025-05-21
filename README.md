@@ -15,6 +15,13 @@ or
   bundle exec jekyll serve
 ```
 
+or use Docker
+
+```
+docker build -t volcamp-jekyll .
+docker run --rm -it -p 4000:4000 -v $(pwd):/usr/src/app volcamp-jekyll
+```
+
 # Rules
 
 Speakers : 800x800
