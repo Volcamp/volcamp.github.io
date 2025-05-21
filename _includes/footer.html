@@ -4,10 +4,14 @@
             <div class="col-lg-8 text-center mt-2">
                 <p><img src="{{ site.url }}/asset/images/logo_footer.png" alt="Volcamp" class="img-fluid logo-b"></p>
                 <ul class="list-inline footer-socails">
-                    <li class="list-inline-item"><a href="{{ site.syndication.twitter }}"><i class="icon-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href="{{ site.syndication.linkedin }}"><i class="icon-linkedin-squared"></i></a></li>
-                    <li class="list-inline-item"><a href="{{ site.syndication.github }}"><i class="icon-github-squared"></i></a></li>
-                    <li class="list-inline-item"><a href="{{ site.syndication.youtube }}"><i class="icon-youtube-play"></i></a></li>
+                     {% for social in site.syndication %}
+                        <li class="list-inline-item">
+                            <a href="{{ social[1] }}">
+                                <i class="icon-{{ social[0] | downcase }}"></i>
+                            </a>
+                        </li>
+                    {% endfor %}
+
                 </ul>
             </div>
         </div>
