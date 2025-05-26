@@ -30,6 +30,9 @@ silver:
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
+  - name: Docker
+    url: https://www.docker.com/
+    logo: docker
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
