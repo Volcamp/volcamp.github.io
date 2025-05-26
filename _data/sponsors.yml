@@ -43,3 +43,6 @@ bronze:
   - name: oracle
     url: http://www.oracle.com/
     logo: oracle
+  - name: Exakis Nelite
+    url: https://www.exakis-nelite.com/
+    logo: exakis_nelite
