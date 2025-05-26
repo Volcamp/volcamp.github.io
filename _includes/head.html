@@ -46,7 +46,11 @@
                         <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
                         {% endfor %}
                     </ul>
-                    <a href="{{ site.cfp-url }}" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">CFP - Soumettre un talk</a>
+                    {% if site.mode == "cfp" %}
+                        <a href="{{ site.cfp-url }}" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">CFP - Soumettre un talk</a>
+                    {%  elsif site.mode == "ticket" %}
+                        <a href="{{ site.ticket-url }}" class="btn btn-subscribe btn-rounded mt-3 mt-lg-0">Billetterie</a>
+                    {% endif %}
                 </div>
             </div>
         </nav>
