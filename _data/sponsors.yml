@@ -5,6 +5,9 @@ gold:
   - name: Accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
+  - name: CGI
+    url: https://www.cgi.com/
+    logo: cgi
 silver:
   - name: malt 
     url: https://www.malt.fr/
