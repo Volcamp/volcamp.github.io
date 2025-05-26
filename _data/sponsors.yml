@@ -5,6 +5,9 @@ gold:
   - name: Accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
+  - name: CGI
+    url: https://www.cgi.com/
+    logo: cgi
 silver:
   - name: malt 
     url: https://www.malt.fr/
@@ -30,6 +33,9 @@ silver:
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
+  - name: Docker
+    url: https://www.docker.com/
+    logo: docker
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
@@ -37,3 +43,6 @@ bronze:
   - name: oracle
     url: http://www.oracle.com/
     logo: oracle
+  - name: Exakis Nelite
+    url: https://www.exakis-nelite.com/
+    logo: exakis_nelite
