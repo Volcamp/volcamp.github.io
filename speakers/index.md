@@ -34,7 +34,7 @@ title: Volcamp - Les intervenants
                         <ul class="list-inline speaker-social">
                             <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
-                            {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
+                            {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin"></i></a></li>{% endif %}
                         </ul>
                     </div>
                     <div class="speaker-info">
@@ -53,7 +53,7 @@ title: Volcamp - Les intervenants
                         <ul class="list-inline speaker-social">
                             <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
                             {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
-                            {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
+                            {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin"></i></a></li>{% endif %}
                         </ul>
                     </div>
                     <div class="speaker-info">
