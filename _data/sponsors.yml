@@ -8,6 +8,9 @@ gold:
   - name: CGI
     url: https://www.cgi.com/
     logo: cgi
+  - name: Eramet
+    url: https://www.eramet.com/fr
+    logo: eramet
 silver:
   - name: malt 
     url: https://www.malt.fr/
