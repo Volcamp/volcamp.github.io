@@ -39,6 +39,9 @@ silver:
   - name: Docker
     url: https://www.docker.com/
     logo: docker
+  - name: elastic
+    url: https://www.elastic.co/fr/
+    logo: elastic
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
