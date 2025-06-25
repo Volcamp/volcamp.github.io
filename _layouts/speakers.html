@@ -28,7 +28,7 @@
         <div class="row">
             {% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' %}
             <div class="col-lg-4">
-                <img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">
+                 {% if speaker.photo != 'none' %}<img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">{% endif %}
             </div>
             <div class="col-lg-8">
                 <p>{{ content | markdownify }}</p>
