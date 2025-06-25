@@ -43,8 +43,7 @@ title: Volcamp - Les intervenants
                     </div>
                 </div>
             </div>
-            {% endif %}{% else %}
-                Rien à voir ici.
+            {% endif %}
             {% endfor %}
             {% for speaker in speakers %}{% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' and speaker.keynotes != true %}
             <div class="col-lg-3 col-sm-4">

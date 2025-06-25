@@ -28,13 +28,13 @@
         <div class="row">
             {% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' %}
             <div class="col-lg-4">
-                <img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">
+                 {% if speaker.photo != 'none' %}<img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">{% endif %}
             </div>
             <div class="col-lg-8">
                 <p>{{ content | markdownify }}</p>
                 <p>
                 {% if speaker.twitter != 'none' %}<i class="icon-twitter"></i><a href="https://twitter.com/{{ speaker.twitter }}">{{ speaker.twitter }}</a> {% endif %}
-                {% if speaker.linkedin != 'none' %}<i class="icon-linkedin-squared"></i><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}">{{ speaker.linkedin }}</a> {% endif %}
+                {% if speaker.linkedin != 'none' %}<i class="icon-linkedin"></i><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}">{{ speaker.linkedin }}</a> {% endif %}
                 </p>
                 <hr>
                 <p>
