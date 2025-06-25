@@ -3,7 +3,7 @@
     <div class="slot_info">
         <ul>
             <li><i class="icon-clock"></i> {{ talk.time_start }} - {{ talk.time_end }}</li>
-            <li><i class="icon-mic"></i>{% assign counter = 0 %}{% for speaker in talk.speakers %}{% if counter != 0 %}, {% endif %}{% assign s = site.speakers | where: "title", speaker | first %} {{ s.title }}{% assign counter = counter | plus: 1 %}{% endfor %}</li>
+            <li><i class="icon-mic"></i>{% assign counter = 0 %}{% for speaker in talk.speakers %}{% if counter != 0 %}, {% endif %} {{ speaker }}{% assign counter = counter | plus: 1 %}{% endfor %}</li>
             <li><i class="icon-location"></i> {{ talk.room }}</li>
             <li>{% if talk.format == "Keynote" %}<i class="icon-megaphone"></i>{% elsif talk.format == "Lightning" %}<i class="icon-gauge"></i>{% elsif talk.format == "Conférence" %}<i class="icon-graduation-cap"></i>{% elsif talk.format == "REX" %}<i class="icon-arrows-cw"></i>{% elsif talk.format == "Workshop" %}<i class="icon-beaker"></i>{% endif %} {{ talk.format }}</li> 
             {% if talk.category != "Keynote" %}<li><i class="icon-tag"></i> {{ talk.category }}</li>{% endif %}
