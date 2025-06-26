@@ -2,183 +2,114 @@
   name: Claude Dioudonnat
   twitter: claudusd
   linkedin: claude-dioudonnat-89a405a9
-  jobtitle: Expert technique
-  employer: France Université Numérique
-  committee: finances, logistique
   photo: cdi.jpg
 - cpr:
   name: Christophe Prugnaud
   twitter: khrys63
   linkedin: christophe-prugnaud
-  jobtitle: architecte entreprise
-  employer: be ys Cloud
-  committee: cfp, communication
   photo: cpr.jpg
 - mvi:
   name: Matthieu Vincent
   twitter: yodamad03
   linkedin: matthieu-vincent-ab25064
-  jobtitle: Architecte 
-  employer: sopra steria  
-  committee: communication, sponsors, collegiale
   photo: mvi.jpg
 - gde:
   name: Guillaume Delaire
   twitter: gdelaire63
   linkedin: guillaumedelaire
-  jobtitle: Architecte IT
-  employer: Limagrain
-  committee: cfp
   photo: gde.jpg
 - pco:
   name: Pierre Colomb
   twitter: pcolomb
   linkedin: pcolomb
-  jobtitle: R&D Manager
-  employer: Braincube
-  committee: admin, cfp, logistique
   photo: pco.jpg
 - ech:
   name: Eric Champion
   twitter: erchampion
   linkedin: éric-champion-558b4074
-  jobtitle: ingénieur
-  employer: Sopra Steria
-  committee: communication 
   photo: ech.jpg
 - jgo:
   name: Jérôme Godard
   twitter: jegodard
   linkedin: jeromegodard
-  jobtitle: Architecte systèmes d’information
-  employer: Michelin
-  committee: sponsors, logistique
   photo: jgo.jpg
 - vha:
   name: Virginie Hang
   twitter: HngVirginie
   linkedin: virginiehang
-  jobtitle: manager
-  employer: Accenture
-  committee: cfp
   photo: vha.jpg
 - mch :
   name: Mathieu Chausse
   twitter: ChausseMathieu
   linkedin: mathieu-chausse-26308850
-  jobtitle: Delivery Lead
-  employer: Accenture
-  committee: sponsors
   photo: mch.jpg
 - scp:
   name: Stéphanie Cluzel-Poughet
   twitter: 
   linkedin: stéphanie-cluzel-poughet-b2338817
-  jobtitle: Architecte IT
-  employer: Limagrain
-  committee:
   photo: scp.jpg
 - sco:
   name: Stéphane Coussy
   twitter: styef4
   linkedin: stephane-coussy
-  jobtitle: expert technique
-  employer: be ys Cloud
-  committee:
   photo: sco.jpg
 - oco:
   name: Olivier Coupelon
   twitter: coupelon
   linkedin: coupelon
-  jobtitle: Responsable SRE
-  employer: Zenika
-  committee: cfp
   photo: oco.jpg
 - vse:
   name: Valérie Servaire
   twitter: vservaire
   linkedin: valérie-servaire-07ab07141
-  jobtitle: Architecte IT
-  employer: Michelin
-  committee: cfp
   photo: vse.jpg
 - abl:
   name: Arnaud Blandamour
   twitter: nonowheels
   linkedin: arnaudblandamour
-  jobtitle: Expert Technique
-  employer: be ys Cloud
-  commitee: cfp, finance
   photo: abl.jpg
 - bey:
   name: Benoit Eymard
   twitter: 
   linkedin: benoit-eymard-b3135157
-  jobtitle: Architecte IT
-  employer: Agaetis
-  commitee: sponsors
   photo: bey.jpg
 - ppl:
   name: Pierre Plagnes
   twitter: doguei
   linkedin: pierre-plagnes-b6428220
-  jobtitle: Architecte IT
-  employer: CGI
-  commitee: sponsors
   photo: ppl.jpg
 - ppi:
   name: Paul Pinault
   twitter: disk_91
   linkedin: paulpinault
-  jobtitle: 
-  employer: Braincube
-  commitee: 
   photo: ppi.jpg
 - sde:
   name: Sylvain Desgrais
   twitter: artpej
   linkedin: sylvain-desgrais-923a5937
-  jobtitle: 
-  employer: be ys Cloud
-  commitee: 
   photo: sde.jpg
 - tba:
   name: Thomas Bailly
   twitter: authfix
   linkedin: thomas-bailly-b828a338
-  jobtitle: 
-  employer: 
-  commitee: 
   photo: tba.jpg
 - mge:
   name: Mickael Gervais
   twitter: mickaelgervais
   linkedin: mickaelgervais
-  jobtitle: 
-  employer: Agaetis
-  commitee: 
   photo: mge.jpg
 - rci:
   name: Rokhaya Cisse
   twitter: rok6c
   linkedin: rokhaya-cisse
-  jobtitle: Ingénieur IT
-  employer: Michelin
-  commitee: logistique
   photo: rci.jpg
 - cpe:
   name: Camille Petitalot
   twitter: 
   linkedin: camille-petitalot-7777a9a3
-  jobtitle: Developpeur
-  employer: Agaetis
-  commitee: logistique
   photo: cpe.jpg
 - jri:
   name: Julien Ribeyre
   twitter: JR6315
   linkedin: julien-ribeyre-58512a31
-  jobtitle: Expert technique
-  employer: Capgemini
-  commitee: 
   photo: jri.jpg
