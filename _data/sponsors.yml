@@ -11,6 +11,9 @@ gold:
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 silver:
   - name: malt 
     url: https://www.malt.fr/
