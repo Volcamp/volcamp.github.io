@@ -48,6 +48,9 @@ silver:
   - name: Lojelis
     url: https://lojelis.com/
     logo: lojelis
+  - name: Hesias
+    url: https://www.hesias.fr/
+    logo: hesias
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
