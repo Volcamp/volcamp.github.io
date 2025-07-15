@@ -11,6 +11,9 @@ gold:
   - name: Eramet
     url: https://www.eramet.com/fr
     logo: eramet
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 silver:
   - name: malt 
     url: https://www.malt.fr/
@@ -42,6 +45,9 @@ silver:
   - name: elastic
     url: https://www.elastic.co/fr/
     logo: elastic
+  - name: Lojelis
+    url: https://lojelis.com/
+    logo: lojelis
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
