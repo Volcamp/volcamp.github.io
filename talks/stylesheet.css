@@ -37,6 +37,11 @@ th, td {
   background-image: url(/asset/images/pause.jpg);
   color: #fff;
 }
+.party{
+  background-image: url(/asset/images/party.jpg);
+  color: #fff;
+  height: 180px;
+}
 
 .slot_info{
   border-radius: 0 0 10px 10px;
