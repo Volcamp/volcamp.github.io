@@ -64,7 +64,7 @@ title: Volcamp - Contactez-nous
                 </p>
                 <ul>
                     {% for social in site.syndication %}
-                        <li><i class="icon-{{ social[0] | downcase }}"></i>{{ social[0] }}: <a href="{{ social[1] }}">{{ social[1] }}</a></li>
+                        <li><i class="icon-{{ social[0] | downcase }}"></i> <a href="{{ social[1] }}">{{ social[1] }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
