@@ -68,7 +68,7 @@ syndication:
   Bluesky: https://bsky.app/profile/volcampio.bsky.social
   GitHub: https://github.com/Volcamp
   Youtube: https://www.youtube.com/channel/UC5iGUFHEJbSTU5wpbT6KIcw/featured
-  X: https://www.x.com/volcampio
+  X: https://x.com/volcampio
 
 plugins:
   - jekyll-redirect-from
