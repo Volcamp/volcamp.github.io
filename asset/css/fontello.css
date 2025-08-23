@@ -13,6 +13,7 @@
     font-family: 'logo';
     src: url('../font/logo.eot');
     src: url('../font/logo.eot?#iefix') format('embedded-opentype'),
+         url('../font/logo.woff2') format('woff2'),
          url('../font/logo.woff') format('woff'),
          url('../font/logo.ttf') format('truetype'),
          url('../font/logo.svg#logo') format('svg');
