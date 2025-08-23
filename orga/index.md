@@ -37,7 +37,7 @@ title: Volcamp - L'équipe
             <div class="col-lg-4 mt30">
                 <img src="{{ site.url }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="float-left orga">{{ member.name }}
                 <p class="orgasocial">
-                {% if member.twitter != nil %}<a href="https://twitter.com/{{ member.twitter }}" class="tw" target="_blank"><i class="icon-twitter"></i>{{ member.twitter }}</a><br>{% endif %}
+                {% if member.twitter != nil %}<a href="https://x.com/{{ member.twitter }}" class="tw" target="_blank"><i class="icon-x"></i>{{ member.twitter }}</a><br>{% endif %}
                 {% if member.linkedin != nil %}<a href="https://www.linkedin.com/in/{{ member.linkedin }}" class="lnked" target="_blank"><i class="icon-linkedin"></i>{{ member.linkedin }}</a>{% endif %}
                 </p>
             </div>

@@ -83,7 +83,7 @@ title: Volcamp - A Propos
                 Les intervenants présents lors de l'évènement sont issus à la fois des entreprises, universités, associations de l'écosystème de la Région Auvergne mais aussi des speakers de renom connus dans la sphère des conférences IT nationales voire internationales.
                 </p>
                 <p>
-                Volcamp met en place les outils : site web, comptes <a href="https://twitter.com/VolcampIO">Twitter</a> & <a href="https://www.linkedin.com/company/volcampio">Linkedin</a>, nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses sponsors.
+                Volcamp met en place les outils : site web, comptes <a href="https://x.com/VolcampIO">Twitter</a> & <a href="https://www.linkedin.com/company/volcampio">Linkedin</a>, nécessaires pour assurer une bonne communication entre ses membres, avec les personnes intéressées et futurs participants, mais aussi de référencer publiquement ses sponsors.
                 </p>
                 <p>
                 Dʼautre part Volcamp espère faire naître des vocations de conférencier parmi ses participants et offrir une tribune pour présenter des retours dʼexpérience ou les applications dʼun sujet de recherche.

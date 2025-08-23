@@ -7,11 +7,10 @@
                      {% for social in site.syndication %}
                         <li class="list-inline-item">
                             <a href="{{ social[1] }}">
-                                <i class="icon-{{ social[0] | downcase }} {% if social[0] == 'Bluesky' or social[0] == 'GitHub' or social[0] == 'Youtube' %} lowerfont {% endif %}"></i>
+                                <i class="icon-{{ social[0] | downcase }}"></i>
                             </a>
                         </li>
                     {% endfor %}
-
                 </ul>
             </div>
         </div>
