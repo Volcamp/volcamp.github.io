@@ -51,6 +51,15 @@ silver:
   - name: Hesias
     url: https://www.hesias.fr/
     logo: hesias
+  - name: Red Hat
+    url: https://www.redhat.com/fr
+    logo: red_hat
+  - name: Clever Cloud
+    url: https://www.clever-cloud.com/fr/
+    logo: clever_cloud
+  - name: SensioLabs
+    url: https://sensiolabs.com/fr/
+    logo: sensiolabs
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
@@ -70,3 +79,6 @@ bronze:
   - name: L’Institut de la PME
     url: https://www.institutdelapme.com
     logo: institutdelapme
+  - name: Zenika
+    url: https://www.zenika.com/
+    logo: zenika
