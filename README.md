@@ -22,6 +22,14 @@ docker build -t volcamp-jekyll .
 docker run --rm -it -p 4000:4000 -v $(pwd):/usr/src/app volcamp-jekyll
 ```
 
+# OpenFeedback
+
+use convertVolcamp2of script to convert Volcamp conference to openfeedbach JSON and commit it.
+
+```
+./convertVolcamp2of.sh
+```
+
 # Rules
 
 Speakers : 800x800
