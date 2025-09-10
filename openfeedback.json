@@ -1,0 +1,1021 @@
+{
+"sessions": {
+  "d1t1k1": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "Intro Volcamp 2025",
+    "id": "d1t1k1",
+    "startTime": "2025-10-02T09:00:00+02:00",
+    "endTime": "2025-10-02T09:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1k2": {
+    "speakers": [
+  "Estelle Landry",
+  "Emilie Goubin"
+],
+    "title": "Keynote jour 1",
+    "id": "d1t1k2",
+    "startTime": "2025-10-02T09:15:00+02:00",
+    "endTime": "2025-10-02T10:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s1": {
+    "speakers": [
+  "Philippe Charrière"
+],
+    "title": "Créer un spécialiste de l'Aligot et de la Truffade avec Docker Model Runner et le Docker MCP Toolkit",
+    "id": "d1t1s1",
+    "startTime": "2025-10-02T10:15:00+02:00",
+    "endTime": "2025-10-02T11:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s2": {
+    "speakers": [
+  "Julien Ponge"
+],
+    "title": "Les meilleures excuses pour ne pas adopter Quarkus",
+    "id": "d1t1s2",
+    "startTime": "2025-10-02T11:30:00+02:00",
+    "endTime": "2025-10-02T12:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s5": {
+    "speakers": [
+  "Florian Forestier"
+],
+    "title": "Mes trains Jouef passent au numérique, avec des Raspberry et TinyGo !",
+    "id": "d1t1s5",
+    "startTime": "2025-10-02T13:30:00+02:00",
+    "endTime": "2025-10-02T14:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s6": {
+    "speakers": [
+  "Rémi Verchère"
+],
+    "title": "Gérer des clusters presque identiques en mode GitOps avec ArgoCD",
+    "id": "d1t1s6",
+    "startTime": "2025-10-02T14:30:00+02:00",
+    "endTime": "2025-10-02T15:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s7": {
+    "speakers": [
+  "Marc Chevaldonné"
+],
+    "title": "SFUI - Science-Fiction User Interface",
+    "id": "d1t1s7",
+    "startTime": "2025-10-02T15:45:00+02:00",
+    "endTime": "2025-10-02T16:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s8": {
+    "speakers": [
+  "Henri Gomez",
+  "Guillaume Mathieu"
+],
+    "title": "Et si vous interrogiez le recruteur ? - Les bonnes questions pour choisir votre prochaine aventure professionnelle",
+    "id": "d1t1s8",
+    "startTime": "2025-10-02T16:45:00+02:00",
+    "endTime": "2025-10-02T17:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s9": {
+    "speakers": [
+  "Stéphane Cottin",
+  "Christophe Arguel"
+],
+    "title": "IA Générative dans votre backend - Simple et sans prise de tête avec Spring AI et MCP !",
+    "id": "d1t1s9",
+    "startTime": "2025-10-02T17:45:00+02:00",
+    "endTime": "2025-10-02T18:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t2s1": {
+    "speakers": [
+  "Arnaud Jean",
+  "Tiffany Souterre"
+],
+    "title": "Créer son propre Jeu de Rôle en Agentic AI & MCP",
+    "id": "d1t2s1",
+    "startTime": "2025-10-02T10:15:00+02:00",
+    "endTime": "2025-10-02T11:00:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s2": {
+    "speakers": [
+  "Yulianna Khorolich"
+],
+    "title": "Your RAG Chatbot - Minute 21 onwards",
+    "id": "d1t2s2",
+    "startTime": "2025-10-02T11:30:00+02:00",
+    "endTime": "2025-10-02T12:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s3": {
+    "speakers": [
+  "Pierre Tachoire"
+],
+    "title": "Créer un browser from scratch, 1 an plus tard...",
+    "id": "d1t2s3",
+    "startTime": "2025-10-02T12:30:00+02:00",
+    "endTime": "2025-10-02T12:45:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s4": {
+    "speakers": [
+  "David Pilato"
+],
+    "title": "L'art du DeeJaying par la pratique",
+    "id": "d1t2s4",
+    "startTime": "2025-10-02T13:00:00+02:00",
+    "endTime": "2025-10-02T13:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s5": {
+    "speakers": [
+  "Julien Canon"
+],
+    "title": "Kyverno - la conformité dans votre cluster kubernetes",
+    "id": "d1t2s5",
+    "startTime": "2025-10-02T13:30:00+02:00",
+    "endTime": "2025-10-02T14:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s6": {
+    "speakers": [
+  "Montaine Marteau"
+],
+    "title": "La santé a-t-elle peur du cloud ?",
+    "id": "d1t2s6",
+    "startTime": "2025-10-02T14:30:00+02:00",
+    "endTime": "2025-10-02T15:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s7": {
+    "speakers": [
+  "Nastasia Fouret"
+],
+    "title": "Démêler des problèmes de provenances de données à l’aide des graphs",
+    "id": "d1t2s7",
+    "startTime": "2025-10-02T15:45:00+02:00",
+    "endTime": "2025-10-02T16:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s8": {
+    "speakers": [
+  "Quentin Joly"
+],
+    "title": "Un cluster de production en un éclair avec Talos ⚡️☸️",
+    "id": "d1t2s8",
+    "startTime": "2025-10-02T16:45:00+02:00",
+    "endTime": "2025-10-02T17:30:00+02:00",
+    "trackTitle": "Showrom"
+  }
+,
+  "d1t2s9": {
+    "speakers": [
+  "Vincent Aubrun"
+],
+    "title": "Les métriques sont précieuses, mais savoir quoi en faire l'est encore plus 💪 REX sur la construction d'un monitoring",
+    "id": "d1t2s9",
+    "startTime": "2025-10-02T17:45:00+02:00",
+    "endTime": "2025-10-02T18:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t3s1": {
+    "speakers": [
+  "Florent Zara"
+],
+    "title": "Licence to Code",
+    "id": "d1t3s1",
+    "startTime": "2025-10-02T10:15:00+02:00",
+    "endTime": "2025-10-02T11:00:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s2": {
+    "speakers": [
+  "Arthur Vuillard"
+],
+    "title": "Se réapproprier Internet par les noms de domaine",
+    "id": "d1t3s2",
+    "startTime": "2025-10-02T11:30:00+02:00",
+    "endTime": "2025-10-02T12:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s3": {
+    "speakers": [
+  "Virginie Pageaud"
+],
+    "title": "T'as vu mes docs ? Je les fait avec typst !",
+    "id": "d1t3s3",
+    "startTime": "2025-10-02T12:30:00+02:00",
+    "endTime": "2025-10-02T12:45:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s4": {
+    "speakers": [
+  "Guenaelle De Julis"
+],
+    "title": "Démasquer les proxy par design",
+    "id": "d1t3s4",
+    "startTime": "2025-10-02T13:00:00+02:00",
+    "endTime": "2025-10-02T13:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s5": {
+    "speakers": [
+  "Paul Roye"
+],
+    "title": "⚔️ Le code dont vous êtes le héros ou l’héroïne +5 en agilité, +10 en fun !",
+    "id": "d1t3s5",
+    "startTime": "2025-10-02T13:30:00+02:00",
+    "endTime": "2025-10-02T14:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s6": {
+    "speakers": [
+  "Julien Cognet"
+],
+    "title": "Une architecture opensource moderne qui ne déraille pas",
+    "id": "d1t3s6",
+    "startTime": "2025-10-02T14:30:00+02:00",
+    "endTime": "2025-10-02T15:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s7": {
+    "speakers": [
+  "Rémi Leclere"
+],
+    "title": "🎵​ Faire une virée à deux,  Tous les deux sur les chemins 🎵​",
+    "id": "d1t3s7",
+    "startTime": "2025-10-02T15:45:00+02:00",
+    "endTime": "2025-10-02T16:30:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t3s8": {
+    "speakers": [
+  "Jean-Yves Laugel"
+],
+    "title": "Les pires défaillances (logicielles) en 10 ans de téléradiologie d'urgence",
+    "id": "d1t3s8",
+    "startTime": "2025-10-02T16:45:00+02:00",
+    "endTime": "2025-10-02T17:30:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d1t4s1": {
+    "speakers": [
+  "Thomas Cami",
+  "Jonathan Baranzini"
+],
+    "title": "L'IOT pour 5 ans et + - Atelier d'initiation sur carte micro:bit",
+    "id": "d1t4s1",
+    "startTime": "2025-10-02T10:15:00+02:00",
+    "endTime": "2025-10-02T12:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d1t4s5": {
+    "speakers": [
+  "Rachid Zarouali"
+],
+    "title": "Déploiement de clusters kubernetes à grande échelle, quels outils à utiliser et comment",
+    "id": "d1t4s5",
+    "startTime": "2025-10-02T13:30:00+02:00",
+    "endTime": "2025-10-02T15:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d1t4s7": {
+    "speakers": [
+  "Nicolas Massé",
+  "Sébastien Lallemand"
+],
+    "title": "Mission IApossible - Arrêtez le train Lego à temps grâce à l’IA et l’Edge",
+    "id": "d1t4s7",
+    "startTime": "2025-10-02T15:45:00+02:00",
+    "endTime": "2025-10-02T17:30:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t1k1": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "L'intro Volcamp",
+    "id": "d2t1k1",
+    "startTime": "2025-10-03T09:00:00+02:00",
+    "endTime": "2025-10-03T09:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1k2": {
+    "speakers": [
+  "Alexandre Zapolsky"
+],
+    "title": "Keynote jour 2",
+    "id": "d2t1k2",
+    "startTime": "2025-10-03T09:15:00+02:00",
+    "endTime": "2025-10-03T10:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1k3": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "Cloture",
+    "id": "d2t1k3",
+    "startTime": "2025-10-03T17:45:00+02:00",
+    "endTime": "2025-10-03T18:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s1": {
+    "speakers": [
+  "Olivier Poncet"
+],
+    "title": "Another World, une belle leçon d’architecture logicielle",
+    "id": "d2t1s1",
+    "startTime": "2025-10-03T10:15:00+02:00",
+    "endTime": "2025-10-03T11:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s2": {
+    "speakers": [
+  "Nicolas Ledez"
+],
+    "title": "🔓 RFID, MIFARE, chambre d'hôtel et flipper0 - décryptage sans contact",
+    "id": "d2t1s2",
+    "startTime": "2025-10-03T11:30:00+02:00",
+    "endTime": "2025-10-03T12:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s5": {
+    "speakers": [
+  "Laurent Grangeau",
+  "Tony Jarriault"
+],
+    "title": "Libérer la puissance des systèmes multi-agents avec Flowise",
+    "id": "d2t1s5",
+    "startTime": "2025-10-03T13:30:00+02:00",
+    "endTime": "2025-10-03T14:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s6": {
+    "speakers": [
+  "Lucas Drago"
+],
+    "title": "À l'épreuve de l'échelle - surmonter la dette technique et les défis d'une plateforme DevOps",
+    "id": "d2t1s6",
+    "startTime": "2025-10-03T14:30:00+02:00",
+    "endTime": "2025-10-03T15:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s7": {
+    "speakers": [
+  "Kevin Beaugrand"
+],
+    "title": "Construire un agent NL2SQL avec Semantic Kernel - l’IA au service des données",
+    "id": "d2t1s7",
+    "startTime": "2025-10-03T15:45:00+02:00",
+    "endTime": "2025-10-03T16:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s8": {
+    "speakers": [
+  "Geoffrey Graveaud"
+],
+    "title": "Une petit histoire du DevSecOps avec Trivy 🔎🔗",
+    "id": "d2t1s8",
+    "startTime": "2025-10-03T16:45:00+02:00",
+    "endTime": "2025-10-03T17:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t2s1": {
+    "speakers": [
+  "Thierry Chantier"
+],
+    "title": "Quand le Terminal dévore la UI - TUI pour tout le monde !",
+    "id": "d2t2s1",
+    "startTime": "2025-10-03T10:15:00+02:00",
+    "endTime": "2025-10-03T11:00:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s2": {
+    "speakers": [
+  "Benjamin Georgeault"
+],
+    "title": "Dagger, le couteau suisse de la CI/CD moderne ?",
+    "id": "d2t2s2",
+    "startTime": "2025-10-03T11:30:00+02:00",
+    "endTime": "2025-10-03T12:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s3": {
+    "speakers": [
+  "Benoît Garçon"
+],
+    "title": "Plan B activé - Gérer une panne régionale par IaC",
+    "id": "d2t2s3",
+    "startTime": "2025-10-03T12:30:00+02:00",
+    "endTime": "2025-10-03T12:45:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s4": {
+    "speakers": [
+  "Damien Hackett"
+],
+    "title": "Informatique quantique - Préparez vous à l'éruption !!!",
+    "id": "d2t2s4",
+    "startTime": "2025-10-03T13:00:00+02:00",
+    "endTime": "2025-10-03T13:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s5": {
+    "speakers": [
+  "m4dz"
+],
+    "title": "SSE Chronicles - Quand ton appli chuchote à ton navigateur",
+    "id": "d2t2s5",
+    "startTime": "2025-10-03T13:30:00+02:00",
+    "endTime": "2025-10-03T14:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s6": {
+    "speakers": [
+  "Alexandre Burgoni"
+],
+    "title": "Le système distribué qui a survécu à 1 milliards de séries",
+    "id": "d2t2s6",
+    "startTime": "2025-10-03T14:30:00+02:00",
+    "endTime": "2025-10-03T15:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s7": {
+    "speakers": [
+  "Romuald Priol"
+],
+    "title": "Numérique - comment lier performance et écologie ?",
+    "id": "d2t2s7",
+    "startTime": "2025-10-03T15:45:00+02:00",
+    "endTime": "2025-10-03T16:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s8": {
+    "speakers": [
+  "Nathanaël Hannebert"
+],
+    "title": "Vates VMS une stack de virtualisation à l'heure du DevOps et du cloud-native ? (et une alternative à VMware !)",
+    "id": "d2t2s8",
+    "startTime": "2025-10-03T16:45:00+02:00",
+    "endTime": "2025-10-03T17:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t3s1": {
+    "speakers": [
+  "Emilie Bisseriex"
+],
+    "title": "Intégration d’un produit du marché dans un écosystème d’entreprise - retour sur notre développeur expérience",
+    "id": "d2t3s1",
+    "startTime": "2025-10-03T10:15:00+02:00",
+    "endTime": "2025-10-03T11:00:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s2": {
+    "speakers": [
+  "Sylvain Gougouzian",
+  "Matthias Gougouzian"
+],
+    "title": "Makers de Père en Fils",
+    "id": "d2t3s2",
+    "startTime": "2025-10-03T11:30:00+02:00",
+    "endTime": "2025-10-03T12:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s3": {
+    "speakers": [
+  "Juliette Grillere"
+],
+    "title": "Donjons et Pythons - la chevaleresse à la rescousse",
+    "id": "d2t3s3",
+    "startTime": "2025-10-03T12:30:00+02:00",
+    "endTime": "2025-10-03T12:45:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s4": {
+    "speakers": [
+  "Julien Duraysseix"
+],
+    "title": "Ce projet né dans la chambre d’un enfant de 7 ans",
+    "id": "d2t3s4",
+    "startTime": "2025-10-03T13:00:00+02:00",
+    "endTime": "2025-10-03T13:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s5": {
+    "speakers": [
+  "Daniel Petisme"
+],
+    "title": "4 ans de télé-travail total. Retours d'expérience, défis et bonnes pratiques",
+    "id": "d2t3s5",
+    "startTime": "2025-10-03T13:30:00+02:00",
+    "endTime": "2025-10-03T14:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s6": {
+    "speakers": [
+  "Nancy Bonicel"
+],
+    "title": "Animer sans surcharger - le Motion Design au service de l’UX",
+    "id": "d2t3s6",
+    "startTime": "2025-10-03T14:30:00+02:00",
+    "endTime": "2025-10-03T15:15:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t3s7": {
+    "speakers": [
+  "Seifeddin Mansri"
+],
+    "title": "État des Lieux de la Souveraineté du Cloud - Des Clouds Publics aux Clouds Confidentiels",
+    "id": "d2t3s7",
+    "startTime": "2025-10-03T15:45:00+02:00",
+    "endTime": "2025-10-03T16:30:00+02:00",
+    "trackTitle": "Créativité"
+  }
+,
+  "d2t4s1": {
+    "speakers": [
+  "Nait Belkacem Youssef",
+  "Jean-Eudes Couignoux"
+],
+    "title": "Créez votre premier microservices en Rust",
+    "id": "d2t4s1",
+    "startTime": "2025-10-03T10:15:00+02:00",
+    "endTime": "2025-10-03T12:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t4s5": {
+    "speakers": [
+  "Simon Mercier",
+  "Antoine Candy"
+],
+    "title": "Quoi ? Vous n’utilisez pas Figma ?!?",
+    "id": "d2t4s5",
+    "startTime": "2025-10-03T13:30:00+02:00",
+    "endTime": "2025-10-03T15:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t4s7": {
+    "speakers": [
+  "Victor Gallet"
+],
+    "title": "Workshop async-profiler",
+    "id": "d2t4s7",
+    "startTime": "2025-10-03T15:45:00+02:00",
+    "endTime": "2025-10-03T17:30:00+02:00",
+    "trackTitle": "Workshop"
+  }
+},
+"speakers": 
+{
+  "Victor Gallet": {
+    "name": "Victor Gallet",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/1.jpg",
+    "id": "Victor Gallet"
+  }
+,
+  "Pierre Tachoire": {
+    "name": "Pierre Tachoire",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/10.jpg",
+    "id": "Pierre Tachoire"
+  }
+,
+  "Virginie Pageaud": {
+    "name": "Virginie Pageaud",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/11.jpg",
+    "id": "Virginie Pageaud"
+  }
+,
+  "David Pilato": {
+    "name": "David Pilato",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/12.jpg",
+    "id": "David Pilato"
+  }
+,
+  "Guenaelle De Julis": {
+    "name": "Guenaelle De Julis",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/13.jpg",
+    "id": "Guenaelle De Julis"
+  }
+,
+  "Benoît Garçon": {
+    "name": "Benoît Garçon",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/14.jpg",
+    "id": "Benoît Garçon"
+  }
+,
+  "Damien Hackett": {
+    "name": "Damien Hackett",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/15.jpg",
+    "id": "Damien Hackett"
+  }
+,
+  "Juliette Grillere": {
+    "name": "Juliette Grillere",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/16.jpg",
+    "id": "Juliette Grillere"
+  }
+,
+  "Julien Duraysseix": {
+    "name": "Julien Duraysseix",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/17.jpg",
+    "id": "Julien Duraysseix"
+  }
+,
+  "Philippe Charrière": {
+    "name": "Philippe Charrière",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/18.jpg",
+    "id": "Philippe Charrière"
+  }
+,
+  "Julien Ponge": {
+    "name": "Julien Ponge",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/19.jpg",
+    "id": "Julien Ponge"
+  }
+,
+  "Antoine Candy": {
+    "name": "Antoine Candy",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/2.jpg",
+    "id": "Antoine Candy"
+  }
+,
+  "Florian Forestier": {
+    "name": "Florian Forestier",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/20.jpg",
+    "id": "Florian Forestier"
+  }
+,
+  "Rémi Verchère": {
+    "name": "Rémi Verchère",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/21.jpg",
+    "id": "Rémi Verchère"
+  }
+,
+  "Marc Chevaldonné": {
+    "name": "Marc Chevaldonné",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/22.jpg",
+    "id": "Marc Chevaldonné"
+  }
+,
+  "Henri Gomez": {
+    "name": "Henri Gomez",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/23.jpg",
+    "id": "Henri Gomez"
+  }
+,
+  "Christophe Arguel": {
+    "name": "Christophe Arguel",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/24.jpg",
+    "id": "Christophe Arguel"
+  }
+,
+  "Stéphane Cottin": {
+    "name": "Stéphane Cottin",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/25.jpg",
+    "id": "Stéphane Cottin"
+  }
+,
+  "Olivier Poncet": {
+    "name": "Olivier Poncet",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/26.jpg",
+    "id": "Olivier Poncet"
+  }
+,
+  "Nicolas Ledez": {
+    "name": "Nicolas Ledez",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/27.jpg",
+    "id": "Nicolas Ledez"
+  }
+,
+  "Tony Jarriault": {
+    "name": "Tony Jarriault",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/28.jpg",
+    "id": "Tony Jarriault"
+  }
+,
+  "Laurent Grangeau": {
+    "name": "Laurent Grangeau",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/29.jpg",
+    "id": "Laurent Grangeau"
+  }
+,
+  "Simon Mercier": {
+    "name": "Simon Mercier",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/3.jpg",
+    "id": "Simon Mercier"
+  }
+,
+  "Lucas Drago": {
+    "name": "Lucas Drago",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/30.jpg",
+    "id": "Lucas Drago"
+  }
+,
+  "Kevin Beaugrand": {
+    "name": "Kevin Beaugrand",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/31.jpg",
+    "id": "Kevin Beaugrand"
+  }
+,
+  "Geoffrey Graveaud": {
+    "name": "Geoffrey Graveaud",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/32.jpg",
+    "id": "Geoffrey Graveaud"
+  }
+,
+  "Tiffany Souterre": {
+    "name": "Tiffany Souterre",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/33.jpg",
+    "id": "Tiffany Souterre"
+  }
+,
+  "Arnaud Jean": {
+    "name": "Arnaud Jean",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/34.jpg",
+    "id": "Arnaud Jean"
+  }
+,
+  "Yulianna Khorolich": {
+    "name": "Yulianna Khorolich",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/35.jpg",
+    "id": "Yulianna Khorolich"
+  }
+,
+  "Paul Roye": {
+    "name": "Paul Roye",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/36.jpg",
+    "id": "Paul Roye"
+  }
+,
+  "Montaine Marteau": {
+    "name": "Montaine Marteau",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/37.jpg",
+    "id": "Montaine Marteau"
+  }
+,
+  "Nastasia Fouret": {
+    "name": "Nastasia Fouret",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/38.jpg",
+    "id": "Nastasia Fouret"
+  }
+,
+  "Quentin Joly": {
+    "name": "Quentin Joly",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/39.jpg",
+    "id": "Quentin Joly"
+  }
+,
+  "Rachid Zarouali": {
+    "name": "Rachid Zarouali",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/4.jpg",
+    "id": "Rachid Zarouali"
+  }
+,
+  "Vincent Aubrun": {
+    "name": "Vincent Aubrun",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/40.jpg",
+    "id": "Vincent Aubrun"
+  }
+,
+  "Thierry Chantier": {
+    "name": "Thierry Chantier",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/41.jpg",
+    "id": "Thierry Chantier"
+  }
+,
+  "Benjamin Georgeault": {
+    "name": "Benjamin Georgeault",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/42.jpg",
+    "id": "Benjamin Georgeault"
+  }
+,
+  "m4dz": {
+    "name": "m4dz",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/43.jpg",
+    "id": "m4dz"
+  }
+,
+  "Alexandre Burgoni": {
+    "name": "Alexandre Burgoni",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/44.jpg",
+    "id": "Alexandre Burgoni"
+  }
+,
+  "Romuald Priol": {
+    "name": "Romuald Priol",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/45.jpg",
+    "id": "Romuald Priol"
+  }
+,
+  "Nathanaël Hannebert": {
+    "name": "Nathanaël Hannebert",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/46.jpg",
+    "id": "Nathanaël Hannebert"
+  }
+,
+  "Florent Zara": {
+    "name": "Florent Zara",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/47.jpg",
+    "id": "Florent Zara"
+  }
+,
+  "Arthur Vuillard": {
+    "name": "Arthur Vuillard",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/48.jpg",
+    "id": "Arthur Vuillard"
+  }
+,
+  "Julien Canon": {
+    "name": "Julien Canon",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/49.jpg",
+    "id": "Julien Canon"
+  }
+,
+  "Nicolas Massé": {
+    "name": "Nicolas Massé",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/5.jpg",
+    "id": "Nicolas Massé"
+  }
+,
+  "Julien Cognet": {
+    "name": "Julien Cognet",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/50.jpg",
+    "id": "Julien Cognet"
+  }
+,
+  "Rémi Leclere": {
+    "name": "Rémi Leclere",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/51.jpg",
+    "id": "Rémi Leclere"
+  }
+,
+  "Jean-Yves Laugel": {
+    "name": "Jean-Yves Laugel",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/52.jpg",
+    "id": "Jean-Yves Laugel"
+  }
+,
+  "Emilie Bisseriex": {
+    "name": "Emilie Bisseriex",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/53.jpg",
+    "id": "Emilie Bisseriex"
+  }
+,
+  "Matthias Gougouzian": {
+    "name": "Matthias Gougouzian",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/54.jpg",
+    "id": "Matthias Gougouzian"
+  }
+,
+  "Sylvain Gougouzian": {
+    "name": "Sylvain Gougouzian",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/55.jpg",
+    "id": "Sylvain Gougouzian"
+  }
+,
+  "Daniel Petisme": {
+    "name": "Daniel Petisme",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/56.jpg",
+    "id": "Daniel Petisme"
+  }
+,
+  "Nancy Bonicel": {
+    "name": "Nancy Bonicel",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/57.jpg",
+    "id": "Nancy Bonicel"
+  }
+,
+  "Seifeddin Mansri": {
+    "name": "Seifeddin Mansri",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/58.jpg",
+    "id": "Seifeddin Mansri"
+  }
+,
+  "Guillaume Mathieu": {
+    "name": "Guillaume Mathieu",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/59.jpg",
+    "id": "Guillaume Mathieu"
+  }
+,
+  "Jonathan Baranzini": {
+    "name": "Jonathan Baranzini",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/6.jpg",
+    "id": "Jonathan Baranzini"
+  }
+,
+  "Sébastien Lallemand": {
+    "name": "Sébastien Lallemand",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/60.jpg",
+    "id": "Sébastien Lallemand"
+  }
+,
+  "Thomas Cami": {
+    "name": "Thomas Cami",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/7.jpg",
+    "id": "Thomas Cami"
+  }
+,
+  "Jean-Eudes Couignoux": {
+    "name": "Jean-Eudes Couignoux",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/8.jpg",
+    "id": "Jean-Eudes Couignoux"
+  }
+,
+  "Nait Belkacem Youssef": {
+    "name": "Nait Belkacem Youssef",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/9.jpg",
+    "id": "Nait Belkacem Youssef"
+  }
+,
+  "Alexandre Zapolsky": {
+    "name": "Alexandre Zapolsky",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/AZ.jpg",
+    "id": "Alexandre Zapolsky"
+  }
+,
+  "Emilie Goubin": {
+    "name": "Emilie Goubin",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/EG.jpg",
+    "id": "Emilie Goubin"
+  }
+,
+  "Estelle Landry": {
+    "name": "Estelle Landry",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/EL.jpg",
+    "id": "Estelle Landry"
+  }
+,
+  "TBD": {
+    "name": "TBD",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/none",
+    "id": "TBD"
+  }
+,
+  "Volcamp team": {
+    "name": "Volcamp team",
+    "phototUrl": "https://www.volcamp.io/asset/images/speakers/volcamp.jpg",
+    "id": "Volcamp team"
+  }
+}
+}
