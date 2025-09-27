@@ -50,6 +50,8 @@
                         <a href="{{ site.cfp-url }}" class="btn btn-secondary btn-rounded mt-3 mt-lg-0">CFP - Soumettre un talk</a>
                     {%  elsif site.mode == "ticket" %}
                         <a href="{{ site.ticket-url }}" class="btn btn-subscribe btn-rounded mt-3 mt-lg-0">Billetterie</a>
+                    {%  elsif site.mode == "feedback" %}
+                        <a href="{{ site.openfeedback-url }}" class="btn btn-success btn-rounded mt-3 mt-lg-0">Feedback</a>
                     {% endif %}
                 </div>
             </div>
