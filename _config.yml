@@ -34,8 +34,6 @@ navigation:
    url: /sponsors/
  - title: l'équipe
    url: /orga/
- - title: Kids
-   url: /kids/
 
 collections:
   speakers:
