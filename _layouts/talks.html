@@ -42,6 +42,10 @@
                     <br> 
                     <i class="icon-tag"></i> {{ talk.category }}
                    {% endif %}
+                   {% if site.mode == "feedback" %}
+                    <br> 
+                    <i class="icon-megaphone"></i><a href="{{ site.openfeedback-url }}/{{ talk.slot | date: "%Y-%m-%d" }}/{{ talk.name }} ">Laissez votre feedback ici .</a>
+                   {% endif %}
                 </p>
             </div>
         </div>
