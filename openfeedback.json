@@ -69,9 +69,9 @@
 ,
   "d1t1s7": {
     "speakers": [
-  "Marc Chevaldonné"
+  "Kevin Beaugrand"
 ],
-    "title": "SFUI - Science-Fiction User Interface",
+    "title": "Construire un agent NL2SQL avec Semantic Kernel - l’IA au service des données",
     "id": "d1t1s7",
     "startTime": "2025-10-02T15:45:00+02:00",
     "endTime": "2025-10-02T16:30:00+02:00",
@@ -228,7 +228,7 @@
     "speakers": [
   "Virginie Pageaud"
 ],
-    "title": "T'as vu mes docs ? Je les fait avec typst !",
+    "title": "T'as vu mes docs ? Je les fais avec typst !",
     "id": "d1t3s3",
     "startTime": "2025-10-02T12:30:00+02:00",
     "endTime": "2025-10-02T12:45:00+02:00",
@@ -405,9 +405,9 @@
 ,
   "d2t1s7": {
     "speakers": [
-  "Kevin Beaugrand"
+  "Marc Chevaldonné"
 ],
-    "title": "Construire un agent NL2SQL avec Semantic Kernel - l’IA au service des données",
+    "title": "SFUI - Science-Fiction User Interface",
     "id": "d2t1s7",
     "startTime": "2025-10-03T15:45:00+02:00",
     "endTime": "2025-10-03T16:30:00+02:00",
