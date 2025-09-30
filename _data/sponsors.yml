@@ -57,6 +57,9 @@ silver:
   - name: SensioLabs
     url: https://sensiolabs.com/fr/
     logo: sensiolabs
+  - name: akkodis
+    url: https://www.akkodis.com/fr/france
+    logo: akkodis
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
