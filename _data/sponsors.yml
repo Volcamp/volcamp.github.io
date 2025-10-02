@@ -85,3 +85,6 @@ bronze:
   - name: Liopen
     url: https://www.liopen.fr/
     logo: liopen
+  - name: Openium
+    logo: openium
+    url: https://www.openium.fr/
