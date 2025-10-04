@@ -25,7 +25,8 @@ title: Volcamp 2025
                 <div class="counter-inner">
                     <div class="row align-items-center">
                         {% assign today = 'now' | date: "%s" %}
-                        {% if today < realdate %}
+                        {% assign realdate_s = site.realdate | date: "%s" %}
+                        {% if today < realdate_s %}
                         <div class="col-lg-6">
                             <div class="counter-stat">
                                <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
