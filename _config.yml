@@ -16,6 +16,7 @@ data-year: 2025
 data-month: 10
 data-day: 02
 data-hour: 09
+realdate: 2025-10-02
 
 exclude:
   - README.md

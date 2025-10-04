@@ -24,9 +24,11 @@ title: Volcamp 2025
             <div class="container">
                 <div class="counter-inner">
                     <div class="row align-items-center">
+                        {% assign today = 'now' | date: "%s" %}
+                        {% if today < realdate %}
                         <div class="col-lg-6">
                             <div class="counter-stat">
-                                <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
+                               <h2 class="font-weight-light"><strong>Votre conférence</strong><br>démarre dans</h2>
                             </div>
                         </div>
                         <div id="simple-timer" class="syotimer" data-year="{{ site.data-year }}" data-month="{{ site.data-month }}" data-day="{{ site.data-day }}" data-hour="{{ site.data-hour }}">
@@ -34,6 +36,11 @@ title: Volcamp 2025
                             <div class="syotimer__body"></div>
                             <div class="syotimer__footer"></div>
                         </div>
+                        {% else %}
+                        <div class="col-lg-6">
+                            <h2 class="font-weight-light">Merci pour votre <strong>participation</strong></h2>
+                        </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>
