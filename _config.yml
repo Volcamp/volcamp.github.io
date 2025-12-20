@@ -3,21 +3,21 @@ author: Geek&Terroir
 keywords: Volcamp, tech conference, conference, auvergne, clermont-fd, Geek&Terroir
 
 url: https://www.volcamp.io
-cfp-url: https://conference-hall.io/volcamp-2025
-ticket-url: https://www.billetweb.fr/volcamp-2025
+cfp-url: https://conference-hall.io/volcamp-2026
+ticket-url: https://www.billetweb.fr/volcamp-2026
 openfeedback-url: https://openfeedback.io/ip5uawISaJ66uRrHB8L5
 mode: none
 #cfp-ticket-feedback-none
 name: Volcamp
 
-day1: jeudi 02
-day2: vendredi 03
-month: octobre 2025
-data-year: 2025
+day1: jeudi 01
+day2: vendredi 02
+month: octobre 2026
+data-year: 2026
 data-month: 10
-data-day: 02
+data-day: 04
 data-hour: 09
-realdate: 2025-10-02
+realdate: 2026-10-01
 
 exclude:
   - README.md
