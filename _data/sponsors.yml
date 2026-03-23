@@ -6,4 +6,7 @@ silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
     logo: agaetis
+  - name: Limagrain
+    url: https://www.limagrain.com/
+    logo: limagrain
 bronze:
