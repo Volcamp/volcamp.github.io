@@ -4,7 +4,7 @@ title: Volcamp - Programme
 custom_css: talks/stylesheet.css
 ---
 
-<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+<section class="page-header" style="background-image:url(/asset/images/chainedespuys_header.jpg);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
