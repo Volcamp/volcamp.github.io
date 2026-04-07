@@ -12,4 +12,7 @@ silver:
   - name: NSE Groupe
     url: https://www.nse-groupe.com/
     logo: nse
+  - name: SensioLabs
+    url: https://sensiolabs.com/fr/
+    logo: sensiolabs
 bronze:
