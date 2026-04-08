@@ -16,3 +16,6 @@ silver:
     url: https://sensiolabs.com/fr/
     logo: sensiolabs
 bronze:
+  - name: Datalyo
+    url: http://www.datalyo.com/
+    logo: datalyo
