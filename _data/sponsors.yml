@@ -15,6 +15,9 @@ silver:
   - name: SensioLabs
     url: https://sensiolabs.com/fr/
     logo: sensiolabs
+  - name: TeamIT
+    url: https://www.team-it.fr/
+    logo: teamit
 bronze:
   - name: Datalyo
     url: http://www.datalyo.com/
