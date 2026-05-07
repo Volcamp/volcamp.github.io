@@ -2,6 +2,9 @@ gold:
   - name: michelin
     url: https://www.michelin.fr/
     logo: michelin
+  - name: CGI
+    url: https://www.cgi.com/
+    logo: cgi
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
