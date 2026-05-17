@@ -26,5 +26,8 @@ silver:
     logo: synchrone
 bronze:
   - name: Datalyo
-    url: http://www.datalyo.com/
+    url: https://www.datalyo.com/
     logo: datalyo
+  - name: abicom
+    url: https://www.abicom.fr//
+    logo: abicom
