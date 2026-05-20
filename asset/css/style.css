@@ -411,7 +411,6 @@ p { line-height: 1.8; margin-bottom: 1rem; }
 
 /* ── Speaker cards ─────────────────────────────────────────── */
 .speaker-block { transition: transform var(--t); }
-.speaker-block:hover { transform: translateY(-4px); }
 
 .speaker-block .img-block {
     position: relative;
@@ -466,7 +465,7 @@ p { line-height: 1.8; margin-bottom: 1rem; }
 .speaker-block .speaker-social li a.lnked:hover { background: #0855a1; }
 
 .speaker-info { padding-top: .625rem; }
-.speaker-info h4 { font-size: .9375rem; font-weight: 600; color: var(--slate); margin-bottom: .25rem; }
+.speaker-info h4 { font-size: 1.2375rem; font-weight: 600; color: var(--slate); margin-bottom: .25rem; }
 .speaker-info p { font-size: .8125rem; color: var(--muted); line-height: 1.5; }
 
 /* ── Sponsors section (dark) ───────────────────────────────── */
