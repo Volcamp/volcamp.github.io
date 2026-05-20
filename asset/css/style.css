@@ -536,7 +536,7 @@ p { line-height: 1.8; margin-bottom: 1rem; }
 .package ul li { padding: 7px 0; color: var(--text); font-size: .875rem; border-bottom: 1px solid var(--border); }
 .package ul li:last-child { border-bottom: none; }
 .package .pname {
-    margin: -24px auto 20px;
+    margin: -40px auto 20px;
     width: 52%;
     padding: 7px 16px;
     border-radius: 25px;
@@ -670,13 +670,60 @@ h4.style-3 { color: #9F7A34; }
 }
 .blog-article img { width: 100%; border-radius: var(--radius); }
 
-/* ── Orga team ─────────────────────────────────────────────── */
-img.orga {
-    border-radius: 50%;
-    max-width: 112px;
-    margin-bottom: 16px;
+/* ── Orga / Crew cards ─────────────────────────────────────── */
+.crew-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 24px 16px 20px;
+    background: var(--cool-gray);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: transform var(--t), box-shadow var(--t);
 }
-p.orgasocial { font-size: .8rem; margin-top: 6px; color: var(--muted); }
+.crew-avatar {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 14px;
+    border: 3px solid #fff;
+    box-shadow: var(--shadow-sm);
+}
+.crew-name {
+    font-size: .9375rem;
+    font-weight: 600;
+    color: var(--text);
+    margin: 0 0 10px;
+}
+.crew-social {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.crew-social a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: #fff;
+    color: var(--muted);
+    font-size: .875rem;
+    transition: color var(--t), background var(--t);
+    text-decoration: none;
+    padding-top: 4px;
+}
+.crew-social a.tw:hover {
+    background: black;
+    color: #fff;
+}
+.crew-social a.lnked:hover {
+    background: rgb(40, 110, 241);
+    color: #fff;
+}
 
 /* ── Misc helpers ──────────────────────────────────────────── */
 .box-shadow   { box-shadow: var(--shadow-md); }
@@ -734,7 +781,7 @@ iframe.maps   { margin-bottom: 20px; border: none; }
     color: rgba(255,255,255,.45);
     transition: color var(--t);
 }
-.footer-socails a:hover i { color: var(--green); }
+.footer-socails a:hover i { color: #fff; }
 .logo_footer { margin-bottom: 32px; }
 .footer-text {
     text-align: center;
@@ -752,7 +799,7 @@ iframe.maps   { margin-bottom: 20px; border: none; }
 .footer-text ul { list-style: none; padding-left: 0; margin: 0; }
 .footer-text ul li { margin-bottom: .625rem; }
 .footer-text a { color: rgba(255,255,255,.5); transition: color var(--t); }
-.footer-text a:hover { color: var(--green); }
+.footer-text a:hover { color: #fff;}
 .copy { font-size: .75rem; color: rgba(255,255,255,.25); }
 .copy.border-top { border-top: 1px solid rgba(255,255,255,.06) !important; }
 .copy a { color: rgb(255, 255, 255); }
