@@ -1,172 +1,258 @@
+/* ── Agenda — variables locales (hérite du site) ───────────── */
+/* Les variables --green, --slate, --cool-gray, etc. viennent de style.css */
+
+/* ── Table de base ─────────────────────────────────────────── */
 table {
-  margin-top: 10px;
-  margin-bottom: 50px;
-  border-spacing: 10px;
+  margin-top: 8px;
+  margin-bottom: 48px;
+  border-spacing: 6px;
   border-collapse: unset;
+  width: 100%;
 }
 
 th, td {
-  border-radius:10px;
-  border-collapse: collapse;
+  border-radius: 8px;
   text-align: center;
-  color: #444444;
+  color: #334155;
 }
 
+/* ── En-têtes de tracks ────────────────────────────────────── */
+thead th {
+  font-size: .6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: #94a3b8;
+  padding: 10px 6px;
+  border-radius: 8px;
+  background: #f1f5f9;
+}
+thead th.csched { background: transparent; }
+
+/* ── Colonne horaire ───────────────────────────────────────── */
 .schedule {
-  border: 0px;
+  border: 0;
   text-align: center;
-  color: #9a9a93;
+  color: #94a3b8;
+  font-size: .8rem;
+  white-space: nowrap;
+  vertical-align: top;
+  padding-top: 10px;
 }
 
+.csched       { width: 5%; }
+.ctrack1,
+.ctrack2,
+.ctrack3,
+.ctrack4      { width: 23.75%; }
+
+/* ── Cellules de pause ─────────────────────────────────────── */
 .break {
-  background-color: #dbd8d8;
-  color: #757575;
+  background-color: #e2e8f0;
+  color: #64748b;
+  position: relative;
+  overflow: hidden;
 }
-.break h3{color: #fff;}
-.ptidej{
+
+.break h3 {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: .05em;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 1px 4px rgba(0,0,0,.4);
+}
+
+.break .slot_info {
+  position: relative;
+  z-index: 1;
+  color: rgba(255,255,255,.85);
+}
+
+/* Overlay sombre sur les images de fond */
+.ptidej::before,
+.dej::before,
+.pause::before,
+.party::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 23, 42, .45);
+  border-radius: 8px;
+}
+
+.ptidej {
   background-image: url(/asset/images/ptidej.jpg);
-  height: 180px;
+  background-size: cover;
+  background-position: center;
+  height: 160px;
   color: #fff;
 }
-.dej{
+
+.dej {
   background-image: url(/asset/images/dej.jpg);
-  height: 180px;
+  background-size: cover;
+  background-position: center;
+  height: 160px;
   color: #fff;
 }
-.pause{
+
+.pause {
   background-image: url(/asset/images/pause.jpg);
+  background-size: cover;
+  background-position: center;
   color: #fff;
 }
-.party{
+
+.party {
   background-image: url(/asset/images/party.jpg);
+  background-size: cover;
+  background-position: center;
   color: #fff;
-  height: 180px;
+  height: 160px;
 }
 
-.slot_info{
-  border-radius: 0 0 10px 10px;
-  text-align: left;
-  padding-left: 10px;
-  font-size: 0.9em;
-}
-.slot_info ul{
-  list-style: none;
-  margin-top: 10px;
-  padding-left: 4px;
-}
-.csched{width: 4%;}
-.ctrack1, .ctrack2, .ctrack3, .ctrack3 {width: 24%;}
-
-a.talk{
+/* ── Cards de talks ────────────────────────────────────────── */
+a.talk {
   display: flex;
   flex-direction: column;
-  border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.04);
   text-decoration: none;
-  color: #9a9a93;
+  color: #334155;
   min-height: 270px;
+  transition: transform .2s ease, box-shadow .2s ease;
+  overflow: hidden;
 }
-a.talk:hover{
+
+a.talk:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,0,0,.10);
+  color: #334155;
   text-decoration: none;
-  color: #9a9a93;
-}
-a.ws_am{
-  min-height: 645px;
-}
-a.ws_pm{
-  min-height: 550px;
-}
-.legende{
-  display: flex;
-  flex-wrap: wrap;
-  margin: 1rem;
-  font-size: 0.9em;
-}
-.legend_item{
-  display: flex;
-  flex-wrap: wrap;
-  font-size:1em;
 }
 
+a.ws_am { min-height: 630px; }
+a.ws_pm { min-height: 540px; }
+
+/* ── Barre de catégorie ────────────────────────────────────── */
 .all_theme {
-  border-radius: 10px 10px 0 0;
-  padding-top: 10px;
-  min-height: 90px;
-  padding-left: 5px;
-  padding-right: 5px;
-  font-size: 0.9em;
+  border-radius: 8px 8px 0 0;
+  padding: 12px 8px 10px;
+  min-height: 80px;
+  font-size: .8125rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #fff;
 }
 
-.theme_key {
-  color: #572019;
-  background-color: #fc5a45;
-  border-color: #fc5a45;
+/* ── Palette catégories — version moderne ──────────────────── */
+.theme_key   { background-color: #ef4444; color: #fff; }   /* Keynote       — rouge   */
+.theme_lang  { background-color: #f59e0b; color: #fff; }   /* Lang & FW     — amber   */
+.theme_big   { background-color: #22c55e; color: #fff; }   /* Data & AI     — vert    */
+.theme_web   { background-color: #14b8a6; color: #fff; }   /* Sustainable   — teal    */
+.theme_archi { background-color: #6366f1; color: #fff; }   /* Archi/Sécu    — indigo  */
+.theme_devops{ background-color: #a855f7; color: #fff; }   /* DevOps/Cloud  — purple  */
+.theme_cloud { background-color: #a855f7; color: #fff; }   /* (alias)       — purple  */
+.theme_ux    { background-color: #f43f5e; color: #fff; }   /* UX/UI         — rose    */
+.theme_decouv{ background-color: #78716c; color: #fff; }   /* Découverte    — warm gray*/
+
+/* ── Infos du slot ─────────────────────────────────────────── */
+.slot_info {
+  border-radius: 0 0 8px 8px;
+  text-align: left;
+  padding: 0 10px 10px;
+  font-size: .85rem;
+  flex: 1;
 }
-.theme_lang {
-  color: #57411e;
-  background-color: #dca242;
-  border-color: #dca242;
+
+.slot_info ul {
+  list-style: none;
+  margin-top: 8px;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
 }
-.theme_big {
-  color: #244428;
-  background-color: #89fa98;
-  border-color: #89fa98;
+
+.slot_info ul li {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  line-height: 1.4;
 }
-.theme_web {
-  color: #154e4c;
-  background-color: #33bab5;
-  border-color: #33bab5;
+
+.slot_info ul li i {
+  color: #22c55e;
+  flex-shrink: 0;
 }
-.theme_archi {
-  color: #1f2e4b;
-  background-color: #4b78cb;
-  border-color: #4b78cb;
+
+/* ── Légende ───────────────────────────────────────────────── */
+.legende {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 2rem;
+  padding: 14px 16px;
+  background: #f1f5f9;
+  border-radius: 8px;
+  font-size: .8125rem;
 }
-.theme_cloud {
-  color: #2c0e27;
-  background-color: #bf3fa7;
-  border-color: #bf3fa7;
+
+.legend_item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: .8125rem;
+  color: #334155;
+  font-weight: 500;
 }
-.theme_devops {
-  color: #523f12;
-  background-color: #ffe5a8;
-  border-color: #ffe5a8;
-}
-.theme_ux {
-  color: #503236;
-  background-color: #ff94a4;
-  border-color: #ff94a4;
-}
-.theme_decouv {
-  color: #4d3b32;
-  background-color: #af7e66;
-  border-color: #af7e66;
-}
-.bullet{
-  width: 1em;
-  min-width: 1em;
-  height: 1em;
-  min-height: 1em;
+
+.bullet {
+  width: 12px;
+  min-width: 12px;
+  height: 12px;
+  min-height: 12px;
   display: inline-block;
-  border-radius: 100%;
-  margin-right: 8px;
-  margin-top: 4px;
-  margin-left: 15px;
+  border-radius: 3px;
+  margin: 0;
+  flex-shrink: 0;
 }
-@media(max-width:767px) {
-  .schedule, .csched{display: none;}
-  .ctrack1, .ctrack2, .ctrack3 {width: 33%;}
-  .slot_info{
-    font-size: 0.6em;
+
+/* ── Responsive : mobile ───────────────────────────────────── */
+@media (max-width: 767px) {
+  /* Scroll horizontal plutôt que colonnes étriquées */
+  .row > .col-lg-12,
+  .container > .row {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
-  .legend_item{
-    font-size: 0.7em;
+
+  table {
+    min-width: 520px;
+    border-spacing: 4px;
   }
+
+  .schedule, .csched { display: none; }
+
+  .ctrack1, .ctrack2, .ctrack3, .ctrack4 { width: 33%; }
+
   .all_theme {
-    font-size: 0.7em;
-    min-height: 110px;
+    font-size: .6875rem;
+    min-height: 70px;
+    padding: 8px 6px;
   }
-  a.ws_pm {
-    min-height: 539px;
-  }
+
+  .slot_info { font-size: .6875rem; }
+
+  a.talk { min-height: 220px; }
+  a.ws_am { min-height: 540px; }
+  a.ws_pm { min-height: 460px; }
+
+  .legende { gap: 6px; padding: 10px 12px; }
+  .legend_item { font-size: .6875rem; }
+  .bullet { width: 10px; min-width: 10px; height: 10px; min-height: 10px; }
 }
