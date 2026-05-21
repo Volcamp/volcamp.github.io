@@ -875,3 +875,33 @@ iframe.maps   { margin-bottom: 20px; border: none; }
 @media screen {
     .time-table .content-img img { width: 72px; }
 }
+
+/* ── Légende agenda ────────────────────────────────────────── */
+.legende {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    margin: 1.5rem 0 2rem;
+    padding: 14px 16px;
+    background: #f1f5f9;
+    border-radius: 8px;
+}
+
+.legend_item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: .8125rem;
+    color: #334155;
+    font-weight: 500;
+    width: auto;
+    max-width: none;
+}
+
+.bullet {
+    width: 12px;
+    min-width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    display: inline-block;
+}

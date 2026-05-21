@@ -209,6 +209,8 @@ a.ws_pm { min-height: 540px; }
   font-size: .8125rem;
   color: #334155;
   font-weight: 500;
+  width: auto;
+  max-width: none;
 }
 
 .bullet {
