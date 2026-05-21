@@ -222,36 +222,85 @@ a.ws_pm { min-height: 540px; }
   flex-shrink: 0;
 }
 
-/* ── Responsive : mobile ───────────────────────────────────── */
-@media (max-width: 767px) {
-  /* Scroll horizontal plutôt que colonnes étriquées */
-  .row > .col-lg-12,
-  .container > .row {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
+/* ── Vue mobile : onglets par track ────────────────────────── */
+.agenda-mobile { margin-top: 8px; }
 
-  table {
-    min-width: 520px;
-    border-spacing: 4px;
-  }
+.agenda-mobile .nav-tabs {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 12px;
+  border-bottom-color: #e2e8f0;
+}
 
-  .schedule, .csched { display: none; }
+.agenda-mobile .nav-link {
+  font-size: .75rem;
+  font-weight: 600;
+  white-space: nowrap;
+  padding: 6px 12px;
+  color: #64748b;
+}
 
-  .ctrack1, .ctrack2, .ctrack3, .ctrack4 { width: 33%; }
+.agenda-mobile .nav-link.active {
+  color: #22c55e;
+  border-bottom-color: #22c55e;
+}
 
-  .all_theme {
-    font-size: .6875rem;
-    min-height: 70px;
-    padding: 8px 6px;
-  }
+.mobile-slot {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
 
-  .slot_info { font-size: .6875rem; }
+.mobile-slot-time {
+  font-size: .75rem;
+  color: #94a3b8;
+  white-space: nowrap;
+  width: 38px;
+  flex-shrink: 0;
+  padding-top: 10px;
+  text-align: right;
+}
 
-  a.talk { min-height: 220px; }
-  a.ws_am { min-height: 540px; }
-  a.ws_pm { min-height: 460px; }
+.mobile-slot > a.talk {
+  flex: 1;
+  min-height: 0;
+}
 
+.mobile-slot.mobile-break {
+  border-radius: 8px;
+  padding: 12px 14px;
+  min-height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.mobile-slot.mobile-break h3 {
+  color: #fff;
+  font-size: .9rem;
+  font-weight: 700;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 1px 4px rgba(0,0,0,.4);
+}
+
+.mobile-slot.mobile-break .slot_info {
+  position: relative;
+  z-index: 1;
+  color: rgba(255,255,255,.85);
+  padding: 0;
+  font-size: .75rem;
+}
+
+.mobile-slot.mobile-break .slot_info ul { margin-top: 4px; }
+
+@media (max-width: 991px) {
   .legende { gap: 6px; padding: 10px 12px; }
   .legend_item { font-size: .6875rem; }
   .bullet { width: 10px; min-width: 10px; height: 10px; min-height: 10px; }
