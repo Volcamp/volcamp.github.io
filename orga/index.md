@@ -36,7 +36,7 @@ title: Volcamp - L'équipe
         {% assign members = site.data.crew | sort_natural: 'name' %}{% for member in members %}
             <div class="col-lg-3 col-sm-6">
                 <div class="crew-card">
-                    <img src="{{ site.url }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="crew-avatar">
+                    <img src="/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="crew-avatar">
                     <h5 class="crew-name">{{ member.name }}</h5>
                     <div class="crew-social">
                         {% if member.twitter != nil %}<a href="https://x.com/{{ member.twitter }}" class="tw" target="_blank" title="{{ member.twitter }}"><i class="icon-x"></i></a>{% endif %}

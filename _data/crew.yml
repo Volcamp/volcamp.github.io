@@ -33,11 +33,6 @@
   twitter: jegodard
   linkedin: jeromegodard
   photo: jgo.jpg
-- vha:
-  name: Virginie Hang
-  twitter: HngVirginie
-  linkedin: virginiehang
-  photo: vha.jpg
 - mch :
   name: Mathieu Chausse
   twitter: ChausseMathieu
@@ -113,3 +108,7 @@
   twitter: JR6315
   linkedin: julien-ribeyre-58512a31
   photo: jri.jpg
+- jmi:
+  name: Johanna Millet 
+  linkedin: johanna-millet-831a141ab
+  photo: jmi.png
