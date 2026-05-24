@@ -24,6 +24,9 @@ silver:
   - name: Synchrone
     url: https://www.synchrone.fr/
     logo: synchrone
+  - name: Aiven
+    url: https://aiven.io/
+    logo: aiven
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
