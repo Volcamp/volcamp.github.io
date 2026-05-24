@@ -27,6 +27,9 @@ silver:
   - name: Aiven
     url: https://aiven.io/
     logo: aiven
+  - name: Hesias
+    url: https://www.hesias.fr/
+    logo: hesias
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
