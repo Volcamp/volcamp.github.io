@@ -14,7 +14,7 @@ title: Volcamp - L'équipe
         </div>
     </div>
 </section>
-<section class="section-speaker section">
+<section class="section">
     <div class="container">
         <div class="row section-heading">
             <div class="col-lg-8">
@@ -25,21 +25,24 @@ title: Volcamp - L'équipe
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row mb-4">
             <div class="col-lg-12">
                 <p>
                 Volcamp est organisée par une équipe de bénévoles membres de Geek&Terroir, une association loi 1901, créée pour cet événement.
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row g-3">
         {% assign members = site.data.crew | sort_natural: 'name' %}{% for member in members %}
-            <div class="col-lg-4 mt30">
-                <img src="{{ site.url }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="float-left orga">{{ member.name }}
-                <p class="orgasocial">
-                {% if member.twitter != nil %}<a href="https://x.com/{{ member.twitter }}" class="tw" target="_blank"><i class="icon-x"></i>{{ member.twitter }}</a><br>{% endif %}
-                {% if member.linkedin != nil %}<a href="https://www.linkedin.com/in/{{ member.linkedin }}" class="lnked" target="_blank"><i class="icon-linkedin"></i>{{ member.linkedin }}</a>{% endif %}
-                </p>
+            <div class="col-lg-3 col-sm-6">
+                <div class="crew-card">
+                    <img src="{{ site.url }}/asset/images/orga/{{ member.photo }}" alt="{{ member.name }}" class="crew-avatar">
+                    <h5 class="crew-name">{{ member.name }}</h5>
+                    <div class="crew-social">
+                        {% if member.twitter != nil %}<a href="https://x.com/{{ member.twitter }}" class="tw" target="_blank" title="{{ member.twitter }}"><i class="icon-x"></i></a>{% endif %}
+                        {% if member.linkedin != nil %}<a href="https://www.linkedin.com/in/{{ member.linkedin }}" class="lnked" target="_blank" title="{{ member.linkedin }}"><i class="icon-linkedin"></i></a>{% endif %}
+                    </div>
+                </div>
             </div>
         {% endfor %}
         </div>
