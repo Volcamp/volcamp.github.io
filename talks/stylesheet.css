@@ -224,6 +224,37 @@ a.ws_pm { min-height: 540px; }
   flex-shrink: 0;
 }
 
+/* ── Tablist unique sticky (mobile) ────────────────────────── */
+.sticky-track-nav {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: #fff;
+  padding: 8px 15px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,.10);
+}
+
+.sticky-track-nav .nav-tabs {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  border-bottom-color: #e2e8f0;
+}
+
+.sticky-track-nav .nav-link {
+  font-size: .75rem;
+  font-weight: 600;
+  white-space: nowrap;
+  padding: 6px 12px;
+  color: #64748b;
+}
+
+.sticky-track-nav .nav-link.active {
+  color: #22c55e;
+  border-bottom-color: #22c55e;
+}
+
 /* ── Vue mobile : onglets par track ────────────────────────── */
 .agenda-mobile { margin-top: 8px; }
 

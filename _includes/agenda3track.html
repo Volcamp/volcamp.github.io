@@ -1,3 +1,21 @@
+<!-- Tablist unique sticky — visible sur mobile seulement -->
+<div class="d-lg-none sticky-track-nav" id="sticky-track-nav">
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link track-btn active" data-track="aud" type="button" role="tab">Auditorium</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link track-btn" data-track="show" type="button" role="tab">Showroom</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link track-btn" data-track="crea" type="button" role="tab">Créativité</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link track-btn" data-track="ws" type="button" role="tab">Workshop</button>
+        </li>
+    </ul>
+</div>
+
 <section class="section">
     <div class="container">
         <div class="row section-heading">
@@ -251,24 +269,10 @@
 
         <!-- Vue mobile : onglets par track -->
         <div class="d-lg-none agenda-mobile">
-            <ul class="nav nav-tabs" role="tablist">
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="d1-aud-tab" data-bs-toggle="tab" data-bs-target="#d1-aud" type="button" role="tab">Auditorium</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d1-show-tab" data-bs-toggle="tab" data-bs-target="#d1-show" type="button" role="tab">Showroom</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d1-crea-tab" data-bs-toggle="tab" data-bs-target="#d1-crea" type="button" role="tab">Créativité</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d1-ws-tab" data-bs-toggle="tab" data-bs-target="#d1-ws" type="button" role="tab">Workshop</button>
-                </li>
-            </ul>
             <div class="tab-content">
 
                 <!-- Auditorium -->
-                <div id="d1-aud" class="tab-pane fade show active" role="tabpanel">
+                <div id="d1-aud" class="tab-pane active" role="tabpanel" data-track="aud">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:00 - 09:00</li></ul></div>
@@ -341,7 +345,7 @@
                 </div><!-- /d1-aud -->
 
                 <!-- Showroom -->
-                <div id="d1-show" class="tab-pane fade" role="tabpanel">
+                <div id="d1-show" class="tab-pane" role="tabpanel" data-track="show">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:00 - 09:00</li></ul></div>
@@ -424,7 +428,7 @@
                 </div><!-- /d1-show -->
 
                 <!-- Créativité -->
-                <div id="d1-crea" class="tab-pane fade" role="tabpanel">
+                <div id="d1-crea" class="tab-pane" role="tabpanel" data-track="crea">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:00 - 09:00</li></ul></div>
@@ -502,7 +506,7 @@
                 </div><!-- /d1-crea -->
 
                 <!-- Workshop -->
-                <div id="d1-ws" class="tab-pane fade" role="tabpanel">
+                <div id="d1-ws" class="tab-pane" role="tabpanel" data-track="ws">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:00 - 09:00</li></ul></div>
@@ -790,24 +794,10 @@
 
         <!-- Vue mobile : onglets par track -->
         <div class="d-lg-none agenda-mobile">
-            <ul class="nav nav-tabs" role="tablist">
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="d2-aud-tab" data-bs-toggle="tab" data-bs-target="#d2-aud" type="button" role="tab">Auditorium</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d2-show-tab" data-bs-toggle="tab" data-bs-target="#d2-show" type="button" role="tab">Showroom</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d2-crea-tab" data-bs-toggle="tab" data-bs-target="#d2-crea" type="button" role="tab">Créativité</button>
-                </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="d2-ws-tab" data-bs-toggle="tab" data-bs-target="#d2-ws" type="button" role="tab">Workshop</button>
-                </li>
-            </ul>
             <div class="tab-content">
 
                 <!-- Auditorium -->
-                <div id="d2-aud" class="tab-pane fade show active" role="tabpanel">
+                <div id="d2-aud" class="tab-pane active" role="tabpanel" data-track="aud">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:30 - 09:00</li></ul></div>
@@ -876,7 +866,7 @@
                 </div><!-- /d2-aud -->
 
                 <!-- Showroom -->
-                <div id="d2-show" class="tab-pane fade" role="tabpanel">
+                <div id="d2-show" class="tab-pane" role="tabpanel" data-track="show">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:30 - 09:00</li></ul></div>
@@ -955,7 +945,7 @@
                 </div><!-- /d2-show -->
 
                 <!-- Créativité -->
-                <div id="d2-crea" class="tab-pane fade" role="tabpanel">
+                <div id="d2-crea" class="tab-pane" role="tabpanel" data-track="crea">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:30 - 09:00</li></ul></div>
@@ -1029,7 +1019,7 @@
                 </div><!-- /d2-crea -->
 
                 <!-- Workshop -->
-                <div id="d2-ws" class="tab-pane fade" role="tabpanel">
+                <div id="d2-ws" class="tab-pane" role="tabpanel" data-track="ws">
                     <div class="mobile-slot mobile-break ptidej">
                         <h3>Accueil Café</h3>
                         <div class="slot_info"><ul><li><i class="icon-clock"></i> 08:30 - 09:00</li></ul></div>
@@ -1080,6 +1070,34 @@
 
             </div><!-- /tab-content -->
         </div><!-- /mobile -->
+        <script>
+        (function () {
+            var nav = document.getElementById('sticky-track-nav');
+            if (!nav) return;
+            var btns = nav.querySelectorAll('.track-btn');
+            var panes = document.querySelectorAll('.tab-pane[data-track]');
+
+            btns.forEach(function (btn) {
+                btn.addEventListener('click', function () {
+                    var track = btn.dataset.track;
+                    var savedY = window.scrollY;
+
+                    btns.forEach(function (b) { b.classList.remove('active'); });
+                    btn.classList.add('active');
+
+                    panes.forEach(function (pane) {
+                        if (pane.dataset.track === track) {
+                            pane.classList.add('active');
+                        } else {
+                            pane.classList.remove('active');
+                        }
+                    });
+
+                    window.scrollTo(0, savedY);
+                });
+            });
+        })();
+        </script>
         <div class="row legende justify-content-center">
             <div class="legend_item"><span class="theme_key bullet"></span><span>Plénière</span></div>
             <div class="legend_item"><span class="theme_lang bullet"></span><span>Lang. & Frameworks</span></div>
