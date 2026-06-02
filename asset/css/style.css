@@ -426,6 +426,8 @@ p { line-height: 1.8; margin-bottom: 1rem; }
     background: linear-gradient(to top, rgba(15,23,42,.6) 0%, transparent 55%);
     opacity: 0;
     transition: opacity var(--t);
+    /* Fix to match over with the image size */
+    max-width: 350px;
 }
 .speaker-block .img-block:hover::after { opacity: 1; }
 .speaker-block .img-block:hover .speaker-social { opacity: 1; }
