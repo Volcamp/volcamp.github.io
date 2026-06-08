@@ -725,6 +725,21 @@ h4.style-3 { color: #9F7A34; }
     background: rgb(40, 110, 241);
     color: #fff;
 }
+.crew-social-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--green);
+    color: #fff;
+    font-size: .875rem;
+    text-decoration: none;
+    transition: background var(--t);
+    padding-top: 4px;
+}
+.crew-social-link:hover { background: var(--green-dark); color: #fff; }
 
 /* ── Misc helpers ──────────────────────────────────────────── */
 .box-shadow   { box-shadow: var(--shadow-md); }
