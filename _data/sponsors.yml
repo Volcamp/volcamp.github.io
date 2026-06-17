@@ -30,6 +30,9 @@ silver:
   - name: Hesias
     url: https://www.hesias.fr/
     logo: hesias
+  - name: akkodis
+    url: https://www.akkodis.com/fr/france
+    logo: akkodis
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
