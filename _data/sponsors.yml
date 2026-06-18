@@ -33,6 +33,9 @@ silver:
   - name: akkodis
     url: https://www.akkodis.com/fr/france
     logo: akkodis
+  - name: Sopra Steria
+    url: https://www.soprasteria.fr/
+    logo: soprasteria
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
