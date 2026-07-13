@@ -1,7 +1,7 @@
 ---
   title: Alexandre Touret
-  twitter: alexandre-touret.png
-  photo: none
+  twitter: none
+  photo: alexandre-touret.png
   linkedin: atouret
   github: alexandre-touret
   keynotes: false
