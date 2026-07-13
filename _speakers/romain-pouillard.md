@@ -1,5 +1,5 @@
 ---
-  title: Romain Pouilard
+  title: Romain Pouillard
   twitter: none
   photo: romain-pouillard.jpg
   linkedin: nropouillardone
