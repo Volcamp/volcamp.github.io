@@ -2,7 +2,7 @@
   title: Delphin Aubin
   twitter: none
   photo: none
-  linkedin: %E2%AD%90%EF%B8%8F-delphin-aubin-3858a243
+  linkedin: delphin-aubin-3858a243
   github: delphinaubin
   keynotes: false
   sitemap: false
