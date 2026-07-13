@@ -7,4 +7,4 @@
   keynotes: false
   sitemap: false
 ---
-Helping Devs build cool stuff, learn faster, and laugh along the way — one bug at a time.
+Il aide les développeurs à construire des trucs cools, à apprendre plus vite et à rire en chemin — un bug à la fois.

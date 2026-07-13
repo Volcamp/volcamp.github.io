@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Je suis un développeur passionné par tout ce qui façonne notre futur. Dans une vie antérieure, j’ai été pionnier de l'industrie du livre numérique et cofondateur de Bookeen. 
-Aujourd'hui explorateur cloud chez Google Paris, je parcours les frontières de l'innovation et prends un plaisir fou à partager le monde des possibles.
+Il est un développeur passionné par tout ce qui façonne notre futur. Dans une vie antérieure, il a été pionnier de l'industrie du livre numérique et cofondateur de Bookeen. 
+Aujourd'hui explorateur cloud chez Google Paris, il parcourt les frontières de l'innovation et prend un plaisir fou à partager le monde des possibles.

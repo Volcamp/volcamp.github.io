@@ -7,4 +7,4 @@
   keynotes: false
   sitemap: false
 ---
-Global Black Belt at Microsoft, helping teams make sense of cloud networking.
+Global Black Belt chez Microsoft, elle aide les équipes à y voir clair dans le cloud networking.

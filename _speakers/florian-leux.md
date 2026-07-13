@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Je suis Florian Leux, et je suis ingénieur frontend depuis 2014 !  Je travaille depuis 2022 chez BackMarket en tant que Senior Frontend Engineer. 
-En dehors du code, je suis illustrateur et j'aime inclure cette activités dans la création de présentations illustrées et immersives.
+Florian Leux est ingénieur frontend depuis 2014 !  Il travaille depuis 2022 chez BackMarket en tant que Senior Frontend Engineer. 
+En dehors du code, il est illustrateur et aime inclure cette activité dans la création de présentations illustrées et immersives.

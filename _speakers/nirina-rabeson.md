@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-I love solving problems as a fullstack engineer.  Currently thinking of ways to replace myself with AI 🤖 so that I could spend more time on singing, music, and with my lovely cat 🐈‍⬛  
-In my work, I focus less on who someone appears to be, and more on the values they demonstrate through their actions and decisions.
+Nirina adore résoudre des problèmes dans un rôle d'ingénieur·e fullstack. En ce moment, Nirina réfléchit à des moyens de se remplacer par l'IA 🤖 afin de pouvoir consacrer plus de temps au chant, à la musique et à son adorable chat 🐈‍⬛  
+Dans son travail, Nirina s'intéresse moins à l'apparence des gens qu'aux valeurs qu'ils démontrent à travers leurs actions et leurs décisions.

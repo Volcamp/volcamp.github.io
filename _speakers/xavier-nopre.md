@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Artisan-développeur, je suis passionné par le dev, le code, la technique, le devops, et le craft. J'aime produire du code de qualité dont je suis fier, pour un produit utile et utilisé, dans une équipe bienveillante qui aime s'améliorer en continue. 
-J'aime transmettre, partager et apprendre. Orateur en conférence et organisateur de coding-dojos.  Co-fondateur et président d'AlpesCraft.  Fan de montagne, de vélo, de théâtre d'impro et de batterie.
+Artisan-développeur, il est passionné par le dev, le code, la technique, le devops, et le craft. Il aime produire du code de qualité dont il est fier, pour un produit utile et utilisé, dans une équipe bienveillante qui aime s'améliorer en continu. 
+Il aime transmettre, partager et apprendre. Orateur en conférence et organisateur de coding-dojos.  Co-fondateur et président d'AlpesCraft.  Fan de montagne, de vélo, de théâtre d'impro et de batterie.

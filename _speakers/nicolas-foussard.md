@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Étudiant à l'INSA Lyon et Alternant au sein de la startup Alouette.IA, je suis passionné d'informatique depuis le lycée. Avec une expérience en alternance au sein du groupe Covéa, je m'intéresse tout particulièrement à la Data et l'IA depuis 2 ans maintenant, mais je reste curieux de tout ce qui existe et j'apprécie toujours explorer et partager mes découvertes ! 
-Je participe régulièrement à des concours de programmation : SWERC, 24H du Code, c0d1ngUP, 24H de l'Info... Et sur mon temps libre je fais du tennis, de la moto et je me suis mis depuis quelques temps au piano.
+Étudiant à l'INSA Lyon et alternant au sein de la startup Alouette.IA, il est passionné d'informatique depuis le lycée. Avec une expérience en alternance au sein du groupe Covéa, il s'intéresse tout particulièrement à la Data et l'IA depuis 2 ans maintenant, mais il reste curieux de tout ce qui existe et apprécie toujours explorer et partager ses découvertes ! 
+Il participe régulièrement à des concours de programmation : SWERC, 24H du Code, c0d1ngUP, 24H de l'Info... Et sur son temps libre il fait du tennis, de la moto et s'est mis depuis quelque temps au piano.

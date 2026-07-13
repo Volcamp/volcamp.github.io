@@ -7,7 +7,7 @@
   keynotes: false
   sitemap: false
 ---
-Aurélie Vache is a Developer Advocate at OVHcloud in Toulouse, France.  She is recognized as a Docker Captain, a CNCF ambassador, a Google Cloud Developer Expert & a Women techmarkers Ambassador.  
-She has been working as a Developer and Ops for over 20 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices.  Technical writer (dev.to/aurelievache), a book author & reviewer, a sketchnoter and a speaker at international conferences.  Creator and maintainer of https://developers.events/, a collaborative, open-source platform that aggregates & list developer/tech-focused conferences/events and call-for-papers (CFP) opportunities worldwide, helping speakers, organizers, sponsors and attendees.  
-She created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker/Kyverno in a visual way" in sketchnotes, books and videos.  
+Aurélie Vache est Developer Advocate chez OVHcloud à Toulouse, en France.  Elle est reconnue comme Docker Captain, ambassadrice CNCF, Google Cloud Developer Expert et Women techmakers Ambassador.  
+Elle travaille en tant que développeuse et Ops depuis plus de 20 ans. Passionnée de Cloud, elle promeut les bonnes pratiques DevOps/Cloud/Golang.  Rédactrice technique (dev.to/aurelievache), autrice et relectrice de livres, sketchnoteuse et conférencière lors de conférences internationales.  Créatrice et mainteneuse de https://developers.events/, une plateforme collaborative et open-source qui agrège et référence les conférences/événements et opportunités d'appels à conférenciers (CFP) axés sur les développeurs et la tech à travers le monde, aidant les conférenciers, organisateurs, sponsors et participants.  
+Elle a créé une nouvelle manière visuelle d'apprendre et de comprendre les technologies Cloud : « Understanding Kubernetes/Istio/Docker/Kyverno in a visual way » sous forme de sketchnotes, de livres et de vidéos.  
 Blog: https://dev.to/aurelievache/ YouTube: https://www.youtube.com/c/AurelieVache

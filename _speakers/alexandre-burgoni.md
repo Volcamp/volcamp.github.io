@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Site Reliabilty Engineer, je travaille avec des systèmes distribués au quotidien.    
-Je suis aussi co-organisateur de conférence (Sunny Tech) et de meetups sur Montpellier.
+Site Reliabilty Engineer, il travaille avec des systèmes distribués au quotidien.    
+Il est aussi co-organisateur de conférence (Sunny Tech) et de meetups sur Montpellier.

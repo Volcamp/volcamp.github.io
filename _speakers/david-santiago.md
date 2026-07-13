@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Tech enthusiast specializing in Cloud Networking, infrastructure and automation.  
+Passionné de tech, il est spécialisé dans le Cloud Networking, l'infrastructure et l'automatisation.  
 Cloud Solution Architect @Microsoft.

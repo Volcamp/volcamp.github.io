@@ -7,5 +7,5 @@
   keynotes: false
   sitemap: false
 ---
-Pierre is a Staff Engineer building data infrastructure at Clever Cloud. He has built and operated a variety of stateful distributed systems throughout his career.  
-He is interested in distributed systems, data stores, understanding how things works under the hood. He enjoy being part of open-source communities, through talks, posts, and contributions to HBase, Kafka, Pulsar, ETCD, FoundationDB.
+Pierre est Staff Engineer et construit de l'infrastructure de données chez Clever Cloud. Il a conçu et opéré une grande variété de systèmes distribués à état tout au long de sa carrière.  
+Il s'intéresse aux systèmes distribués, aux magasins de données et à la compréhension du fonctionnement des choses en profondeur. Il aime faire partie des communautés open-source, à travers des conférences, des articles et des contributions à HBase, Kafka, Pulsar, ETCD, FoundationDB.

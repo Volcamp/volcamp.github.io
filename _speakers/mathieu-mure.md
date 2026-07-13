@@ -9,4 +9,4 @@
 ---
 Staff engineer frontend @ Disneyland Paris.  
 Président du LyonJS. Organisateur du Devfest Lyon.  
-Je ❤️ le web et je ❤️ encore plus lorsque je peux partager ce que j'aime.
+Mathieu Mure ❤️ le web et ❤️ encore plus lorsqu'il peut partager ce qu'il aime.
