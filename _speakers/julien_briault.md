@@ -3,6 +3,7 @@
   twitter: ju_hnny5
   photo: julien_briault.jpg
   linkedin: julien-briault-441539137
+  github: none
   keynotes: true
   sitemap: false
 ---

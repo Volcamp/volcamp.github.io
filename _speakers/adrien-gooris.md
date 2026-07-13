@@ -1,0 +1,11 @@
+---
+  title: Adrien Gooris
+  twitter: murdockk59
+  photo: adrien-gooris.png
+  linkedin: none
+  github: none
+  keynotes: false
+  sitemap: false
+---
+Développeur Java depuis le tout début, je me suis de plus en plus rapproché de la ligne de commande jusqu'à devenir admin Kubernetes, puis Architecte pour la Software Supply Chain chez Michelin.  
+La dernière IHM digeste que j'ai développée, c'était en Java Swing.  Favorite Topics: Containers, Cloud, CICD, IaC, Dev, IA

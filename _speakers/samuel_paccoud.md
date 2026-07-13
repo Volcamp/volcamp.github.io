@@ -3,6 +3,7 @@
   twitter: none
   photo: samuel_paccoud.jpg
   linkedin: spaccoud
+  github: none
   keynotes: true
   sitemap: false
 ---

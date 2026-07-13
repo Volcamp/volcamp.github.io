@@ -725,6 +725,10 @@ h4.style-3 { color: #9F7A34; }
     background: rgb(40, 110, 241);
     color: #fff;
 }
+.crew-social a.gh:hover {
+    background: #0FBF3E;
+    color: #fff;
+}
 .crew-social-link {
     display: flex;
     align-items: center;
