@@ -5,6 +5,9 @@ gold:
   - name: CGI
     url: https://www.cgi.com/
     logo: cgi
+  - name: Accenture
+    url: https://www.accenture.com/fr-fr
+    logo: accenture
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
