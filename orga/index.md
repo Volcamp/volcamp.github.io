@@ -20,7 +20,7 @@ title: Volcamp - L'équipe
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Les Organisateurs</h2>
+                        <h2>Les organisateurs</h2>
                     </div>
                 </div>
             </div>
