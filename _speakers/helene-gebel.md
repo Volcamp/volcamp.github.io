@@ -1,8 +1,8 @@
 ---
   title: Hélène Gebel
   twitter: none
-  photo: none
-  linkedin: none
+  photo: helene-gebel.jpg
+  linkedin: hélène-gebel-70875541
   github: none
   keynotes: false
   sitemap: false
