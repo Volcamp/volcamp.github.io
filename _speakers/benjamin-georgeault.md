@@ -1,7 +1,7 @@
 ---
   title: Benjamin Georgeault
   twitter: wedgesama
-  photo: none
+  photo: benjamin-georgeault.png
   linkedin: benjamin-georgeault-67212172
   github: none
   keynotes: false

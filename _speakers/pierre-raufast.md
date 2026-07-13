@@ -1,7 +1,7 @@
 ---
-  title: pierre raufast
+  title: Pierre Raufast
   twitter: pierreraufast
-  photo: none
+  photo: pierre-raufast.jpg
   linkedin: none
   github: none
   keynotes: false

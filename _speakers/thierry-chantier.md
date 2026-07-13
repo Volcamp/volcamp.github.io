@@ -1,7 +1,7 @@
 ---
   title: Thierry Chantier
   twitter: none
-  photo: none
+  photo: thierry-chantier.png
   linkedin: thierrychantier
   github: titimoby
   keynotes: false

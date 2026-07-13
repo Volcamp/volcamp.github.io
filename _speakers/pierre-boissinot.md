@@ -1,7 +1,7 @@
 ---
   title: Pierre Boissinot
   twitter: none
-  photo: none
+  photo: pierre-boissinot.png
   linkedin: pierreboissinot
   github: pierreboissinot
   keynotes: false

@@ -1,10 +1,13 @@
 ---
   title: Marc Chevaldonné
   twitter: none
-  photo: none
-  linkedin: none
+  photo: marc-chevaldonne.jpg
+  linkedin: marc-chevaldonné-8902a0205
   github: pardaillanLeRouge
   keynotes: false
   sitemap: false
 ---
-Je suis enseignant-chercheur en informatique à l’Université Clermont Auvergne.  J’ai travaillé quelques années dans le privé dans le domaine de la capture de mouvements, de la Réalité Virtuelle et de la Réalité Augmentée, dans des PME ou des grands groupes, en France et en Italie. Maintenant j’enseigne à l’IUT la programmation orientée objets et l’architecture logicielle, et je fais mes travaux de recherche en RV & RA à l’Institut Pascal à Clermont-Ferrand.  J’aime programmer (mobile, .NET, iOS…), lire de la SF, écouter du jazz, programmer, faire du vélo et du tennis, les chats, programmer, les jeux de société et l’histoire de l’informatique.
+Je suis enseignant-chercheur en informatique à l’Université Clermont Auvergne.  
+J’ai travaillé quelques années dans le privé dans le domaine de la capture de mouvements, de la Réalité Virtuelle et de la Réalité Augmentée, dans des PME ou des grands groupes, en France et en Italie. 
+Maintenant j’enseigne à l’IUT la programmation orientée objets et l’architecture logicielle, et je fais mes travaux de recherche en RV & RA à l’Institut Pascal à Clermont-Ferrand.  
+J’aime programmer (mobile, .NET, iOS…), lire de la SF, écouter du jazz, programmer, faire du vélo et du tennis, les chats, programmer, les jeux de société et l’histoire de l’informatique.

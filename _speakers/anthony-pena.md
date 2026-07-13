@@ -1,7 +1,7 @@
 ---
   title: Anthony Pena
   twitter: _Anthony_Pena
-  photo: none
+  photo: anthony-pena.jpg
   linkedin: none
   github: kuroidoruido
   keynotes: false

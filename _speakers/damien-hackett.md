@@ -1,8 +1,8 @@
 ---
-  title: Damien HACKETT
+  title: Damien Hackett
   twitter: none
-  photo: none
-  linkedin: none
+  photo: damien-hackett.jpg
+  linkedin: damien-hackett-34aa0662
   github: none
   keynotes: false
   sitemap: false

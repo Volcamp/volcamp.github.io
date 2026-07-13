@@ -1,7 +1,7 @@
 ---
   title: Arnaud Jean
   twitter: TheWitcherish
-  photo: none
+  photo: arnaud-jean.jpg
   linkedin: TheWitcherish
   github: TheWitcherish
   keynotes: false

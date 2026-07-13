@@ -1,8 +1,8 @@
 ---
   title: Cynthia Treger
   twitter: cynthiatreger
-  photo: none
-  linkedin: none
+  photo: cynthia-treger.jpg
+  linkedin: cynthia-treger-6663402
   github: cynthiatreger
   keynotes: false
   sitemap: false
