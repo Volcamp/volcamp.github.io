@@ -34,6 +34,7 @@ title: Volcamp - Les intervenants
                     <h5 class="crew-name">{{ speaker.title }}</h5>
                     <div class="crew-social">
                         {% if speaker.twitter != 'none' %}<a href="https://x.com/{{ speaker.twitter }}" class="tw" target="_blank" title="{{ speaker.twitter }}"><i class="icon-x"></i></a>{% endif %}
+                        {% if speaker.github != 'none' %}<a href="https://www.github.com/{{ speaker.github }}" class="gh" target="_blank" title="{{ speaker.github }}"><i class="icon-github"></i></a>{% endif %}
                         {% if speaker.linkedin != 'none' %}<a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked" target="_blank" title="{{ speaker.linkedin }}"><i class="icon-linkedin"></i></a>{% endif %}
                     </div>
                     <a href="{{ speaker.url }}" class="crew-social-link mt-3" title="Voir la fiche"><i class="icon-mic"></i></a>
@@ -47,6 +48,7 @@ title: Volcamp - Les intervenants
                     <h5 class="crew-name">{{ speaker.title }}</h5>
                     <div class="crew-social">
                         {% if speaker.twitter != 'none' %}<a href="https://x.com/{{ speaker.twitter }}" class="tw" target="_blank" title="{{ speaker.twitter }}"><i class="icon-x"></i></a>{% endif %}
+                        {% if speaker.github != 'none' %}<a href="https://www.github.com/{{ speaker.github }}" class="gh" target="_blank" title="{{ speaker.github }}"><i class="icon-github"></i></a>{% endif %}
                         {% if speaker.linkedin != 'none' %}<a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked" target="_blank" title="{{ speaker.linkedin }}"><i class="icon-linkedin"></i></a>{% endif %}
                     </div>
                     <a href="{{ speaker.url }}" class="crew-social-link mt-3" title="Voir la fiche"><i class="icon-mic"></i></a>
