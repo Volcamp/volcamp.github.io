@@ -1,0 +1,969 @@
+{
+"sessions": {
+  "d1t1k1": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "Intro Volcamp 2026",
+    "id": "d1t1k1",
+    "startTime": "2026-10-01T09:00:00+02:00",
+    "endTime": "2026-10-01T09:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1k2": {
+    "speakers": [
+  "Samuel Paccoud"
+],
+    "title": "Keynote jour 1",
+    "id": "d1t1k2",
+    "startTime": "2026-10-01T09:15:00+02:00",
+    "endTime": "2026-10-01T10:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s1": {
+    "speakers": [
+  "Olivier Poncet"
+],
+    "title": "Bit Twiddling, Duff's Device ... Les optimisations extrêmes de code",
+    "id": "d1t1s1",
+    "startTime": "2026-10-01T10:15:00+02:00",
+    "endTime": "2026-10-01T11:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s2": {
+    "speakers": [
+  "Aurélie Vache"
+],
+    "title": "J'ai packagé mon application en image Docker, et maintenant ?",
+    "id": "d1t1s2",
+    "startTime": "2026-10-01T11:30:00+02:00",
+    "endTime": "2026-10-01T12:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s5": {
+    "speakers": [
+  "Florent Zara"
+],
+    "title": "C'est qui le patron ? Comprendre la gouvernance des projets Open Source.",
+    "id": "d1t1s5",
+    "startTime": "2026-10-01T13:30:00+02:00",
+    "endTime": "2026-10-01T14:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s6": {
+    "speakers": [
+  "Adrien Gooris",
+  "Lucas Drago"
+],
+    "title": "Ma plateforme DevOps est devenu intelligente - récit d'une agentification sur-mesure",
+    "id": "d1t1s6",
+    "startTime": "2026-10-01T14:30:00+02:00",
+    "endTime": "2026-10-01T15:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s7": {
+    "speakers": [
+  "Charles Sabourdin",
+  "Jean-Michel Doudoux"
+],
+    "title": "Java et Kubernetes - les conseils de l'oncle Charles (et Jean-Michel)",
+    "id": "d1t1s7",
+    "startTime": "2026-10-01T15:45:00+02:00",
+    "endTime": "2026-10-01T16:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s8": {
+    "speakers": [
+  "Guenaelle De Julis"
+],
+    "title": "Profiler les bots comme un ailier analyse une mêlée",
+    "id": "d1t1s8",
+    "startTime": "2026-10-01T16:45:00+02:00",
+    "endTime": "2026-10-01T17:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t1s9": {
+    "speakers": [
+  "Pierre Fervel"
+],
+    "title": "Rejouer une partie, rejouer le système de la matrice - des replays de jeux vidéo à l’event sourcing",
+    "id": "d1t1s9",
+    "startTime": "2026-10-01T17:45:00+02:00",
+    "endTime": "2026-10-01T18:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d1t2s1": {
+    "speakers": [
+  "Cynthia Treger",
+  "David Santiago"
+],
+    "title": "Tic-Tac... 💣! Maîtrisez le temps et NTP avant qu'il ne soit trop tard",
+    "id": "d1t2s1",
+    "startTime": "2026-10-01T10:15:00+02:00",
+    "endTime": "2026-10-01T11:00:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s2": {
+    "speakers": [
+  "Pierre Tachoire"
+],
+    "title": "Lightpanda, le browser web headless, épisode 3",
+    "id": "d1t2s2",
+    "startTime": "2026-10-01T11:30:00+02:00",
+    "endTime": "2026-10-01T12:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s3": {
+    "speakers": [
+  "Lucie Termignon"
+],
+    "title": "Fichiers (LaSuite) - état des lieux, enjeux, perspectives",
+    "id": "d1t2s3",
+    "startTime": "2026-10-01T12:30:00+02:00",
+    "endTime": "2026-10-01T12:45:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s4": {
+    "speakers": [
+  "Nirina Rabeson"
+],
+    "title": "Comment créer une extension de navigateur en 2026 ?",
+    "id": "d1t2s4",
+    "startTime": "2026-10-01T13:00:00+02:00",
+    "endTime": "2026-10-01T13:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s5": {
+    "speakers": [
+  "Marc Chevaldonné"
+],
+    "title": "Mémoire à tores de ferrites - histoire et démonstration",
+    "id": "d1t2s5",
+    "startTime": "2026-10-01T13:30:00+02:00",
+    "endTime": "2026-10-01T14:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s6": {
+    "speakers": [
+  "Mathieu Mure",
+  "Mickael Alves"
+],
+    "title": "MCP UI, React et LLM - comment créer son App dans Claude & ChatGPT",
+    "id": "d1t2s6",
+    "startTime": "2026-10-01T14:30:00+02:00",
+    "endTime": "2026-10-01T15:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s7": {
+    "speakers": [
+  "Mickael Faust"
+],
+    "title": "IA souveraine - de la théorie DSI à la réalité du terrain avec Mistral",
+    "id": "d1t2s7",
+    "startTime": "2026-10-01T15:45:00+02:00",
+    "endTime": "2026-10-01T16:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s8": {
+    "speakers": [
+  "Hélène Gebel",
+  "Yann Gloriau"
+],
+    "title": "Ethics as Code - Mettre l'éthique en prod",
+    "id": "d1t2s8",
+    "startTime": "2026-10-01T16:45:00+02:00",
+    "endTime": "2026-10-01T17:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t2s9": {
+    "speakers": [
+  "Delphin Aubin",
+  "Lucas Audart"
+],
+    "title": "Ils sont fous chez TanStack, ils ont mis une DB dans le front ! 🤯",
+    "id": "d1t2s9",
+    "startTime": "2026-10-01T17:45:00+02:00",
+    "endTime": "2026-10-01T18:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d1t3s1": {
+    "speakers": [
+  "Coenen Benjamin"
+],
+    "title": "Et si on ouvrait le capot de PostgreSQL ?",
+    "id": "d1t3s1",
+    "startTime": "2026-10-01T10:15:00+02:00",
+    "endTime": "2026-10-01T11:00:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s2": {
+    "speakers": [
+  "Jérôme Masson"
+],
+    "title": "Mes 1001 Heures avec Vault -  De Vault à OpenBao, récits de survie d'un SRE",
+    "id": "d1t3s2",
+    "startTime": "2026-10-01T11:30:00+02:00",
+    "endTime": "2026-10-01T12:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s3": {
+    "speakers": [
+  "Thomas Jouve"
+],
+    "title": "Toi aussi lance toi et contribue à un projet open source !",
+    "id": "d1t3s3",
+    "startTime": "2026-10-01T12:30:00+02:00",
+    "endTime": "2026-10-01T12:45:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s4": {
+    "speakers": [
+  "Nicolas Foussard"
+],
+    "title": "Sécurité des LLM - Comprendre les risques pour mieux s’en protéger",
+    "id": "d1t3s4",
+    "startTime": "2026-10-01T13:00:00+02:00",
+    "endTime": "2026-10-01T13:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s5": {
+    "speakers": [
+  "Pierre Boissinot"
+],
+    "title": "On a arrêté de bricoler nos specs - ce que l'IA a changé dans notre façon de travailler en petite équipe",
+    "id": "d1t3s5",
+    "startTime": "2026-10-01T13:30:00+02:00",
+    "endTime": "2026-10-01T14:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s6": {
+    "speakers": [
+  "Damien Hackett"
+],
+    "title": "Ce que les développeurs haut niveau peuvent (re)apprendre des dev embarqués",
+    "id": "d1t3s6",
+    "startTime": "2026-10-01T14:30:00+02:00",
+    "endTime": "2026-10-01T15:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s7": {
+    "speakers": [
+  "Virginie Pageaud"
+],
+    "title": "🎮 Les quêtes secondaires, ça n'est pas que dans les jeux vidéo !",
+    "id": "d1t3s7",
+    "startTime": "2026-10-01T15:45:00+02:00",
+    "endTime": "2026-10-01T16:30:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t3s8": {
+    "speakers": [
+  "Xavier Gorse"
+],
+    "title": "La documentation, ce nouveau langage de programmation",
+    "id": "d1t3s8",
+    "startTime": "2026-10-01T16:45:00+02:00",
+    "endTime": "2026-10-01T17:30:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d1t4s1": {
+    "speakers": [
+  "Anthony Pena",
+  "Yann-Thomas Le Moigne"
+],
+    "title": "Vous croyez connaître Git ? Challenge Accepted",
+    "id": "d1t4s1",
+    "startTime": "2026-10-01T10:15:00+02:00",
+    "endTime": "2026-10-01T12:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d1t4s5": {
+    "speakers": [
+  "Arnaud Jean"
+],
+    "title": "Create Your Own Role-Playing Game with Agentic AI using Spring AI / Créer son propre Jeu de Rôle en Agentic AI avec Spring AI",
+    "id": "d1t4s5",
+    "startTime": "2026-10-01T13:30:00+02:00",
+    "endTime": "2026-10-01T15:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d1t4s7": {
+    "speakers": [
+  "Laurent Picard"
+],
+    "title": "Atelier LLM - Générations avancées - Multimodalité & contexte étendu",
+    "id": "d1t4s7",
+    "startTime": "2026-10-01T15:45:00+02:00",
+    "endTime": "2026-10-01T17:30:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t1k1": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "L'intro Volcamp",
+    "id": "d2t1k1",
+    "startTime": "2026-10-02T09:00:00+02:00",
+    "endTime": "2026-10-02T09:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1k2": {
+    "speakers": [
+  "Julien Briault"
+],
+    "title": "Keynote jour 2",
+    "id": "d2t1k2",
+    "startTime": "2026-10-02T09:15:00+02:00",
+    "endTime": "2026-10-02T10:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1k3": {
+    "speakers": [
+  "Volcamp team"
+],
+    "title": "Cloture",
+    "id": "d2t1k3",
+    "startTime": "2026-10-02T17:35:00+02:00",
+    "endTime": "2026-10-02T17:45:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s1": {
+    "speakers": [
+  "Horacio Gonzalez"
+],
+    "title": "Votre architecture cloud est en réalité un organigramme",
+    "id": "d2t1s1",
+    "startTime": "2026-10-02T10:15:00+02:00",
+    "endTime": "2026-10-02T11:00:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s2": {
+    "speakers": [
+  "Thierry Chantier"
+],
+    "title": "Le Terminal Contre-Attaque - TUI 2 le retour !",
+    "id": "d2t1s2",
+    "startTime": "2026-10-02T11:30:00+02:00",
+    "endTime": "2026-10-02T12:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s5": {
+    "speakers": [
+  "Pierre Raufast"
+],
+    "title": "Les cyberattaques dans les films de Science-Fiction",
+    "id": "d2t1s5",
+    "startTime": "2026-10-02T13:30:00+02:00",
+    "endTime": "2026-10-02T14:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s6": {
+    "speakers": [
+  "Kévin Beaugrand"
+],
+    "title": "Full Agentic ou rien - quand une équipe confie son legacy à une factory d’agents IA",
+    "id": "d2t1s6",
+    "startTime": "2026-10-02T14:30:00+02:00",
+    "endTime": "2026-10-02T15:15:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s7": {
+    "speakers": [
+  "Florian Cahais"
+],
+    "title": "Spring Modulith en vrai - REX d'une migration, arbitrages et limites",
+    "id": "d2t1s7",
+    "startTime": "2026-10-02T15:45:00+02:00",
+    "endTime": "2026-10-02T16:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t1s8": {
+    "speakers": [
+  "Benjamin Georgeault"
+],
+    "title": "Zero Trust - Pourquoi (et comment) chiffrer vos données avant de les envoyer au SGBD",
+    "id": "d2t1s8",
+    "startTime": "2026-10-02T16:45:00+02:00",
+    "endTime": "2026-10-02T17:30:00+02:00",
+    "trackTitle": "Auditorium"
+  }
+,
+  "d2t2s1": {
+    "speakers": [
+  "Alexandre Burgoni",
+  "Pierre Zemb"
+],
+    "title": "Houston, on a un problème avec ETCD",
+    "id": "d2t2s1",
+    "startTime": "2026-10-02T10:15:00+02:00",
+    "endTime": "2026-10-02T11:00:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s2": {
+    "speakers": [
+  "Nastasia Fouret"
+],
+    "title": "Modéliser pour un commun numérique - retour d'expérience sur l'Observatoire de l'ESS numérique",
+    "id": "d2t2s2",
+    "startTime": "2026-10-02T11:30:00+02:00",
+    "endTime": "2026-10-02T12:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s3": {
+    "speakers": [
+  "Veltin Dupont"
+],
+    "title": "Girouette ou boussole — lire ses métriques sans perdre le nord",
+    "id": "d2t2s3",
+    "startTime": "2026-10-02T12:30:00+02:00",
+    "endTime": "2026-10-02T12:45:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s4": {
+    "speakers": [
+  "Alicia Cheynoux",
+  "Ombeline Sotty"
+],
+    "title": "Refondre une expérience e-commerce grâce au Design Thinking et au Lean Startup",
+    "id": "d2t2s4",
+    "startTime": "2026-10-02T13:00:00+02:00",
+    "endTime": "2026-10-02T13:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s5": {
+    "speakers": [
+  "Marie Crappe"
+],
+    "title": "Oops, we did it again! Comment la GenAI nous fait répéter les erreurs du passé",
+    "id": "d2t2s5",
+    "startTime": "2026-10-02T13:30:00+02:00",
+    "endTime": "2026-10-02T14:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s6": {
+    "speakers": [
+  "Florian Leux"
+],
+    "title": "A l'abordage du score Lighthouse !",
+    "id": "d2t2s6",
+    "startTime": "2026-10-02T14:30:00+02:00",
+    "endTime": "2026-10-02T15:15:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s7": {
+    "speakers": [
+  "Martin Bombardelli"
+],
+    "title": "Quantique - entre réalités et discours commerciaux",
+    "id": "d2t2s7",
+    "startTime": "2026-10-02T15:45:00+02:00",
+    "endTime": "2026-10-02T16:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t2s8": {
+    "speakers": [
+  "Brice Miard",
+  "Iuliia Mazur"
+],
+    "title": "Quand la data prend la parole - du notebook incompris au service IA en production",
+    "id": "d2t2s8",
+    "startTime": "2026-10-02T16:45:00+02:00",
+    "endTime": "2026-10-02T17:30:00+02:00",
+    "trackTitle": "Showroom"
+  }
+,
+  "d2t3s1": {
+    "speakers": [
+  "Charles-Meldhine Madi Mnemoi"
+],
+    "title": "Archéologie logicielle - reconstruire un jeu sans son code source",
+    "id": "d2t3s1",
+    "startTime": "2026-10-02T10:15:00+02:00",
+    "endTime": "2026-10-02T11:00:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s2": {
+    "speakers": [
+  "Vincent Aubrun"
+],
+    "title": "Kafka pour les Paiements - De la Théorie à la Pratique – Résilience, Tests et Bonnes Pratiques",
+    "id": "d2t3s2",
+    "startTime": "2026-10-02T11:30:00+02:00",
+    "endTime": "2026-10-02T12:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s3": {
+    "speakers": [
+  "Alix Olphe-Galliard"
+],
+    "title": "Du chaos à la confiance - Dompter un legacy complexe, test après test",
+    "id": "d2t3s3",
+    "startTime": "2026-10-02T12:30:00+02:00",
+    "endTime": "2026-10-02T12:45:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s4": {
+    "speakers": [
+  "Romain Pouillard"
+],
+    "title": "Un capteur de distance pour donner la température",
+    "id": "d2t3s4",
+    "startTime": "2026-10-02T13:00:00+02:00",
+    "endTime": "2026-10-02T13:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s5": {
+    "speakers": [
+  "Xavier Nopre"
+],
+    "title": "🤖 Assistant IA pour le code - comment ça marche ? J'en ai codé un ! 😎",
+    "id": "d2t3s5",
+    "startTime": "2026-10-02T13:30:00+02:00",
+    "endTime": "2026-10-02T14:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s6": {
+    "speakers": [
+  "Lionel Heymans"
+],
+    "title": "Low tech appliqué à la high tech",
+    "id": "d2t3s6",
+    "startTime": "2026-10-02T14:30:00+02:00",
+    "endTime": "2026-10-02T15:15:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t3s7": {
+    "speakers": [
+  "Manuel Raynaud",
+  "Virgile Deville"
+],
+    "title": "Les formats office nuisent gravement à votre productivité",
+    "id": "d2t3s7",
+    "startTime": "2026-10-02T15:45:00+02:00",
+    "endTime": "2026-10-02T16:30:00+02:00",
+    "trackTitle": "FabLab"
+  }
+,
+  "d2t4s1": {
+    "speakers": [
+  "Antoine Sabot-Durand",
+  "Emmanuel Hugonnet",
+  "Yann Blazart"
+],
+    "title": "🚀 De Java à l'IA - Construisez Votre Premier Système d'Agents Intelligents !",
+    "id": "d2t4s1",
+    "startTime": "2026-10-02T10:15:00+02:00",
+    "endTime": "2026-10-02T12:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t4s5": {
+    "speakers": [
+  "Alexandre Touret"
+],
+    "title": "Maîtrisez vos déploiements avec OpenFeature et les Feature Flags",
+    "id": "d2t4s5",
+    "startTime": "2026-10-02T13:30:00+02:00",
+    "endTime": "2026-10-02T15:15:00+02:00",
+    "trackTitle": "Workshop"
+  }
+,
+  "d2t4s7": {
+    "speakers": [
+  "Keurcien Luu"
+],
+    "title": "Deepagents et Opensandbox - déployer des coding agents dans votre propre infrastructure",
+    "id": "d2t4s7",
+    "startTime": "2026-10-02T15:45:00+02:00",
+    "endTime": "2026-10-02T17:30:00+02:00",
+    "trackTitle": "Workshop"
+  }
+},
+"speakers": 
+{
+  "Adrien Gooris": {
+    "name": "Adrien Gooris",
+    "id": "Adrien Gooris"
+  }
+,
+  "Alexandre Burgoni": {
+    "name": "Alexandre Burgoni",
+    "id": "Alexandre Burgoni"
+  }
+,
+  "Alexandre Touret": {
+    "name": "Alexandre Touret",
+    "id": "Alexandre Touret"
+  }
+,
+  "Alicia Cheynoux": {
+    "name": "Alicia Cheynoux",
+    "id": "Alicia Cheynoux"
+  }
+,
+  "Alix Olphe-Galliard": {
+    "name": "Alix Olphe-Galliard",
+    "id": "Alix Olphe-Galliard"
+  }
+,
+  "Anthony Pena": {
+    "name": "Anthony Pena",
+    "id": "Anthony Pena"
+  }
+,
+  "Antoine Sabot-Durand": {
+    "name": "Antoine Sabot-Durand",
+    "id": "Antoine Sabot-Durand"
+  }
+,
+  "Arnaud Jean": {
+    "name": "Arnaud Jean",
+    "id": "Arnaud Jean"
+  }
+,
+  "Aurélie Vache": {
+    "name": "Aurélie Vache",
+    "id": "Aurélie Vache"
+  }
+,
+  "Benjamin Georgeault": {
+    "name": "Benjamin Georgeault",
+    "id": "Benjamin Georgeault"
+  }
+,
+  "Brice Miard": {
+    "name": "Brice Miard",
+    "id": "Brice Miard"
+  }
+,
+  "Charles-Meldhine Madi Mnemoi": {
+    "name": "Charles-Meldhine Madi Mnemoi",
+    "id": "Charles-Meldhine Madi Mnemoi"
+  }
+,
+  "Charles Sabourdin": {
+    "name": "Charles Sabourdin",
+    "id": "Charles Sabourdin"
+  }
+,
+  "Coenen Benjamin": {
+    "name": "Coenen Benjamin",
+    "id": "Coenen Benjamin"
+  }
+,
+  "Cynthia Treger": {
+    "name": "Cynthia Treger",
+    "id": "Cynthia Treger"
+  }
+,
+  "Damien Hackett": {
+    "name": "Damien Hackett",
+    "id": "Damien Hackett"
+  }
+,
+  "David Santiago": {
+    "name": "David Santiago",
+    "id": "David Santiago"
+  }
+,
+  "Delphin Aubin": {
+    "name": "Delphin Aubin",
+    "id": "Delphin Aubin"
+  }
+,
+  "Emmanuel Hugonnet": {
+    "name": "Emmanuel Hugonnet",
+    "id": "Emmanuel Hugonnet"
+  }
+,
+  "Florent Zara": {
+    "name": "Florent Zara",
+    "id": "Florent Zara"
+  }
+,
+  "Florian Cahais": {
+    "name": "Florian Cahais",
+    "id": "Florian Cahais"
+  }
+,
+  "Florian Leux": {
+    "name": "Florian Leux",
+    "id": "Florian Leux"
+  }
+,
+  "Guenaelle De Julis": {
+    "name": "Guenaelle De Julis",
+    "id": "Guenaelle De Julis"
+  }
+,
+  "Hélène Gebel": {
+    "name": "Hélène Gebel",
+    "id": "Hélène Gebel"
+  }
+,
+  "Horacio Gonzalez": {
+    "name": "Horacio Gonzalez",
+    "id": "Horacio Gonzalez"
+  }
+,
+  "Iuliia Mazur": {
+    "name": "Iuliia Mazur",
+    "id": "Iuliia Mazur"
+  }
+,
+  "Jean-Michel Doudoux": {
+    "name": "Jean-Michel Doudoux",
+    "id": "Jean-Michel Doudoux"
+  }
+,
+  "Jérôme Masson": {
+    "name": "Jérôme Masson",
+    "id": "Jérôme Masson"
+  }
+,
+  "Julien Briault": {
+    "name": "Julien Briault",
+    "id": "Julien Briault"
+  }
+,
+  "Keurcien Luu": {
+    "name": "Keurcien Luu",
+    "id": "Keurcien Luu"
+  }
+,
+  "Kévin Beaugrand": {
+    "name": "Kévin Beaugrand",
+    "id": "Kévin Beaugrand"
+  }
+,
+  "Laurent Picard": {
+    "name": "Laurent Picard",
+    "id": "Laurent Picard"
+  }
+,
+  "Lionel Heymans": {
+    "name": "Lionel Heymans",
+    "id": "Lionel Heymans"
+  }
+,
+  "Lucas Audart": {
+    "name": "Lucas Audart",
+    "id": "Lucas Audart"
+  }
+,
+  "Lucas Drago": {
+    "name": "Lucas Drago",
+    "id": "Lucas Drago"
+  }
+,
+  "Lucie Termignon": {
+    "name": "Lucie Termignon",
+    "id": "Lucie Termignon"
+  }
+,
+  "Manuel Raynaud": {
+    "name": "Manuel Raynaud",
+    "id": "Manuel Raynaud"
+  }
+,
+  "Marc Chevaldonné": {
+    "name": "Marc Chevaldonné",
+    "id": "Marc Chevaldonné"
+  }
+,
+  "Marie Crappe": {
+    "name": "Marie Crappe",
+    "id": "Marie Crappe"
+  }
+,
+  "Martin Bombardelli": {
+    "name": "Martin Bombardelli",
+    "id": "Martin Bombardelli"
+  }
+,
+  "Mathieu Mure": {
+    "name": "Mathieu Mure",
+    "id": "Mathieu Mure"
+  }
+,
+  "Mickael Alves": {
+    "name": "Mickael Alves",
+    "id": "Mickael Alves"
+  }
+,
+  "Mickael Faust": {
+    "name": "Mickael Faust",
+    "id": "Mickael Faust"
+  }
+,
+  "Nastasia Fouret": {
+    "name": "Nastasia Fouret",
+    "id": "Nastasia Fouret"
+  }
+,
+  "Nicolas Foussard": {
+    "name": "Nicolas Foussard",
+    "id": "Nicolas Foussard"
+  }
+,
+  "Nirina Rabeson": {
+    "name": "Nirina Rabeson",
+    "id": "Nirina Rabeson"
+  }
+,
+  "Olivier Poncet": {
+    "name": "Olivier Poncet",
+    "id": "Olivier Poncet"
+  }
+,
+  "Ombeline Sotty": {
+    "name": "Ombeline Sotty",
+    "id": "Ombeline Sotty"
+  }
+,
+  "Pierre Boissinot": {
+    "name": "Pierre Boissinot",
+    "id": "Pierre Boissinot"
+  }
+,
+  "Pierre Fervel": {
+    "name": "Pierre Fervel",
+    "id": "Pierre Fervel"
+  }
+,
+  "Pierre Raufast": {
+    "name": "Pierre Raufast",
+    "id": "Pierre Raufast"
+  }
+,
+  "Pierre Tachoire": {
+    "name": "Pierre Tachoire",
+    "id": "Pierre Tachoire"
+  }
+,
+  "Pierre Zemb": {
+    "name": "Pierre Zemb",
+    "id": "Pierre Zemb"
+  }
+,
+  "Romain Pouillard": {
+    "name": "Romain Pouillard",
+    "id": "Romain Pouillard"
+  }
+,
+  "Samuel Paccoud": {
+    "name": "Samuel Paccoud",
+    "id": "Samuel Paccoud"
+  }
+,
+  "Thierry Chantier": {
+    "name": "Thierry Chantier",
+    "id": "Thierry Chantier"
+  }
+,
+  "Thomas Jouve": {
+    "name": "Thomas Jouve",
+    "id": "Thomas Jouve"
+  }
+,
+  "Veltin Dupont": {
+    "name": "Veltin Dupont",
+    "id": "Veltin Dupont"
+  }
+,
+  "Vincent Aubrun": {
+    "name": "Vincent Aubrun",
+    "id": "Vincent Aubrun"
+  }
+,
+  "Virgile Deville": {
+    "name": "Virgile Deville",
+    "id": "Virgile Deville"
+  }
+,
+  "Virginie Pageaud": {
+    "name": "Virginie Pageaud",
+    "id": "Virginie Pageaud"
+  }
+,
+  "Volcamp team": {
+    "name": "Volcamp team",
+    "id": "Volcamp team"
+  }
+,
+  "Xavier Gorse": {
+    "name": "Xavier Gorse",
+    "id": "Xavier Gorse"
+  }
+,
+  "Xavier Nopre": {
+    "name": "Xavier Nopre",
+    "id": "Xavier Nopre"
+  }
+,
+  "Yann Blazart": {
+    "name": "Yann Blazart",
+    "id": "Yann Blazart"
+  }
+,
+  "Yann Gloriau": {
+    "name": "Yann Gloriau",
+    "id": "Yann Gloriau"
+  }
+,
+  "Yann-Thomas Le Moigne": {
+    "name": "Yann-Thomas Le Moigne",
+    "id": "Yann-Thomas Le Moigne"
+  }
+}
+}
