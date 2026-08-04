@@ -39,6 +39,9 @@ silver:
   - name: Sopra Steria
     url: https://www.soprasteria.fr/
     logo: soprasteria
+  - name: Red Hat
+    url: https://www.redhat.com/fr
+    logo: red_hat
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
