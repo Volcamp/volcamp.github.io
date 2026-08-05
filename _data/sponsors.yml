@@ -42,6 +42,9 @@ silver:
   - name: Red Hat
     url: https://www.redhat.com/fr
     logo: red_hat
+  - name: Atos
+    url: https://atos.net/fr/
+    logo: atos
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
