@@ -52,3 +52,6 @@ bronze:
   - name: abicom
     url: https://www.abicom.fr//
     logo: abicom
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
