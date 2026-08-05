@@ -42,6 +42,9 @@ silver:
   - name: Red Hat
     url: https://www.redhat.com/fr
     logo: red_hat
+  - name: Atos
+    url: https://atos.net/fr/
+    logo: atos
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
@@ -49,3 +52,6 @@ bronze:
   - name: abicom
     url: https://www.abicom.fr//
     logo: abicom
+  - name: Laboratoires Théa
+    url: https://www.laboratoires-thea.com/
+    logo: labo_thea
