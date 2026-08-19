@@ -45,6 +45,9 @@ silver:
   - name: Atos
     url: https://atos.net/fr/
     logo: atos
+  - name: Clever Cloud
+    url: https://www.clever-cloud.com/
+    logo: clever_cloud
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
@@ -55,3 +58,6 @@ bronze:
   - name: Laboratoires Théa
     url: https://www.laboratoires-thea.com/
     logo: labo_thea
+  - name: capgemini
+    url: https://www.capgemini.com/fr-fr/
+    logo: capgemini
