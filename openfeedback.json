@@ -35,9 +35,9 @@
 ,
   "d1t1s2": {
     "speakers": [
-  "Aurélie Vache"
+  "Rafik Ferroukh"
 ],
-    "title": "J'ai packagé mon application en image Docker, et maintenant ?",
+    "title": "Pendant que je dors, mon agent livre. Retour sur 80+ features en 5 semaines",
     "id": "d1t1s2",
     "startTime": "2026-10-01T11:30:00+02:00",
     "endTime": "2026-10-01T12:15:00+02:00",
@@ -529,9 +529,9 @@
 ,
   "d2t3s2": {
     "speakers": [
-  "Vincent Aubrun"
+  "Nicolas Raymond"
 ],
-    "title": "Kafka pour les Paiements - De la Théorie à la Pratique – Résilience, Tests et Bonnes Pratiques",
+    "title": "OpenTelemetry - La fondation indispensable pour vos architectures IA",
     "id": "d2t3s2",
     "startTime": "2026-10-02T11:30:00+02:00",
     "endTime": "2026-10-02T12:15:00+02:00",
@@ -669,11 +669,6 @@
   "Arnaud Jean": {
     "name": "Arnaud Jean",
     "id": "Arnaud Jean"
-  }
-,
-  "Aurélie Vache": {
-    "name": "Aurélie Vache",
-    "id": "Aurélie Vache"
   }
 ,
   "Benjamin Georgeault": {
@@ -856,6 +851,11 @@
     "id": "Nicolas Foussard"
   }
 ,
+  "Nicolas Raymond": {
+    "name": "Nicolas Raymond",
+    "id": "Nicolas Raymond"
+  }
+,
   "Nirina Rabeson": {
     "name": "Nirina Rabeson",
     "id": "Nirina Rabeson"
@@ -896,6 +896,11 @@
     "id": "Pierre Zemb"
   }
 ,
+  "Rafik Ferroukh": {
+    "name": "Rafik Ferroukh",
+    "id": "Rafik Ferroukh"
+  }
+,
   "Romain Pouillard": {
     "name": "Romain Pouillard",
     "id": "Romain Pouillard"
@@ -919,11 +924,6 @@
   "Veltin Dupont": {
     "name": "Veltin Dupont",
     "id": "Veltin Dupont"
-  }
-,
-  "Vincent Aubrun": {
-    "name": "Vincent Aubrun",
-    "id": "Vincent Aubrun"
   }
 ,
   "Virgile Deville": {
