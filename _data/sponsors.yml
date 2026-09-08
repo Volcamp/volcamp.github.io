@@ -48,6 +48,9 @@ silver:
   - name: Clever Cloud
     url: https://www.clever-cloud.com/
     logo: clever_cloud
+  - name: Plumber
+    url: https://getplumber.io/
+    logo: plumber
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
