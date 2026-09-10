@@ -8,6 +8,9 @@ gold:
   - name: Accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
