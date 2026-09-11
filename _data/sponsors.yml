@@ -8,6 +8,9 @@ gold:
   - name: Accenture
     url: https://www.accenture.com/fr-fr
     logo: accenture
+  - name: MongoDB
+    url: https://www.mongodb.com/fr-fr
+    logo: mongodb
 silver:
   - name: Agaetis
     url: https://www.agaetis.fr/
@@ -51,6 +54,9 @@ silver:
   - name: Plumber
     url: https://getplumber.io/
     logo: plumber
+  - name: Kyndryl
+    url: https://www.kyndryl.com/fr/fr
+    logo: kyndryl
 bronze:
   - name: Datalyo
     url: https://www.datalyo.com/
