@@ -1,7 +1,7 @@
 ---
   title: Ombeline Sotty
   twitter: none
-  photo: none
+  photo: feminin.png
   linkedin: none
   github: none
   keynotes: false

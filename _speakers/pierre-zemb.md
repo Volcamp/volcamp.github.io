@@ -1,7 +1,7 @@
 ---
   title: Pierre Zemb
   twitter: PierreZ
-  photo: none
+  photo: masculin.png
   linkedin: none
   github: PierreZ
   keynotes: false
