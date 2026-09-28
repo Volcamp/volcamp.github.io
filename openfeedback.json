@@ -103,10 +103,9 @@
 ,
   "d1t2s1": {
     "speakers": [
-  "Cynthia Treger",
-  "David Santiago"
+  "Coenen Benjamin"
 ],
-    "title": "Tic-Tac... 💣! Maîtrisez le temps et NTP avant qu'il ne soit trop tard",
+    "title": "Et si on ouvrait le capot de PostgreSQL ?",
     "id": "d1t2s1",
     "startTime": "2026-10-01T10:15:00+02:00",
     "endTime": "2026-10-01T11:00:00+02:00",
@@ -202,17 +201,6 @@
     "startTime": "2026-10-01T17:45:00+02:00",
     "endTime": "2026-10-01T18:30:00+02:00",
     "trackTitle": "Showroom"
-  }
-,
-  "d1t3s1": {
-    "speakers": [
-  "Coenen Benjamin"
-],
-    "title": "Et si on ouvrait le capot de PostgreSQL ?",
-    "id": "d1t3s1",
-    "startTime": "2026-10-01T10:15:00+02:00",
-    "endTime": "2026-10-01T11:00:00+02:00",
-    "trackTitle": "FabLab"
   }
 ,
   "d1t3s2": {
@@ -696,19 +684,9 @@
     "id": "Coenen Benjamin"
   }
 ,
-  "Cynthia Treger": {
-    "name": "Cynthia Treger",
-    "id": "Cynthia Treger"
-  }
-,
   "Damien Hackett": {
     "name": "Damien Hackett",
     "id": "Damien Hackett"
-  }
-,
-  "David Santiago": {
-    "name": "David Santiago",
-    "id": "David Santiago"
   }
 ,
   "Delphin Aubin": {
