@@ -170,9 +170,9 @@
 ,
   "d1t2s7": {
     "speakers": [
-  "Mickael Faust"
+  "Nicolas Raymond"
 ],
-    "title": "IA souveraine - de la théorie DSI à la réalité du terrain avec Mistral",
+    "title": "OpenTelemetry - La fondation indispensable pour vos architectures IA",
     "id": "d1t2s7",
     "startTime": "2026-10-01T15:45:00+02:00",
     "endTime": "2026-10-01T16:30:00+02:00",
@@ -201,6 +201,17 @@
     "startTime": "2026-10-01T17:45:00+02:00",
     "endTime": "2026-10-01T18:30:00+02:00",
     "trackTitle": "Showroom"
+  }
+,
+  "d1t3s1": {
+    "speakers": [
+  null
+],
+    "title": "",
+    "id": "d1t3s1",
+    "startTime": "2026-10-01T10:15:00+02:00",
+    "endTime": "2026-10-01T11:00:00+02:00",
+    "trackTitle": "FabLab"
   }
 ,
   "d1t3s2": {
@@ -271,9 +282,9 @@
 ,
   "d1t3s8": {
     "speakers": [
-  "Nicolas Raymond"
+  null
 ],
-    "title": "OpenTelemetry - La fondation indispensable pour vos architectures IA",
+    "title": "",
     "id": "d1t3s8",
     "startTime": "2026-10-01T16:45:00+02:00",
     "endTime": "2026-10-01T17:30:00+02:00",
@@ -817,11 +828,6 @@
   "Mickael Alves": {
     "name": "Mickael Alves",
     "id": "Mickael Alves"
-  }
-,
-  "Mickael Faust": {
-    "name": "Mickael Faust",
-    "id": "Mickael Faust"
   }
 ,
   "Nastasia Fouret": {
