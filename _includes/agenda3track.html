@@ -82,7 +82,8 @@
                             {% include insert_calendar_cel.html %}
                         </td>
                         <td>
-                            
+                            {% assign talk = site.talks | where: "name", "d1t3s1" | first %}
+                            {% include insert_calendar_cel.html %}
                         </td>
                         <td rowspan="3">
                             {% assign talk = site.talks | where: "name", "d1t4s1" | first %}
